@@ -4,6 +4,8 @@ A comprehensive geo-location JSON dataset covering countries, states, cities, cu
 
 [![Built with <3 in Dubai](https://img.shields.io/badge/Built_with_❤️_in-Dubai-red)](https://finmetrik.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Website](https://img.shields.io/badge/Website-geo--locations.com-blue)](https://geo-locations.com)
+[![CDN Access](https://img.shields.io/badge/CDN-Available-brightgreen)](https://cdn.geo-locations.com)
 
 ## Overview
 
@@ -15,14 +17,17 @@ Geo-Locations is a powerful and easy-to-use library that provides access to worl
 - 🏙️ **States & Cities** - Detailed state and city information for each country
 - 💰 **Currencies** - Comprehensive currency data including codes, symbols, decimal digits
 - 🏁 **Flags** - Flag information including emoji, SVG/PNG URLs, colors, and CSS classes
+- 🌐 **CDN Access** - Direct access to all data via CDN without downloading
 
 ## Installation
+
+### NPM Package
 
 ```bash
 npm install geo-locations
 ```
 
-Or clone the repository:
+### Clone Repository
 
 ```bash
 git clone https://github.com/finmetrik/geo-locations.git
@@ -30,9 +35,30 @@ cd geo-locations
 npm install
 ```
 
+### Direct CDN Access
+
+All data is also available directly from our CDN without installation:
+
+```
+https://cdn.geo-locations.com/countries
+https://cdn.geo-locations.com/currencies
+https://cdn.geo-locations.com/flags
+```
+
+Or visit [geo-locations.com](https://geo-locations.com) for full API documentation.
+
 ## Usage
 
-### Basic Import
+### Multiple Language Support
+
+Geo-Locations supports various programming languages and frameworks. See our examples directory for detailed implementations:
+
+- [JavaScript/Node.js](examples/basic-usage.js)
+- [Browser JavaScript](examples/browser-usage.html)
+- [Laravel/PHP](examples/laravel-example.php)
+- [Python](examples/python-example.py)
+
+### Basic Import for Node.js
 
 ```javascript
 const geoLocations = require('geo-locations');
@@ -211,6 +237,8 @@ const indiaInfo = geoLocations.getCompleteCountryData('IN');
 - **Comprehensive** - Complete worldwide geographical data in one package
 - **Lightweight** - Efficient JSON format keeps the footprint small
 - **Well-structured** - Consistent and intuitive data organization
+- **CDN Delivery** - Direct access to data through CDN without downloading the package
+- **Multiple Languages** - Support for JavaScript, PHP/Laravel, Python, and more
 
 ## Use Cases
 
@@ -223,6 +251,44 @@ const indiaInfo = geoLocations.getCompleteCountryData('IN');
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## CDN Access
+
+All geo-locations data is available via our CDN. You can access it directly using these endpoints:
+
+```
+# All countries list
+https://cdn.geo-locations.com/countries
+
+# Specific country by code
+https://cdn.geo-locations.com/countries/US
+
+# All currencies
+https://cdn.geo-locations.com/currencies
+
+# Currency by country code
+https://cdn.geo-locations.com/currencies/country/US
+
+# Currency by currency code
+https://cdn.geo-locations.com/currencies/USD
+
+# All flags
+https://cdn.geo-locations.com/flags
+
+# Flag by country code
+https://cdn.geo-locations.com/flags/JP
+
+# States by country code
+https://cdn.geo-locations.com/locations/US/states
+
+# Cities by state
+https://cdn.geo-locations.com/locations/US/states/CA/cities
+
+# Complete country data
+https://cdn.geo-locations.com/complete/IN
+```
+
+The same endpoints are available on our API server at `https://geo-locations.com/api/`.
 
 ## About
 
