@@ -1,0 +1,12 @@
+{"country":{"id":27,"code":"BM","name":"Bermuda","phone_code":"+1"},"states":{
+"DE":[1,"Devonshire",{"1":"Devonshire","2":"Flatts Village","3":"North Shore Village","99999":"Other"}],
+"HA":[2,"Hamilton City",{"4":"Hamilton","99999":"Other"}],
+"HP":[3,"Hamilton Parish",{"5":"Bailey's Bay","6":"Crawl","7":"Shelly Bay","99999":"Other"}],
+"PA":[4,"Paget",{"8":"Paget","9":"Elbow Beach","10":"Grape Bay","99999":"Other"}],
+"PE":[5,"Pembroke",{"11":"Pembroke","12":"Spanish Point","13":"Admiralty House Park","99999":"Other"}],
+"SA":[6,"Sandys",{"14":"Somerset Village","15":"Dockyard","16":"Watford Bridge","99999":"Other"}],
+"SM":[7,"Smith's",{"17":"Smith's Parish","18":"Devil's Hole","19":"John Smith's Bay","99999":"Other"}],
+"SO":[8,"Southampton",{"20":"Southampton","21":"Horseshoe Bay","22":"Church Bay","99999":"Other"}],
+"SG":[9,"St. George's",{"23":"St. George's","24":"St. David's Island","25":"Tucker's Town","26":"Gates Fort Park","99999":"Other"}],
+"WA":[10,"Warwick",{"27":"Warwick","28":"Jobson's Cove","29":"Warwick Long Bay","99999":"Other"}]
+}}

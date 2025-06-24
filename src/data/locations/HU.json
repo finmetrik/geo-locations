@@ -1,0 +1,22 @@
+{"country":{"id":100,"code":"HU","name":"Hungary","phone_code":"+36"},"states":{
+"BP":[1,"Budapest",{"1":"Budapest I","2":"Budapest II","3":"Budapest III","4":"Budapest IV","5":"Budapest V","6":"Budapest VI","7":"Budapest VII","8":"Budapest VIII","9":"Budapest IX","10":"Budapest X","11":"Budapest XI","12":"Budapest XII","13":"Budapest XIII","14":"Budapest XIV","15":"Budapest XV","16":"Budapest XVI","17":"Budapest XVII","18":"Budapest XVIII","19":"Budapest XIX","20":"Budapest XX","21":"Budapest XXI","22":"Budapest XXII","23":"Budapest XXIII","99999":"Other"}],
+"BK":[2,"Bács-Kiskun",{"24":"Kecskemét","25":"Baja","26":"Kalocsa","27":"Kiskunfélegyháza","28":"Kiskunhalas","29":"Kiskőrös","99999":"Other"}],
+"BA":[3,"Baranya",{"30":"Pécs","31":"Koḿo","32":"Mohács","33":"Szigetvár","34":"Sásd","35":"Siklós","99999":"Other"}],
+"BE":[4,"Békés",{"36":"Békéscsaba","37":"Gyula","38":"Orosháza","39":"Szarvas","40":"Békés","41":"Mezőkovácsháza","99999":"Other"}],
+"BZ":[5,"Borsod-Abaúj-Zemplén",{"42":"Miskolc","43":"Ózd","44":"Kazincbarcika","45":"Sátoraljaúhely","46":"Tiszaujváros","47":"Edeleny","48":"Sárospatak","49":"Tokaj","50":"Szerencs","51":"Encs","52":"Mezőkövesd","99999":"Other"}],
+"CS":[6,"Csongrád",{"53":"Szeged","54":"Hódmezővásárhely","55":"Makó","56":"Szentes","57":"Csongrád","58":"Kistelek","99999":"Other"}],
+"FE":[7,"Fejér",{"59":"Székesfehérvár","60":"Dunaújváros","61":"Sárbogárd","62":"Mór","63":"Bicske","64":"Enying","65":"Gárdony","99999":"Other"}],
+"GS":[8,"Győr-Moson-Sopron",{"66":"Győr","67":"Sopron","68":"Mosonmagyaróvár","69":"Kapuvár","70":"Csorna","71":"Tét","99999":"Other"}],
+"HB":[9,"Hajdú-Bihar",{"72":"Debrecen","73":"Hajdúböszörmény","74":"Hajdúszo-boszló","75":"Balmazujváros","76":"Berettyóújfalu","77":"Hajdúnanás","78":"Püspökladány","79":"Hajdúhadház","99999":"Other"}],
+"HE":[10,"Heves",{"80":"Eger","81":"Gyöngyös","82":"Hatvan","83":"Heves","84":"Füzesabony","85":"Bélapátfalva","99999":"Other"}],
+"JN":[11,"Jász-Nagykun-Szolnok",{"86":"Szolnok","87":"Jászberény","88":"Karcag","89":"Törökszentmiklós","90":"Mezőtúr","91":"Tiszafüred","92":"Túrkeve","93":"Kisujszállás","99999":"Other"}],
+"KE":[12,"Komárom-Esztergom",{"94":"Tatabánya","95":"Esztergom","96":"Komárom","97":"Oroszlány","98":"Dorog","99":"Kisbeer","99999":"Other"}],
+"NO":[13,"Nógrád",{"100":"Salgótarján","101":"Balassagyarmat","102":"Bátonyterenye","103":"Pásztó","104":"Rétság","105":"Szécsény","99999":"Other"}],
+"PE":[14,"Pest",{"106":"Érd","107":"Vac","108":"Gödöllő","109":"Dunakeszi","110":"Szigetszentmiklós","111":"Bátácske","112":"Budaors","113":"Szentendre","114":"Cegléd","115":"Nagykoross","116":"Pás","117":"Dabas","118":"Monor","119":"Nagykáta","99999":"Other"}],
+"SO":[15,"Somogy",{"120":"Kaposvár","121":"Siotok","122":"Marcali","123":"Nagyatád","124":"Barcss","125":"Fonyód","126":"Tab","99999":"Other"}],
+"SZ":[16,"Szabolcs-Szatmár-Bereg",{"127":"Nyíregyháza","128":"Mátészalka","129":"Kivárda","130":"Nyírbátor","131":"Vásárosnamény","132":"Tiszavasvari","133":"Fehérgyarmat","134":"Nagyecsed","99999":"Other"}],
+"TO":[17,"Tolna",{"135":"Szekszárd","136":"Paks","137":"Dombóvár","138":"Bonyáad","139":"Tolna","140":"Tamási","99999":"Other"}],
+"VA":[18,"Vas",{"141":"Szombathely","142":"Sárvár","143":"Körmend","144":"Celldömölk","145":"Kőszeg","146":"Szentgotthárd","99999":"Other"}],
+"VE":[19,"Veszprém",{"147":"Veszprém","148":"Ajka","149":"Pápa","150":"Várpalota","151":"Balatonfured","152":"Tapolca","153":"Zirc","99999":"Other"}],
+"ZA":[20,"Zala",{"154":"Zalaegerszeg","155":"Nagykanizsa","156":"Keszthely","157":"Lenti","158":"Zalaszentgrót","159":"Letenye","99999":"Other"}]
+}}

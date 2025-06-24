@@ -1,0 +1,10 @@
+{"country":{"id":13,"code":"AU","name":"Australia","phone_code":"+61"},"states":{
+"ACT":[1,"Australian Capital Territory",{"1":"Canberra","2":"Queanbeyan","3":"Gungahlin","4":"Tuggeranong","5":"Belconnen","6":"Woden Valley","7":"Weston Creek","8":"Molonglo Valley","99999":"Other"}],
+"NSW":[2,"New South Wales",{"9":"Sydney","10":"Newcastle","11":"Central Coast","12":"Wollongong","13":"Maitland","14":"Tweed Heads","15":"Albury","16":"Port Macquarie","17":"Wagga Wagga","18":"Coffs Harbour","19":"Tamworth","20":"Orange","21":"Dubbo","22":"Broken Hill","23":"Lismore","24":"Nowra","99999":"Other"}],
+"NT":[3,"Northern Territory",{"25":"Darwin","26":"Alice Springs","27":"Palmerston","28":"Katherine","29":"Tennant Creek","30":"Nhulunbuy","31":"Jabiru","99999":"Other"}],
+"QLD":[4,"Queensland",{"32":"Brisbane","33":"Gold Coast","34":"Sunshine Coast","35":"Townsville","36":"Cairns","37":"Toowoomba","38":"Mackay","39":"Rockhampton","40":"Hervey Bay","41":"Bundaberg","42":"Gladstone","43":"Maryborough","44":"Mount Isa","45":"Gympie","99999":"Other"}],
+"SA":[5,"South Australia",{"46":"Adelaide","47":"Mount Gambier","48":"Whyalla","49":"Murray Bridge","50":"Port Lincoln","51":"Port Pirie","52":"Port Augusta","53":"Victor Harbor","99999":"Other"}],
+"TAS":[6,"Tasmania",{"54":"Hobart","55":"Launceston","56":"Devonport","57":"Burnie","58":"Kingston","59":"Ulverstone","60":"Bridgewater","99999":"Other"}],
+"VIC":[7,"Victoria",{"61":"Melbourne","62":"Geelong","63":"Ballarat","64":"Bendigo","65":"Shepparton","66":"Mildura","67":"Warrnambool","68":"Traralgon","69":"Wangaratta","70":"Horsham","99999":"Other"}],
+"WA":[8,"Western Australia",{"71":"Perth","72":"Mandurah","73":"Bunbury","74":"Rockingham","75":"Albany","76":"Kalgoorlie","77":"Geraldton","78":"Busselton","79":"Fremantle","80":"Armadale","81":"Joondalup","99999":"Other"}]
+}}

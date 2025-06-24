@@ -1,0 +1,14 @@
+{"country":{"id":42,"code":"CG","name":"Republic of the Congo","phone_code":"+242"},"states":{
+"BR":[1,"Brazzaville",{"1":"Brazzaville","2":"Makélékélé","3":"Bacongo","4":"Poto-Poto","5":"Moungali","6":"Ouenzé","7":"Talangaï","8":"Mfilou","9":"Madibou","99999":"Other"}],
+"PO":[2,"Pointe-Noire",{"10":"Pointe-Noire","11":"Tié-Tié","12":"Lumumba","13":"Mvoumvou","14":"Mongo-Mpoukou","15":"Ngoyo","99999":"Other"}],
+"BO":[3,"Bouenza",{"16":"Nkayi","17":"Madingou","18":"Loudima","19":"Mouyondzi","20":"Boko-Songho","99999":"Other"}],
+"CU":[4,"Cuvette",{"21":"Owando","22":"Makoua","23":"Boundji","24":"Okoyo","99999":"Other"}],
+"CO":[5,"Cuvette-Ouest",{"25":"Ewo","26":"Kellé","27":"Mbomo","28":"Okoyo","99999":"Other"}],
+"KO":[6,"Kouilou",{"29":"Hinda","30":"Mvouti","31":"Madingo-Kayes","32":"Nzambi","99999":"Other"}],
+"LE":[7,"Lékoumou",{"33":"Sibiti","34":"Komono","35":"Mayéyé","36":"Bambama","99999":"Other"}],
+"LI":[8,"Likouala",{"37":"Impfondo","38":"Epéna","39":"Dongou","40":"Bétou","99999":"Other"}],
+"NI":[9,"Niari",{"41":"Dolisie","42":"Kimongo","43":"Mossendjo","44":"Divénié","45":"Kibangou","99999":"Other"}],
+"PL":[10,"Plateaux",{"46":"Djambala","47":"Gamboma","48":"Lékana","49":"Ollombo","99999":"Other"}],
+"PO2":[11,"Pool",{"50":"Kinkala","51":"Boko","52":"Kindamba","53":"Mindouli","54":"Ngabé","99999":"Other"}],
+"SA":[12,"Sangha",{"55":"Ouésso","56":"Souanké","57":"Sembé","58":"Mokéko","99999":"Other"}]
+}}

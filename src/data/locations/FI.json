@@ -1,0 +1,21 @@
+{"country":{"id":70,"code":"FI","name":"Finland","phone_code":"+358"},"states":{
+"LA":[1,"Lapland",{"1":"Rovaniemi","2":"Tornio","3":"Kemi","4":"Kemijärvi","5":"Sodankylä","6":"Inari","7":"Kittilä","8":"Ivalo","9":"Ylitornio","99999":"Other"}],
+"NF":[2,"North Ostrobothnia",{"10":"Oulu","11":"Raahe","12":"Ylivieska","13":"Kuusamo","14":"Nivala","15":"Haapajärvi","16":"Oulainen","17":"Kempele","18":"Ii","99999":"Other"}],
+"KA":[3,"Kainuu",{"19":"Kajaani","20":"Kuhmo","21":"Sotkamo","22":"Suomussalmi","23":"Puolanka","99999":"Other"}],
+"NK":[4,"North Karelia",{"24":"Joensuu","25":"Lieksa","26":"Nurmes","27":"Kitee","28":"Outokumpu","29":"Ilomantsi","99999":"Other"}],
+"NS":[5,"North Savo",{"30":"Kuopio","31":"Iisalmi","32":"Varkaus","33":"Siilinjärvi","34":"Suonenjoki","35":"Leppävirta","36":"Kiuruvesi","99999":"Other"}],
+"SS":[6,"South Savo",{"37":"Mikkeli","38":"Savonlinna","39":"Pieksämäki","40":"Juva","41":"Mäntyharju","42":"Kangasniemi","99999":"Other"}],
+"SK":[7,"South Karelia",{"43":"Lappeenranta","44":"Imatra","45":"Kotka","46":"Kouvola","47":"Hamina","48":"Rautjärvi","49":"Luumäki","99999":"Other"}],
+"SO":[8,"South Ostrobothnia",{"50":"Seinäjoki","51":"Kauhava","52":"Lapua","53":"Kurikka","54":"Ilmajoki","55":"Alajärvi","56":"Ähtäri","99999":"Other"}],
+"OS":[9,"Ostrobothnia",{"57":"Vaasa","58":"Kokkola","59":"Jakobstad","60":"Nykarleby","61":"Korsholm","62":"Vörå","63":"Pedersöre","99999":"Other"}],
+"CF":[10,"Central Finland",{"64":"Jyväskylä","65":"Jämsä","66":"Äänekoski","67":"Keuruu","68":"Saarijärvi","69":"Viitasaari","70":"Muurame","99999":"Other"}],
+"CO":[11,"Central Ostrobothnia",{"71":"Kokkola","72":"Kannus","73":"Kaustinen","74":"Veteli","75":"Perho","99999":"Other"}],
+"PI":[12,"Pirkanmaa",{"76":"Tampere","77":"Nokia","78":"Ylöjärvi","79":"Kangasala","80":"Valkeakoski","81":"Lempäälä","82":"Pirkkala","83":"Sastamala","84":"Akaa","85":"Orivesi","99999":"Other"}],
+"SA":[13,"Satakunta",{"86":"Pori","87":"Rauma","88":"Ulvila","89":"Kankaanpää","90":"Huittinen","91":"Eura","92":"Kokemäki","93":"Nakkila","99999":"Other"}],
+"UU":[14,"Uusimaa",{"94":"Helsinki","95":"Espoo","96":"Vantaa","97":"Hyvinkää","98":"Porvoo","99":"Järvenpää","100":"Lohja","101":"Kerava","102":"Kirkkonummi","103":"Tuusula","104":"Nurmijärvi","105":"Sipoo","106":"Vihti","107":"Mäntsälä","99999":"Other"}],
+"KH":[15,"Kanta-Häme",{"108":"Hämeenlinna","109":"Riihimäki","110":"Forssa","111":"Janakkala","112":"Hattula","99999":"Other"}],
+"PH":[16,"Päijät-Häme",{"113":"Lahti","114":"Heinola","115":"Hollola","116":"Orimattila","117":"Nastola","118":"Asikkala","99999":"Other"}],
+"KY":[17,"Kymenlaakso",{"119":"Kotka","120":"Kouvola","121":"Hamina","122":"Iitti","123":"Pyhtää","99999":"Other"}],
+"SW":[18,"Southwest Finland",{"124":"Turku","125":"Salo","126":"Kaarina","127":"Raisio","128":"Loimaa","129":"Uusikaupunki","130":"Naantali","131":"Lieto","132":"Paimio","99999":"Other"}],
+"AL":[19,"Åland",{"133":"Mariehamn","134":"Jomala","135":"Finström","136":"Lemland","137":"Saltvik","138":"Hammarland","139":"Sund","140":"Eckerö","141":"Geta","142":"Vårdö","143":"Brändö","144":"Lumparland","145":"Kumlinge","146":"Kökar","147":"Sottunga","148":"Föglö","99999":"Other"}]
+}}

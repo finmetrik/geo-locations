@@ -1,0 +1,6 @@
+{"country":{"id":203,"code":"SL","name":"Sierra Leone","phone_code":"+232"},"states":{
+"E":[1,"Eastern Province",{"1":"Kenema","2":"Kailahun","3":"Kono","4":"Koinadugu","5":"Bombali","6":"Tonkolili","7":"Kambia","8":"Port Loko","9":"Bo","10":"Bonthe","11":"Moyamba","12":"Pujehun","13":"Western Area","99999":"Other"}],
+"N":[2,"Northern Province",{"14":"Makeni","15":"Kabala","16":"Kamakwie","17":"Kambia","18":"Port Loko","19":"Lunsar","20":"Magburaka","21":"Mange","22":"Rokupr","23":"Kamakwie","24":"Kambia Town","99999":"Other"}],
+"S":[3,"Southern Province",{"25":"Bo","26":"Bonthe","27":"Moyamba","28":"Pujehun","29":"Mattru Jong","30":"Zimmi","31":"Sulima","32":"Gbangbatok","33":"Bomi","34":"Mano","35":"Kpetewoma","99999":"Other"}],
+"W":[4,"Western Area",{"36":"Freetown","37":"Waterloo","38":"Hastings","39":"Wellington","40":"Kissy","41":"Murray Town","42":"Leicester","43":"Regent","44":"Kent","45":"York","46":"Tokeh","99999":"Other"}]
+}}

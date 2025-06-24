@@ -1,0 +1,12 @@
+{"country":{"id":207,"code":"SR","name":"Suriname","phone_code":"+597"},"states":{
+"PA":[1,"Paramaribo",{"1":"Paramaribo","2":"Lelydorp","3":"Wanica","4":"Blauwgrond","5":"Flora","6":"Houttuin","7":"Koewarasan","8":"Kwatta","9":"Latour","10":"Leiding","11":"Munder","12":"Rainville","13":"Reeberg","14":"Saramacca","15":"Uitkijk","16":"Welgelegen","99999":"Other"}],
+"WA":[2,"Wanica",{"17":"Lelydorp","18":"De Nieuwe Grond","19":"Domburg","20":"Koewarasan","21":"Kwatta","22":"Saramacca","23":"Totness","24":"Uitkijk","25":"Welgelegen","26":"Houttuin","27":"Blauwgrond","28":"Flora","99999":"Other"}],
+"NI":[3,"Nickerie",{"29":"Nieuw Nickerie","30":"Wageningen","31":"Coronie","32":"Totness","33":"Friendship","34":"Groot Henar","35":"Boskamp","36":"Cupido","37":"Alliance","38":"Washoda","39":"Sans Souci","40":"Johanna Maria","99999":"Other"}],
+"CR":[4,"Coronie",{"41":"Totness","42":"Friendship","43":"Johanna Maria","44":"Sans Souci","45":"Cupido","46":"Alliance","47":"Burnside","48":"Jenny","49":"Washoda","50":"Broer's Lust","99999":"Other"}],
+"SA":[5,"Saramacca",{"51":"Groningen","52":"Uitkijk","53":"Boskamp","54":"Kampong Baroe","55":"Tijgerkreek","56":"De Hoop","57":"Katwijk","58":"Klein Tijgerkreek","59":"Groot Saramacca","60":"Welgedacht","99999":"Other"}],
+"PM":[6,"Para",{"61":"Onverwacht","62":"Zanderij","63":"De Para","64":"Berg en Dal","65":"Jodensavanne","66":"Charlesburg","67":"Berlijn","68":"Carolina","69":"Kamp 52","70":"Republiek","99999":"Other"}],
+"MA":[7,"Marowijne",{"71":"Albina","72":"Moengo","73":"Wanhatti","74":"Galibi","75":"Bigiston","76":"Langamankondre","77":"Marijkedorp","78":"Patamacca","79":"Benzdorp","80":"Cottica","99999":"Other"}],
+"BR":[8,"Brokopondo",{"81":"Brokopondo","82":"Brownsweg","83":"Klaaskreek","84":"Atjoni","85":"Pokigron","86":"Nieuw Aurora","87":"Berg en Dal","88":"Dam","89":"Afobaka","90":"Sara Creek","99999":"Other"}],
+"CO":[9,"Commewijne",{"91":"Nieuw Amsterdam","92":"Mariënburg","93":"Tamanredjo","94":"Bakkie","95":"Alliance","96":"Alkmaar","97":"Rust en Werk","98":"Jenny","99":"Peperpot","100":"Margaretha","99999":"Other"}],
+"SI":[10,"Sipaliwini",{"101":"Apoera","102":"Kwamalasamutu","103":"Palumeu","104":"Tëpu","105":"Triplet","106":"Boven-Coesewijne","107":"Grankreek","108":"Kabalebo","109":"Coeroeni","110":"Sipaliwini","111":"Tapanahony","112":"Boven-Saramacca","113":"Boven-Suriname","114":"Kabalebo","115":"Coeroeni","116":"Lucie","117":"Nassau","118":"Raleigh","119":"Section","120":"Tjongalangapassi","99999":"Other"}]
+}}

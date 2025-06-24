@@ -1,0 +1,6 @@
+{"country":{"id":23,"code":"BH","name":"Bahrain","phone_code":"+973"},"states":{
+"CA":[1,"Capital",{"1":"Manama","2":"Juffair","3":"Seef","4":"Sanabis","5":"Jidhafs","6":"Daih","99999":"Other"}],
+"MU":[2,"Muharraq",{"7":"Muharraq","8":"Arad","9":"Busaiteen","10":"Hidd","11":"Galali","12":"Amwaj Islands","99999":"Other"}],
+"NO":[3,"Northern",{"13":"Budaiya","14":"Diraz","15":"Saar","16":"Janabiyah","17":"Markh","18":"Duraz","19":"Barbar","20":"A'ali","99999":"Other"}],
+"SO":[4,"Southern",{"21":"Riffa","22":"Isa Town","23":"Hamad Town","24":"Zallaq","25":"Sakhir","26":"Awali","27":"Jau","28":"Askar","99999":"Other"}]
+}}

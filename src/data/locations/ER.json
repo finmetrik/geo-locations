@@ -1,0 +1,9 @@
+{"country":{"id":67,"code":"ER","name":"Eritrea","phone_code":"+291"},"states":{
+"CE":[1,"Central",{"1":"Asmara","2":"Mendefera","3":"Debarwa","4":"Adi Keyh","5":"Adi Quala","6":"Dekemhare","7":"Segeneiti","99999":"Other"}],
+"AN":[2,"Anseba",{"8":"Keren","9":"Habero","10":"Hagaz","11":"Halhal","12":"Asmat","13":"Elabered","99999":"Other"}],
+"DK":[3,"Debub",{"14":"Mendefera","15":"Adi Keyh","16":"Adi Quala","17":"Areza","18":"Dekemhare","19":"Mai-Mne","20":"Segeneiti","21":"Senafe","22":"Tserona","99999":"Other"}],
+"GB":[4,"Gash-Barka",{"23":"Barentu","24":"Agordat","25":"Teseney","26":"Goluj","27":"Logo Anseba","28":"Mensura","29":"Mogolo","30":"Shambuko","31":"Forto","32":"Gogne","33":"Haykota","34":"La'elay Gash","35":"Omhajer","99999":"Other"}],
+"MA":[5,"Maekel",{"36":"Asmara","37":"Ghala Nefhi","38":"Serejeka","39":"Berik","40":"Gala Nefhi","99999":"Other"}],
+"SK":[6,"Northern Red Sea",{"41":"Massawa","42":"Ghinda","43":"Afabet","44":"Nakfa","45":"Karora","46":"She'eb","47":"Foro","48":"Dahlak","99999":"Other"}],
+"DK2":[7,"Southern Red Sea",{"49":"Assab","50":"Edi","51":"Tio","52":"Are'eta","53":"Central Dankalia","54":"Southern Dankalia","99999":"Other"}]
+}}

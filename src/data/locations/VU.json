@@ -1,0 +1,8 @@
+{"country":{"id":242,"code":"VU","name":"Vanuatu","phone_code":"+678"},"states":{
+"MAP":[1,"Malampa",{"1":"Lakatoro","2":"Norsup","3":"Vao","4":"Rano","5":"Wala","6":"Atchin","7":"Uripiv","8":"Paama","9":"Lopevi","10":"Epi","99999":"Other"}],
+"PAM":[2,"Penama",{"11":"Saratamata","12":"Longana","13":"Sara","14":"Sola","15":"Loltong","16":"Waterfall","17":"Redcliff","18":"Abwatuntora","19":"Mota Lava","20":"Vanua Lava","99999":"Other"}],
+"SAM":[3,"Sanma",{"21":"Luganville","22":"Port Olry","23":"Big Bay","24":"Hog Harbour","25":"Turtle Bay","26":"Jordan","27":"Matantas","28":"Sakao","29":"Malo","30":"Aore","99999":"Other"}],
+"SEE":[4,"Shefa",{"31":"Port Vila","32":"Mele","33":"Pango","34":"Forari","35":"Klems Hill","36":"Ifira","37":"Iririki","38":"Hideaway Island","39":"Moso","40":"Nguna","41":"Pele","42":"Emae","43":"Tongoa","44":"Tongariki","45":"Makura","46":"Mataso","47":"Buninga","48":"Lamen","49":"Eretoka","50":"Erueti Lava","99999":"Other"}],
+"TAE":[5,"Tafea",{"51":"Isangel","52":"Lenakel","53":"Lowanatom","54":"Whitegrass","55":"Anelgauhat","56":"Ipota","57":"Port Resolution","58":"Sulphur Bay","59":"Dillon's Bay","60":"Kwamera","61":"North Tanna","62":"Middle Bush","63":"Green Point","64":"Blacksands","65":"Futuna","66":"Aniwa","99999":"Other"}],
+"TOR":[6,"Torba",{"67":"Sola","68":"Gaua","69":"Motalava","70":"Vanualava","71":"Ureparapara","72":"Rowa","73":"Tegua","74":"Metoma","75":"Linua","76":"Lo","77":"Toga","99999":"Other"}]
+}}

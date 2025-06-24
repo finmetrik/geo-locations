@@ -1,0 +1,12 @@
+{"country":{"id":82,"code":"GH","name":"Ghana","phone_code":"+233"},"states":{
+"AA":[1,"Greater Accra",{"1":"Accra","2":"Tema","3":"Ashaiman","4":"Madina","5":"Achimota","6":"Dome","7":"Gbawe","8":"Nungua","9":"Teshie","10":"Kasoa","11":"Weija","12":"Ga","13":"Adenta","14":"Aburi","99999":"Other"}],
+"AH":[2,"Ashanti",{"15":"Kumasi","16":"Obuasi","17":"Mampong","18":"Konongo","19":"Bekwai","20":"Ejisu","21":"Tafo","22":"Agogo","23":"Offinso","24":"Nsuta","25":"Juaben","26":"Kuntanase","99999":"Other"}],
+"BA":[3,"Brong Ahafo",{"27":"Sunyani","28":"Techiman","29":"Berekum","30":"Wenchi","31":"Dormaa Ahenkro","32":"Kintampo","33":"Atebubu","34":"Nkoranza","35":"Duayaw Nkwanta","36":"Bechem","99999":"Other"}],
+"CE":[4,"Central",{"37":"Cape Coast","38":"Kasoa","39":"Winneba","40":"Agona Swedru","41":"Mankessim","42":"Dunkwa-on-Offin","43":"Fosu","44":"Apam","45":"Mumford","46":"Saltpond","47":"Twifo Praso","99999":"Other"}],
+"EA":[5,"Eastern",{"48":"Koforidua","49":"Nkawkaw","50":"Oda","51":"Akwatia","52":"Kade","53":"Akropong","54":"Suhum","55":"Nsawam","56":"Kibi","57":"Aburi","58":"Somanya","59":"Begoro","99999":"Other"}],
+"NO":[6,"Northern",{"60":"Tamale","61":"Yendi","62":"Damongo","63":"Salaga","64":"Bimbilla","65":"Gushiegu","66":"Kpandae","67":"Bole","68":"Sawla","69":"Tolon","70":"Savelugu","99999":"Other"}],
+"UE":[7,"Upper East",{"71":"Bolgatanga","72":"Bawku","73":"Navrongo","74":"Paga","75":"Tongo","76":"Zebilla","77":"Sandema","78":"Fumbisi","99999":"Other"}],
+"UW":[8,"Upper West",{"79":"Wa","80":"Tumu","81":"Lawra","82":"Jirapa","83":"Nadowli","84":"Nandom","85":"Lambussie","86":"Sissala","99999":"Other"}],
+"VO":[9,"Volta",{"87":"Ho","88":"Hohoe","89":"Kpando","90":"Aflao","91":"Denu","92":"Keta","93":"Anloga","94":"Kpeve","95":"Akatsi","96":"Dzodze","97":"Sogakope","99999":"Other"}],
+"WE":[10,"Western",{"98":"Sekondi-Takoradi","99":"Tarkwa","100":"Prestea","101":"Axim","102":"Elubo","103":"Shama","104":"Bibiani","105":"Daboase","106":"Half Assini","107":"Bogoso","99999":"Other"}]
+}}

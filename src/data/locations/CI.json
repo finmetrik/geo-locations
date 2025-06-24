@@ -1,0 +1,16 @@
+{"country":{"id":44,"code":"CI","name":"Côte d'Ivoire","phone_code":"+225"},"states":{
+"AB":[1,"Abidjan",{"1":"Abidjan","2":"Abobo","3":"Adjamé","4":"Attécoubé","5":"Cocody","6":"Plateau","7":"Yopougon","8":"Koumassi","9":"Marcory","10":"Port-Bouët","11":"Treichville","12":"Bingerville","13":"Anyama","99999":"Other"}],
+"BS":[2,"Bas-Sassandra",{"14":"San-Pédro","15":"Sassandra","16":"Tabou","17":"Soubré","18":"Guéyo","19":"Méagui","99999":"Other"}],
+"CM":[3,"Comoé",{"20":"Abengourou","21":"Agnibilékrou","22":"Tanda","23":"Bondoukou","24":"Sandégué","99999":"Other"}],
+"DN":[4,"Denguélé",{"25":"Odienné","26":"Madinani","27":"Gbéléban","28":"Samatiguila","99999":"Other"}],
+"GD":[5,"Gôh-Djiboua",{"29":"Gagnoa","30":"Oumé","31":"Divo","32":"Lakota","33":"Guitry","99999":"Other"}],
+"LC":[6,"Lacs",{"34":"Yamoussoukro","35":"Toumodi","36":"Tiébissou","37":"Didiévi","99999":"Other"}],
+"LG":[7,"Lagunes",{"38":"Dabou","39":"Grand-Lahou","40":"Jacqueville","41":"Tiassalé","42":"Taabo","43":"Sikensi","99999":"Other"}],
+"MG":[8,"Montagnes",{"44":"Man","45":"Danané","46":"Bangolo","47":"Biankouma","48":"Sipilou","99999":"Other"}],
+"SM":[9,"Sassandra-Marahoué",{"49":"Daloa","50":"Issia","51":"Vavoua","52":"Bouaflé","53":"Sinfra","54":"Zuénoula","99999":"Other"}],
+"SV":[10,"Savanes",{"55":"Korhogo","56":"Ferkessédougou","57":"Ouangolodougou","58":"Boundiali","59":"Tengréla","99999":"Other"}],
+"VB":[11,"Vallée du Bandama",{"60":"Bouaké","61":"Dabakala","62":"Katiola","63":"Béoumi","64":"Sakassou","65":"Niakaramandougou","99999":"Other"}],
+"WR":[12,"Woroba",{"66":"Séguéla","67":"Mankono","68":"Touba","69":"Ouaninou","99999":"Other"}],
+"ZZ":[13,"Zanzan",{"70":"Bondoukou","71":"Bouna","72":"Tanda","73":"Koun-Fao","74":"Sandégué","99999":"Other"}],
+"YM":[14,"Yamoussoukro District",{"75":"Yamoussoukro","76":"Attiégouakro","77":"Kossou","99999":"Other"}]
+}}

@@ -1,0 +1,6 @@
+{"country":{"id":149,"code":"MP","name":"Northern Mariana Islands","phone_code":"+1"},"states":{
+"SP":[1,"Saipan",{"1":"Garapan","2":"Susupe","3":"Chalan Kanoa","4":"San Vicente","5":"Tanapag","6":"San Roque","7":"Capitol Hill","8":"Navy Hill","9":"As Matuis","10":"Koblerville","11":"San Antonio","12":"Oleai","99999":"Other"}],
+"TI":[2,"Tinian",{"13":"San Jose","14":"Marpo Heights","15":"Marpo Valley","16":"Carolinas Heights","99999":"Other"}],
+"RO":[3,"Rota",{"17":"Songsong","18":"Sinapalo","19":"Teneto","99999":"Other"}],
+"NI":[4,"Northern Islands",{"20":"Northern Islands Municipality","99999":"Other"}]
+}}

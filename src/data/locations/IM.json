@@ -1,0 +1,14 @@
+{"country":{"id":104,"code":"IM","name":"Isle of Man","phone_code":"+44"},"states":{
+"DG":[1,"Douglas",{"1":"Douglas","2":"Onchan","3":"Union Mills","4":"Braddan","99999":"Other"}],
+"CS":[2,"Castletown",{"5":"Castletown","6":"Ballasalla","7":"Colby","8":"Port St Mary","9":"Port Erin","99999":"Other"}],
+"PE":[3,"Peel",{"10":"Peel","11":"St Johns","12":"Foxdale","13":"Glen Maye","99999":"Other"}],
+"RM":[4,"Ramsey",{"14":"Ramsey","15":"Lezayre","16":"Bride","17":"Andreas","99999":"Other"}],
+"RU":[5,"Rushen",{"18":"Port St Mary","19":"Port Erin","20":"Ballabeg","21":"Cregneash","99999":"Other"}],
+"MT":[6,"Michael",{"22":"Kirk Michael","23":"Ballaugh","24":"Jurby","99999":"Other"}],
+"GF":[7,"Garff",{"25":"Laxey","26":"Lonan","27":"Maughold","99999":"Other"}],
+"GE":[8,"German",{"28":"St Johns","29":"Crosby","30":"Glen Vine","99999":"Other"}],
+"MA":[9,"Marown",{"31":"Crosby","32":"Glen Vine","33":"Braaid","99999":"Other"}],
+"SN":[10,"Santon",{"34":"Santon","35":"Ballasalla","99999":"Other"}],
+"BR":[11,"Braddan",{"36":"Braddan","37":"Union Mills","38":"Strang","99999":"Other"}],
+"ON":[12,"Onchan",{"39":"Onchan","40":"Baldrine","99999":"Other"}]
+}}

@@ -1,0 +1,16 @@
+{"country":{"id":56,"code":"CZ","name":"Czech Republic","phone_code":"+420"},"states":{
+"PR":[1,"Prague",{"1":"Prague 1","2":"Prague 2","3":"Prague 3","4":"Prague 4","5":"Prague 5","6":"Prague 6","7":"Prague 7","8":"Prague 8","9":"Prague 9","10":"Prague 10","99999":"Other"}],
+"JC":[2,"South Bohemian",{"11":"České Budějovice","12":"Tábor","13":"Písek","14":"Strakonice","15":"Jindřichův Hradec","16":"Český Krumlov","17":"Prachatice","99999":"Other"}],
+"JM":[3,"South Moravian",{"18":"Brno","19":"Břeclav","20":"Hodonín","21":"Vyškov","22":"Znojmo","23":"Blansko","24":"Boskovice","99999":"Other"}],
+"KA":[4,"Karlovy Vary",{"25":"Karlovy Vary","26":"Sokolov","27":"Cheb","28":"Mariánské Lázně","29":"Ostrov","30":"Chodov","99999":"Other"}],
+"VY":[5,"Vysočina",{"31":"Jihlava","32":"Třebíč","33":"Havlíčkův Brod","34":"Žďár nad Sázavou","35":"Pelhřimov","36":"Velké Meziříčí","99999":"Other"}],
+"HK":[6,"Hradec Králové",{"37":"Hradec Králové","38":"Trutnov","39":"Jičín","40":"Náchod","41":"Rychnov nad Kněžnou","42":"Dvůr Králové nad Labem","99999":"Other"}],
+"LI":[7,"Liberec",{"43":"Liberec","44":"Jablonec nad Nisou","45":"Česká Lípa","46":"Semily","47":"Turnov","48":"Nový Bor","99999":"Other"}],
+"MS":[8,"Moravian-Silesian",{"49":"Ostrava","50":"Havířov","51":"Karviná","52":"Frýdek-Místek","53":"Opava","54":"Třinec","55":"Nový Jičín","56":"Orlová","57":"Český Těšín","99999":"Other"}],
+"OL":[9,"Olomouc",{"58":"Olomouc","59":"Prostějov","60":"Přerov","61":"Šumperk","62":"Hranice","63":"Uničov","64":"Litovel","99999":"Other"}],
+"PA":[10,"Pardubice",{"65":"Pardubice","66":"Chrudim","67":"Svitavy","68":"Ústí nad Orlicí","69":"Česká Třebová","70":"Lanškroun","99999":"Other"}],
+"PL":[11,"Plzeň",{"71":"Plzeň","72":"Klatovy","73":"Rokycany","74":"Tachov","75":"Domažlice","76":"Plzeň-sever","77":"Plzeň-jih","99999":"Other"}],
+"ST":[12,"Central Bohemian",{"78":"Kladno","79":"Mladá Boleslav","80":"Příbram","81":"Kolín","82":"Kutná Hora","83":"Mělník","84":"Beroun","85":"Rakovník","86":"Benešov","87":"Nymburk","99999":"Other"}],
+"US":[13,"Ústí nad Labem",{"88":"Ústí nad Labem","89":"Most","90":"Děčín","91":"Teplice","92":"Chomutov","93":"Litvínov","94":"Litoměřice","95":"Louny","96":"Jirkov","99999":"Other"}],
+"ZL":[14,"Zlín",{"97":"Zlín","98":"Kroměříž","99":"Vsetín","100":"Uherské Hradiště","101":"Valašské Meziříčí","102":"Rožnov pod Radhoštěm","103":"Otrokovice","99999":"Other"}]
+}}

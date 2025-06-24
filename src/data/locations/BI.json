@@ -1,0 +1,20 @@
+{"country":{"id":24,"code":"BI","name":"Burundi","phone_code":"+257"},"states":{
+"BB":[1,"Bubanza",{"1":"Bubanza","2":"Gihanga","3":"Musigati","99999":"Other"}],
+"BM":[2,"Bujumbura Mairie",{"4":"Bujumbura","5":"Ntahangwa","6":"Mukaza","7":"Muha","99999":"Other"}],
+"BL":[3,"Bujumbura Rural",{"8":"Isare","9":"Kabezi","10":"Kanyosha","11":"Mubimbi","12":"Mugongo-Manga","13":"Mukike","14":"Mutambu","15":"Mutimbuzi","16":"Nyabiraba","99999":"Other"}],
+"BR":[4,"Bururi",{"17":"Bururi","18":"Matana","19":"Mugamba","20":"Rutovu","21":"Songa","22":"Vyanda","99999":"Other"}],
+"CA":[5,"Cankuzo",{"23":"Cankuzo","24":"Cendajuru","25":"Gisagara","26":"Kigamba","27":"Mishiha","99999":"Other"}],
+"CI":[6,"Cibitoke",{"28":"Cibitoke","29":"Buganda","30":"Bukinanyana","31":"Mabayi","32":"Mugina","33":"Murwi","34":"Rugombo","99999":"Other"}],
+"GI":[7,"Gitega",{"35":"Gitega","36":"Bugendana","37":"Bukirasazi","38":"Buraza","39":"Giheta","40":"Gishubi","41":"Gitega","42":"Itaba","43":"Makebuko","44":"Mutaho","45":"Nyanrusange","46":"Ryansoro","99999":"Other"}],
+"KR":[8,"Karuzi",{"47":"Karuzi","48":"Buhiga","49":"Gihogazi","50":"Gitaramuka","51":"Bugenyuzi","52":"Mutumba","53":"Nyabikere","54":"Shombo","99999":"Other"}],
+"KY":[9,"Kayanza",{"55":"Kayanza","56":"Butaganzwa","57":"Gahombo","58":"Gatara","59":"Kabarore","60":"Matongo","61":"Muhanga","62":"Muruta","63":"Rango","99999":"Other"}],
+"KI":[10,"Kirundo",{"64":"Kirundo","65":"Bugabira","66":"Busoni","67":"Bwambarangwe","68":"Gitobe","69":"Kirundo","70":"Ntega","71":"Vumbi","99999":"Other"}],
+"MA":[11,"Makamba",{"72":"Makamba","73":"Bukeye","74":"Kigamba","75":"Mabanda","76":"Makamba","77":"Nyanza-Lac","78":"Vugizo","99999":"Other"}],
+"MU":[12,"Muramvya",{"79":"Muramvya","80":"Bukeye","81":"Kiganda","82":"Mbuye","83":"Muramvya","84":"Rutegama","99999":"Other"}],
+"MW":[13,"Mwaro",{"85":"Mwaro","86":"Bisoro","87":"Gisozi","88":"Kayokwe","89":"Ndava","90":"Nyabihanga","91":"Rusaka","99999":"Other"}],
+"MY":[14,"Muyinga",{"92":"Muyinga","93":"Butihinda","94":"Buhinyuza","95":"Gasorwe","96":"Giteranyi","97":"Muyinga","98":"Mwakiro","99":"Nyangungu","99999":"Other"}],
+"NG":[15,"Ngozi",{"100":"Ngozi","101":"Busiga","102":"Gashikanwa","103":"Kiremba","104":"Marangara","105":"Mwumba","106":"Ngozi","107":"Nyamurenza","108":"Ruhororo","109":"Tangara","99999":"Other"}],
+"RT":[16,"Rutana",{"110":"Rutana","111":"Bukemba","112":"Giharo","113":"Gitanga","114":"Mpinga-Kayove","115":"Musongati","116":"Rutana","99999":"Other"}],
+"RY":[17,"Ruyigi",{"117":"Ruyigi","118":"Butaganzwa","119":"Butezi","120":"Bweru","121":"Gisuru","122":"Kinyinya","123":"Nyabitsinda","124":"Ruyigi","99999":"Other"}],
+"RM":[18,"Rumonge",{"125":"Rumonge","126":"Bugarama","127":"Burambi","128":"Buyengero","129":"Muhuta","130":"Rumonge","99999":"Other"}]
+}}

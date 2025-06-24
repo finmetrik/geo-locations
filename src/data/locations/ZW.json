@@ -1,0 +1,12 @@
+{"country":{"id":249,"code":"ZW","name":"Zimbabwe","phone_code":"+263"},"states":{
+"BU":[1,"Bulawayo",{"1":"Bulawayo","2":"Entumbane","3":"Nkulumane","4":"Pumula","5":"Luveve","6":"Magwegwe","7":"Makokoba","8":"Mzilikazi","9":"Barbourfields","10":"Hillside","99999":"Other"}],
+"HA":[2,"Harare",{"11":"Harare","12":"Chitungwiza","13":"Epworth","14":"Norton","15":"Ruwa","16":"Hatfield","17":"Mbare","18":"Highfield","19":"Glen View","20":"Warren Park","99999":"Other"}],
+"MA":[3,"Manicaland",{"21":"Mutare","22":"Rusape","23":"Chipinge","24":"Chimanimani","25":"Nyanga","26":"Buhera","27":"Makoni","28":"Mutasa","29":"Bocha","30":"Cashel","99999":"Other"}],
+"MC":[4,"Mashonaland Central",{"31":"Bindura","32":"Shamva","33":"Guruve","34":"Centenary","35":"Mount Darwin","36":"Rushinga","37":"Muzarabani","38":"Mbire","39":"Doma","40":"Chiweshe","99999":"Other"}],
+"ME":[5,"Mashonaland East",{"41":"Marondera","42":"Mutoko","43":"Macheke","44":"Wedza","45":"Hwedza","46":"Goromonzi","47":"Seke","48":"Chikomba","49":"Mudzi","50":"UMP","99999":"Other"}],
+"MW":[6,"Mashonaland West",{"51":"Chinhoyi","52":"Kariba","53":"Kadoma","54":"Chegutu","55":"Norton","56":"Banket","57":"Alaska","58":"Makonde","59":"Zvimba","60":"Hurungwe","99999":"Other"}],
+"MV":[7,"Masvingo",{"61":"Masvingo","62":"Chiredzi","63":"Triangle","64":"Bikita","65":"Zaka","66":"Chivi","67":"Gutu","68":"Mwenezi","69":"Mashava","70":"Renco Mine","99999":"Other"}],
+"MN":[8,"Matabeleland North",{"71":"Lupane","72":"Tsholotsho","73":"Hwange","74":"Binga","75":"Nkayi","76":"Bubi","77":"Umguza","78":"Kwekwe","79":"Gokwe North","80":"Gokwe South","99999":"Other"}],
+"MS":[9,"Matabeleland South",{"81":"Gwanda","82":"Beitbridge","83":"Plumtree","84":"Filabusi","85":"Insiza","86":"Matobo","87":"Umzingwane","88":"Mangwe","89":"Bulilima","90":"Gwanda Rural","99999":"Other"}],
+"MI":[10,"Midlands",{"91":"Kwekwe","92":"Gweru","93":"Redcliff","94":"Shurugwi","95":"Zvishavane","96":"Gokwe","97":"Chirumhanzu","98":"Mberengwa","99":"Zhombe","100":"Silobela","99999":"Other"}]
+}}

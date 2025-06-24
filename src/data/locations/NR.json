@@ -1,0 +1,16 @@
+{"country":{"id":169,"code":"NR","name":"Nauru","phone_code":"+674"},"states":{
+"01":[1,"Aiwo",{"1":"Aiwo","99999":"Other"}],
+"02":[2,"Anabar",{"2":"Anabar","99999":"Other"}],
+"03":[3,"Anetan",{"3":"Anetan","99999":"Other"}],
+"04":[4,"Anibare",{"4":"Anibare","99999":"Other"}],
+"05":[5,"Baitsi",{"5":"Baitsi","99999":"Other"}],
+"06":[6,"Boe",{"6":"Boe","99999":"Other"}],
+"07":[7,"Buada",{"7":"Buada","99999":"Other"}],
+"08":[8,"Denigomodu",{"8":"Denigomodu","99999":"Other"}],
+"09":[9,"Ewa",{"9":"Ewa","99999":"Other"}],
+"10":[10,"Ijuw",{"10":"Ijuw","99999":"Other"}],
+"11":[11,"Meneng",{"11":"Meneng","99999":"Other"}],
+"12":[12,"Nibok",{"12":"Nibok","99999":"Other"}],
+"13":[13,"Uaboe",{"13":"Uaboe","99999":"Other"}],
+"14":[14,"Yaren",{"14":"Yaren","99999":"Other"}]
+}}

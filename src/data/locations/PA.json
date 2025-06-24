@@ -1,0 +1,15 @@
+{"country":{"id":173,"code":"PA","name":"Panama","phone_code":"+507"},"states":{
+"1":[1,"Bocas del Toro",{"1":"Bocas del Toro","2":"Changuinola","3":"Almirante","4":"Chiriquí Grande","5":"Guabito","6":"Isla Colón","99999":"Other"}],
+"4":[2,"Chiriquí",{"7":"David","8":"Volcán","9":"Puerto Armuelles","10":"Dolega","11":"Boquete","12":"Bugaba","13":"Barú","14":"Boquerón","15":"Gualaca","16":"Remedios","17":"Renacimiento","18":"San Félix","19":"San Lorenzo","20":"Tolé","99999":"Other"}],
+"2":[3,"Coclé",{"21":"Penonomé","22":"Aguadulce","23":"Antón","24":"La Pintada","25":"Natá","26":"Olá","99999":"Other"}],
+"3":[4,"Colón",{"27":"Colón","28":"Portobelo","29":"Sabanitas","30":"Chilibre","31":"Cristóbal","32":"Cativá","33":"Buenaventura","34":"Nuevo Chorrerra","99999":"Other"}],
+"5":[5,"Darién",{"35":"La Palma","36":"Metetí","37":"Yaviza","38":"El Real","39":"Sambú","40":"Santa Fé","41":"Chepigana","42":"Pinogana","99999":"Other"}],
+"6":[6,"Herrera",{"43":"Chitré","44":"Las Minas","45":"Los Pozos","46":"Ocú","47":"Parita","48":"Pesé","49":"Santa María","99999":"Other"}],
+"7":[7,"Los Santos",{"50":"Las Tablas","51":"Guararé","52":"Los Santos","53":"Macaracas","54":"Pedasí","55":"Pocrí","56":"Tonosí","99999":"Other"}],
+"8":[8,"Panamá",{"57":"Panama City","58":"San Miguelito","59":"Tocumen","60":"Pedregal","61":"Juan Díaz","62":"Río Abajo","63":"Parque Lefevre","64":"Pueblo Nuevo","65":"San Francisco","66":"Betania","67":"Bella Vista","68":"El Cangrejo","69":"Punta Pacifica","70":"Costa del Este","71":"Albrook","72":"Clayton","73":"Balboa","74":"Ancón","75":"Casco Viejo","76":"Santa Ana","77":"Río Abajo","78":"Pedregal","79":"Las Cumbres","80":"Don Bosco","81":"Río Abajo","82":"Alcalde Díaz","83":"Las Mañanitas","84":"Pacora","85":"Chepo","86":"Chiman","87":"Capira","88":"Chame","89":"La Chorrera","90":"Arraiján","91":"San Carlos","92":"Taboga","99999":"Other"}],
+"9":[9,"Veraguas",{"93":"Santiago","94":"Soná","95":"Santa Fé","96":"Las Palmas","97":"Calobre","98":"Cañazas","99":"La Mesa","100":"Mariato","101":"Montijo","102":"Río de Jesús","103":"San Francisco","104":"Atalaya","99999":"Other"}],
+"10":[10,"Panamá Oeste",{"105":"La Chorrera","106":"Arraiján","107":"Capira","108":"Chame","109":"San Carlos","110":"Taboga","99999":"Other"}],
+"KY":[11,"Guna Yala",{"111":"El Porvenir","112":"Gaigirgordub","113":"Mulatupo","114":"Sasardi","115":"Tupile","116":"Ustupo","117":"Achutupo","118":"Ailigandi","119":"Playón Chico","120":"Río Azúcar","121":"Río Sidra","122":"Tubualá","123":"Yandup","99999":"Other"}],
+"EM":[12,"Emberá",{"124":"Unión Chocó","125":"Sambú","126":"Cémaco","127":"Río Balsas","99999":"Other"}],
+"NB":[13,"Ngöbe-Buglé",{"128":"Buabidi","129":"Jirondai","130":"Kankintu","131":"Kusapin","132":"Mirono","133":"Müna","134":"Nole Duima","135":"Ñürüm","136":"Santa Catalina o Calovébora","99999":"Other"}]
+}}

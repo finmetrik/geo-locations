@@ -1,0 +1,7 @@
+{"country":{"id":72,"code":"FK","name":"Falkland Islands","phone_code":"+500"},"states":{
+"ST":[1,"Stanley",{"1":"Stanley","2":"The Narrows","3":"Cape Pembroke","99999":"Other"}],
+"EF":[2,"East Falkland",{"4":"Goose Green","5":"Darwin","6":"Port Louis","7":"Salvador","8":"Johnson's Harbour","9":"Port San Carlos","10":"Fitzroy","99999":"Other"}],
+"WF":[3,"West Falkland",{"11":"Port Howard","12":"Fox Bay","13":"Port Stephens","14":"Hill Cove","15":"Roy Cove","16":"Chartres","17":"Dunnose Head","99999":"Other"}],
+"JI":[4,"Jason Islands",{"18":"Steeple Jason","19":"Grand Jason","20":"Elephant Jason","99999":"Other"}],
+"SI":[5,"South Islands",{"21":"Sea Lion Island","22":"Bleaker Island","23":"Lively Island","24":"Speedwell Island","25":"George Island","26":"Barren Island","99999":"Other"}]
+}}

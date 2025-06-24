@@ -1,0 +1,21 @@
+{"country":{"id":155,"code":"MV","name":"Maldives","phone_code":"+960"},"states":{
+"01":[1,"Seenu",{"1":"Hithadhoo","2":"Maradhoo","3":"Maradhoo-Feydhoo","4":"Feydhoo","5":"Hulhudhoo","6":"Meedhoo","7":"Gan","99999":"Other"}],
+"02":[2,"Noonu",{"8":"Manadhoo","9":"Velidhoo","10":"Holhudhoo","11":"Kendhikolhudhoo","12":"Landhoo","13":"Maalhendhoo","14":"Miladhoo","15":"Magoodhoo","16":"Foddhoo","17":"Vavathi","18":"Feevah","19":"Dhonaekulhi","20":"Kudafari","21":"Raafushi","99999":"Other"}],
+"03":[3,"Baa",{"22":"Eydhafushi","23":"Thulhaadhoo","24":"Kendhoo","25":"Dharavandhoo","26":"Dhonfanu","27":"Kihaadhoo","28":"Fulhadhoo","29":"Fehendhoo","30":"Goidhoo","31":"Fares","32":"Kudarikilu","33":"Kamadhoo","34":"Maalhos","35":"Horubadhoo","99999":"Other"}],
+"04":[4,"Lhaviyani",{"36":"Naifaru","37":"Hinnavaru","38":"Kurendhoo","39":"Olhuvelifushi","40":"Felivaru","41":"Vaadhoo","42":"Kanuhura","99999":"Other"}],
+"05":[5,"Kaafu",{"43":"Malé","44":"Hulhulé","45":"Vilimalé","46":"Gulhi","47":"Guraidhoo","48":"Maafushi","49":"Dhiffushi","50":"Thulusdhoo","51":"Himmafushi","52":"Huraa","53":"Gaafaru","54":"Kaashidhoo","99999":"Other"}],
+"07":[7,"Haa Alifu",{"55":"Dhidhdhoo","56":"Filladhoo","57":"Hoarafushi","58":"Ihavandhoo","59":"Kelaa","60":"Maarandhoo","61":"Thakandhoo","62":"Thuraakunu","63":"Uligamu","64":"Vashafaru","65":"Baarah","66":"Dhidhdhoo","67":"Mulhadhoo","68":"Muraidhoo","69":"Huvahandhoo","99999":"Other"}],
+"08":[8,"Thaa",{"70":"Vilufushi","71":"Thimarafushi","72":"Veymandoo","73":"Kinbidhoo","74":"Omadhoo","75":"Hirilandhoo","76":"Buruni","77":"Madifushi","78":"Dhiyamigili","79":"Guraidhoo","80":"Gaadhiffushi","81":"Vandhoo","82":"Kandoodhoo","99999":"Other"}],
+"12":[12,"Meemu",{"83":"Mulah","84":"Veyvah","85":"Kolhufushi","86":"Maduvvaree","87":"Raimandhoo","88":"Muli","89":"Naalaafushi","90":"Dhiggaru","99999":"Other"}],
+"13":[13,"Raa",{"91":"Ungoofaaru","92":"Rasgetheemu","93":"Agolhitheemu","94":"Vaadhoo","95":"Dhuvaafaru","96":"Meedhoo","97":"Maduvvaree","98":"Fainu","99":"Alifushi","100":"Hulhudhuffaaru","101":"Innamaadhoo","102":"Kinolhas","103":"Maakurathu","104":"Rasmaadhoo","105":"Angolhitheemu","106":"Inguraidhoo","99999":"Other"}],
+"14":[14,"Faafu",{"107":"Nilandhoo","108":"Feeali","109":"Bileiydhoo","110":"Magoodhoo","111":"Dharanboodhoo","99999":"Other"}],
+"17":[17,"Dhaalu",{"112":"Kudahuvadhoo","113":"Rinbudhoo","114":"Hulhudheli","115":"Maaenboodhoo","116":"Meedhoo","117":"Vaanee","118":"Bandidhoo","99999":"Other"}],
+"20":[20,"Laamu",{"119":"Fonadhoo","120":"Gan","121":"Maavah","122":"Mundoo","123":"Kadhdhoo","124":"Isdhoo","125":"Kalhudhuffushi","126":"Dhanbidhoo","127":"Maabaidhoo","128":"Kunahandhoo","129":"Gaadhoo","130":"Maamendhoo","99999":"Other"}],
+"23":[23,"Haa Dhaalu",{"131":"Kulhudhuffushi","132":"Vaikaradhoo","133":"Hanimaadhoo","134":"Nolhivaram","135":"Nolhivaranfaru","136":"Naivaadhoo","137":"Nellaidhoo","138":"Hirimaradhoo","139":"Neykurendhoo","140":"Makunudhoo","141":"Kumundhoo","142":"Finey","99999":"Other"}],
+"24":[24,"Shaviyani",{"143":"Funadhoo","144":"Bileffahi","145":"Feydhoo","146":"Feevah","147":"Foakaidhoo","148":"Goidhoo","149":"Kanditheemu","150":"Komandoo","151":"Lhaimagu","152":"Maakandoodhoo","153":"Maaungoodhoo","154":"Maroshi","155":"Milandhoo","156":"Narudhoo","99999":"Other"}],
+"26":[26,"Kaafu",{"157":"Malé City","158":"Hulhumalé","159":"Maafushi","160":"Huraa","161":"Dhiffushi","162":"Thulusdhoo","163":"Gulhi","164":"Guraidhoo","99999":"Other"}],
+"27":[27,"Gaaf Alif",{"165":"Villingili","166":"Dhaandhoo","167":"Maamendhoo","168":"Nilandhoo","169":"Kanduhulhudhoo","170":"Kolamaafushi","171":"Dhevvadhoo","172":"Gemanafushi","173":"Kondey","99999":"Other"}],
+"28":[28,"Gaafu Dhaalu",{"174":"Thinadhoo","175":"Madaveli","176":"Hoandeddhoo","177":"Maathodaa","178":"Gaddhoo","179":"Rathafandhoo","180":"Vaadhoo","181":"Fiyoaree","182":"Fares","183":"Mahaddhoo","184":"Nolhivaram","185":"Kaadedhdhoo","99999":"Other"}],
+"29":[29,"Gnaviyani",{"186":"Fuvahmulah","99999":"Other"}],
+"X1":[30,"Malé",{"187":"Malé City","188":"Henveiru","189":"Galolhu","190":"Machchangolhi","191":"Maafannu","192":"Vilimalé","99999":"Other"}]
+}}

@@ -1,0 +1,14 @@
+{"country":{"id":111,"code":"JE","name":"Jersey","phone_code":"+44"},"states":{
+"GR":[1,"Grouville",{"1":"Grouville","2":"Gorey","3":"La Rocque","4":"Royal Bay of Grouville","99999":"Other"}],
+"SA":[2,"Saint Brelade",{"5":"Saint Aubin","6":"Beaumont","7":"Les Quennevais","8":"Noirmont","9":"St Brelade's Bay","99999":"Other"}],
+"SC":[3,"Saint Clement",{"10":"Samares","11":"Le Rocquier","12":"Le Dicq","13":"Greve d'Azette","99999":"Other"}],
+"SH":[4,"Saint Helier",{"14":"Saint Helier","15":"Havre des Pas","16":"First Tower","17":"Georgetown","99999":"Other"}],
+"SJ":[5,"Saint John",{"18":"Saint John's Village","19":"Sion","20":"Carrefour Selous","99999":"Other"}],
+"SL":[6,"Saint Lawrence",{"21":"Saint Lawrence","22":"Carrefour Selous","23":"Millbrook","99999":"Other"}],
+"SM":[7,"Saint Martin",{"24":"Saint Martin","25":"Rozel","26":"Faldouet","99999":"Other"}],
+"SP":[8,"Saint Mary",{"27":"Saint Mary","28":"La Haule","29":"La Mare","99999":"Other"}],
+"SO":[9,"Saint Ouen",{"30":"Saint Ouen","31":"L'Etacq","32":"Grantez","99999":"Other"}],
+"SS":[10,"Saint Peter",{"33":"Saint Peter","34":"Beaumont","35":"Saint Aubin","99999":"Other"}],
+"SV":[11,"Saint Saviour",{"36":"Saint Saviour","37":"Five Oaks","38":"Bagot","39":"Longueville","99999":"Other"}],
+"TR":[12,"Trinity",{"40":"Trinity","41":"Bouley Bay","42":"La Croisette","99999":"Other"}]
+}}

@@ -1,0 +1,17 @@
+{"country":{"id":226,"code":"TT","name":"Trinidad and Tobago","phone_code":"+1"},"states":{
+"ARI":[1,"Arima",{"1":"Arima","2":"Santa Rosa","3":"Blanchisseuse","4":"Lopinot","5":"Heights of Aripo","99999":"Other"}],
+"CHA":[2,"Chaguanas",{"6":"Chaguanas","7":"Longdenville","8":"Cunupia","9":"Chaguanas","10":"Enterprise","11":"Charlieville","12":"Montrose","13":"Caroni","14":"Felicity","15":"Endeavour","99999":"Other"}],
+"CTT":[3,"Couva-Tabaquite-Talparo",{"16":"Couva","17":"Tabaquite","18":"Talparo","19":"Preysal","20":"Point Lisas","21":"Claxton Bay","22":"California","23":"Freeport","24":"Carli Bay","25":"Cedar Hill","99999":"Other"}],
+"DMN":[4,"Diego Martin",{"26":"Diego Martin","27":"Westmoorings","28":"Glencoe","29":"Petit Valley","30":"Four Roads","31":"River Estate","32":"Blue Range","33":"Rich Plain","34":"La Puerta","35":"Cameron","99999":"Other"}],
+"ETO":[5,"Eastern Tobago",{"36":"Roxborough","37":"Speyside","38":"Delaford","39":"Belle Garden","40":"Goodwood","41":"King's Bay","42":"Charlotteville","43":"Pembroke","44":"L'Anse Fourmi","45":"Parlatuvier","99999":"Other"}],
+"PED":[6,"Penal-Debe",{"46":"Penal","47":"Debe","48":"Rochard Douglas","49":"Barrackpore","50":"Siparia","51":"Quinam","52":"Woodland","53":"Penal Rock Road","54":"Clarke Road","55":"Jordan Hill","99999":"Other"}],
+"PTF":[7,"Point Fortin",{"56":"Point Fortin","57":"Techier","58":"Cap-de-Ville","59":"Clifton Hill","60":"Guapo","61":"La Brea","62":"Vessigny","63":"Irois","99999":"Other"}],
+"POS":[8,"Port of Spain",{"64":"Port of Spain","65":"Laventille","66":"East Dry River","67":"Belmont","68":"Woodbrook","69":"Newtown","70":"St. Clair","71":"St. James","72":"Cascade","73":"Maraval","99999":"Other"}],
+"PRT":[9,"Princes Town",{"74":"Princes Town","75":"Rio Claro","76":"Mayaro","77":"Tableland","78":"New Grant","79":"Moruga","80":"Basse Terre","81":"Navet","82":"Rock River","83":"Ecclesville","99999":"Other"}],
+"SAN":[10,"San Fernando",{"84":"San Fernando","85":"Marabella","86":"La Romaine","87":"Gasparillo","88":"Goldsborough","89":"Palmiste","90":"Vistabella","91":"St. Madeline","92":"Dunstan Village","93":"Paradise","99999":"Other"}],
+"SJL":[11,"San Juan-Laventille",{"94":"San Juan","95":"Laventille","96":"Barataria","97":"El Socorro","98":"St. Joseph","99":"Curepe","100":"Tunapuna","101":"Trincity","102":"Piarco","103":"Arouca","99999":"Other"}],
+"SGE":[12,"Sangre Grande",{"104":"Sangre Grande","105":"Toco","106":"Matura","107":"Valencia","108":"Cumuto","109":"Wallerfield","110":"Arima","111":"Guanapo","112":"Lopinot","113":"Santa Rosa","99999":"Other"}],
+"SIP":[13,"Siparia",{"114":"Siparia","115":"Fyzabad","116":"Palo Seco","117":"Erin","118":"Cedros","119":"Icacos","120":"Point Fortin","121":"La Brea","122":"Rousillac","123":"Otaheite","99999":"Other"}],
+"TUP":[14,"Tunapuna-Piarco",{"124":"Tunapuna","125":"Piarco","126":"Trincity","127":"Arouca","128":"Curepe","129":"St. Joseph","130":"Tacarigua","131":"Macoya","132":"Maloney","133":"D'Abadie","99999":"Other"}],
+"WTO":[15,"Western Tobago",{"134":"Scarborough","135":"Plymouth","136":"Black Rock","137":"Mount Pleasant","138":"Canaan","139":"Bon Accord","140":"Crown Point","141":"Buccoo","142":"Pigeon Point","143":"Store Bay","99999":"Other"}]
+}}

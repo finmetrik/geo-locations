@@ -1,0 +1,22 @@
+{"country":{"id":16,"code":"AZ","name":"Azerbaijan","phone_code":"+994"},"states":{
+"BA":[1,"Baku",{"1":"Baku","2":"Binagadi","3":"Narimanov","4":"Nasimi","5":"Nizami","6":"Sabail","7":"Sabunchu","8":"Surakhani","9":"Yasamal","99999":"Other"}],
+"GA":[2,"Ganja",{"10":"Ganja","11":"Nizami","12":"Kapaz","99999":"Other"}],
+"SU":[3,"Sumqayit",{"13":"Sumqayit","99999":"Other"}],
+"LA":[4,"Lankaran",{"14":"Lankaran","15":"Liman","99999":"Other"}],
+"MI":[5,"Mingachevir",{"16":"Mingachevir","99999":"Other"}],
+"NA":[6,"Nakhchivan",{"17":"Nakhchivan","18":"Sharur","19":"Babek","20":"Julfa","21":"Ordubad","22":"Sadarak","23":"Shahbuz","99999":"Other"}],
+"SH":[7,"Shaki",{"24":"Shaki","25":"Bash Layski","99999":"Other"}],
+"YE":[8,"Yevlakh",{"26":"Yevlakh","99999":"Other"}],
+"AB":[9,"Absheron",{"27":"Khirdalan","28":"Hövsan","29":"Bina","30":"Corat","31":"Mehdiabad","99999":"Other"}],
+"AG":[10,"Agdam",{"32":"Agdam","99999":"Other"}],
+"AGJ":[11,"Aghjabadi",{"33":"Aghjabadi","99999":"Other"}],
+"AGA":[12,"Agstafa",{"34":"Agstafa","35":"Gazakh","99999":"Other"}],
+"ASU":[13,"Agsu",{"36":"Agsu","99999":"Other"}],
+"AST":[14,"Astara",{"37":"Astara","99999":"Other"}],
+"BAL":[15,"Balakan",{"38":"Balakan","99999":"Other"}],
+"BAR":[16,"Barda",{"39":"Barda","99999":"Other"}],
+"BEY":[17,"Beylagan",{"40":"Beylagan","99999":"Other"}],
+"BIL":[18,"Bilasuvar",{"41":"Bilasuvar","99999":"Other"}],
+"DAS":[19,"Dashkasan",{"42":"Dashkasan","99999":"Other"}],
+"FUZ":[20,"Fuzuli",{"43":"Fuzuli","44":"Horadiz","99999":"Other"}]
+}}

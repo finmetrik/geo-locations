@@ -1,0 +1,7 @@
+{"country":{"id":217,"code":"TG","name":"Togo","phone_code":"+228"},"states":{
+"C":[1,"Centre",{"1":"Sokodé","2":"Tchamba","3":"Sotouboua","4":"Blitta","5":"Bassar","6":"Kara","7":"Kétao","8":"Pagouda","9":"Dankpen","10":"Kéran","99999":"Other"}],
+"K":[2,"Kara",{"11":"Kara","12":"Bassar","13":"Kétao","14":"Pagouda","15":"Dankpen","16":"Kéran","17":"Niamtougou","18":"Pya","19":"Kanté","20":"Lama-Kara","99999":"Other"}],
+"M":[3,"Maritime",{"21":"Lomé","22":"Golfe","23":"Lacs","24":"Vo","25":"Yoto","26":"Zio","27":"Agoé-Nyivé","28":"Tsévié","29":"Tabligbo","30":"Vogan","31":"Aného","32":"Kpalimé","33":"Kloto","34":"Agou","35":"Danyi","36":"Kpélé-Akata","37":"Amou-Oblo","38":"Wawa","39":"Haho","40":"Moyen-Mono","99999":"Other"}],
+"P":[4,"Plateaux",{"41":"Atakpamé","42":"Kpalimé","43":"Badou","44":"Kpélé-Akata","45":"Amou-Oblo","46":"Wawa","47":"Danyi","48":"Kloto","49":"Agou","50":"Haho","51":"Moyen-Mono","52":"Anié","53":"Est-Mono","54":"Ogou","55":"Akébou","56":"Adja-Ouèrè","57":"Tchamba","58":"Tchaoudjo","59":"Sotouboua","60":"Blitta","99999":"Other"}],
+"S":[5,"Savanes",{"61":"Dapaong","62":"Tône","63":"Tandjouaré","64":"Oti","65":"Kpendjal","66":"Kpendjal-Ouest","67":"Mandouri","68":"Kantindi","69":"Mango","70":"Gourma","71":"Bombouaka","72":"Kéran","73":"Doufelgou","74":"Binah","75":"Kozah","76":"Bassar","77":"Dankpen","78":"Kétao","79":"Pagouda","80":"Kara","99999":"Other"}]
+}}

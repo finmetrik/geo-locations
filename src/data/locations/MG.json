@@ -1,0 +1,8 @@
+{"country":{"id":142,"code":"MG","name":"Madagascar","phone_code":"+261"},"states":{
+"T":[1,"Antananarivo",{"1":"Antananarivo","2":"Ambohidratrimo","3":"Ankazobe","4":"Anjozorobe","5":"Avaradrano","6":"Manjakandriana","7":"Antsirabe","8":"Betafo","9":"Ambatolampy","10":"Antanifotsy","11":"Faratsiho","12":"Andramasina","13":"Atsimondrano","99999":"Other"}],
+"D":[2,"Antsiranana",{"14":"Antsiranana","15":"Ambilobe","16":"Ambanja","17":"Nosy Be","18":"Sambava","19":"Antalaha","20":"Vohémar","21":"Andapa","99999":"Other"}],
+"F":[3,"Fianarantsoa",{"22":"Fianarantsoa","23":"Ambositra","24":"Ambalavao","25":"Ihosy","26":"Manakara","27":"Farafangana","28":"Vangaindrano","29":"Iakora","30":"Ikalamavony","31":"Isandra","32":"Lalangina","33":"Vohibato","99999":"Other"}],
+"M":[4,"Mahajanga",{"34":"Mahajanga","35":"Ambato-Boeni","36":"Marovoay","37":"Mitsinjo","38":"Soalala","39":"Maevatanana","40":"Kandreho","41":"Tsaratanana","42":"Bealanana","43":"Antsohihy","44":"Befandriana-Nord","45":"Mandritsara","46":"Port-Bergé","47":"Mampikony","99999":"Other"}],
+"A":[5,"Toamasina",{"48":"Toamasina","49":"Ambatondrazaka","50":"Moramanga","51":"Anosibe An'ala","52":"Brickaville","53":"Vatomandry","54":"Mahanoro","55":"Marolambo","56":"Antanambao Manampontsy","57":"Sainte Marie","58":"Fénérive-Est","59":"Vavatenina","60":"Amparafaravola","61":"Andilamena","99999":"Other"}],
+"U":[6,"Toliara",{"62":"Toliara","63":"Sakaraha","64":"Betioky","65":"Ampanihy","66":"Benenitra","67":"Beroroha","68":"Morombe","69":"Ankazoabo","70":"Beloha","71":"Tsihombe","72":"Ambovombe","73":"Bekily","74":"Amboasary-Sud","75":"Taolagnaro","76":"Betroka","77":"Morondava","78":"Mahabo","79":"Belo sur Tsiribihina","80":"Miandrivazo","81":"Manja","99999":"Other"}]
+}}

@@ -1,0 +1,7 @@
+{"country":{"id":53,"code":"CW","name":"Curaçao","phone_code":"+599"},"states":{
+"WI":[1,"Willemstad",{"1":"Punda","2":"Otrobanda","3":"Scharloo","4":"Pietermaai","5":"Julianadorp","6":"Emmastad","7":"Mahuma","8":"Brievengat","9":"Groot Kwartier","10":"Rooi Catootje","99999":"Other"}],
+"BA":[2,"Bandabou",{"11":"Barber","12":"Lagun","13":"Sint Willibrordus","14":"Soto","15":"Tera Kora","16":"Westpunt","99999":"Other"}],
+"BO":[3,"Bandariba",{"17":"Jan Thiel","18":"Sint Joris","19":"Montaña","20":"Spaanse Water","21":"Mambo Beach","99999":"Other"}],
+"BU":[4,"Bullenbaai",{"22":"Bullenbaai","23":"Sint Michiel","24":"Blauw","25":"Vaersenbaai","99999":"Other"}],
+"CU":[5,"Curaçao",{"26":"Willemstad","27":"Westpunt","28":"Sint Willibrordus","29":"Barber","30":"Groot Sint Joris","31":"Nieuwpoort","32":"Sint Michiel","33":"Souax","34":"Sabana Westpunt","99999":"Other"}]
+}}

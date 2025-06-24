@@ -1,0 +1,18 @@
+{"country":{"id":15,"code":"AX","name":"Åland Islands","phone_code":"+358"},"states":{
+"MA":[1,"Mariehamn",{"1":"Mariehamn","99999":"Other"}],
+"JO":[2,"Jomala",{"2":"Jomala","3":"Gottby","4":"Önningeby","99999":"Other"}],
+"FI":[3,"Finström",{"5":"Godby","6":"Bergö","7":"Emkarby","99999":"Other"}],
+"LE":[4,"Lemland",{"8":"Söderby","9":"Norrby","10":"Lemböte","99999":"Other"}],
+"SA":[5,"Saltvik",{"11":"Kvarnbo","12":"Haraldsby","13":"Ödkarby","99999":"Other"}],
+"HA":[6,"Hammarland",{"14":"Kattby","15":"Näfsby","99999":"Other"}],
+"EC":[7,"Eckerö",{"16":"Storby","17":"Kyrkoby","99999":"Other"}],
+"GE":[8,"Geta",{"18":"Vestergeta","19":"Östergeta","99999":"Other"}],
+"SU":[9,"Sund",{"20":"Finby","21":"Kastelholm","99999":"Other"}],
+"VA":[10,"Vårdö",{"22":"Vargata","23":"Sandösund","99999":"Other"}],
+"LU":[11,"Lumparland",{"24":"Klemetsby","25":"Lumparby","99999":"Other"}],
+"FO":[12,"Föglö",{"26":"Degerby","27":"Sonboda","99999":"Other"}],
+"KO":[13,"Kökar",{"28":"Kökar","29":"Karlby","99999":"Other"}],
+"SO":[14,"Sottunga",{"30":"Sottunga","99999":"Other"}],
+"KU":[15,"Kumlinge",{"31":"Kumlinge","32":"Seglinge","99999":"Other"}],
+"BR":[16,"Brändö",{"33":"Brändö","34":"Lappo","99999":"Other"}]
+}}

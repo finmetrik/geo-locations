@@ -1,0 +1,15 @@
+{"country":{"id":21,"code":"BF","name":"Burkina Faso","phone_code":"+226"},"states":{
+"CE":[1,"Centre",{"1":"Ouagadougou","2":"Ziniaré","3":"Kombissiri","99999":"Other"}],
+"HB":[2,"Hauts-Bassins",{"4":"Bobo-Dioulasso","5":"Orodara","6":"Banfora","7":"Sindou","99999":"Other"}],
+"NO":[3,"Nord",{"8":"Ouahigouya","9":"Yako","10":"Gourcy","11":"Titao","99999":"Other"}],
+"ES":[4,"Est",{"12":"Fada N'gourma","13":"Diapaga","14":"Bogandé","15":"Gayéri","99999":"Other"}],
+"SW":[5,"Sud-Ouest",{"16":"Gaoua","17":"Diébougou","18":"Batié","19":"Dano","99999":"Other"}],
+"CN":[6,"Centre-Nord",{"20":"Kaya","21":"Boulsa","22":"Kongoussi","99999":"Other"}],
+"CE2":[7,"Centre-Est",{"23":"Tenkodogo","24":"Koupéla","25":"Ouargaye","26":"Garango","99999":"Other"}],
+"CO":[8,"Centre-Ouest",{"27":"Koudougou","28":"Réo","29":"Léo","30":"Sapouy","99999":"Other"}],
+"CS":[9,"Centre-Sud",{"31":"Manga","32":"Pô","33":"Kombissiri","99999":"Other"}],
+"BC":[10,"Boucle du Mouhoun",{"34":"Dédougou","35":"Boromo","36":"Nouna","37":"Tougan","99999":"Other"}],
+"CA":[11,"Cascades",{"38":"Banfora","39":"Sindou","40":"Niangoloko","99999":"Other"}],
+"PL":[12,"Plateau-Central",{"41":"Ziniaré","42":"Boussé","43":"Zorgho","99999":"Other"}],
+"SA":[13,"Sahel",{"44":"Dori","45":"Gorom-Gorom","46":"Djibo","47":"Sebba","99999":"Other"}]
+}}

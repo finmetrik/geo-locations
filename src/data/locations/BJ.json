@@ -1,0 +1,14 @@
+{"country":{"id":25,"code":"BJ","name":"Benin","phone_code":"+229"},"states":{
+"AL":[1,"Alibori",{"1":"Kandi","2":"Banikoara","3":"Ségbana","4":"Gogounou","5":"Kérou","6":"Malanville","99999":"Other"}],
+"AK":[2,"Atacora",{"7":"Natitingou","8":"Tanguiéta","9":"Djougou","10":"Copargo","11":"Ouaké","99999":"Other"}],
+"AQ":[3,"Atlantique",{"12":"Ouidah","13":"Abomey-Calavi","14":"Allada","15":"Toffo","16":"Kpomassé","17":"Tori-Bossito","18":"Zè","99999":"Other"}],
+"BO":[4,"Borgou",{"19":"Parakou","20":"Nikki","21":"N'Dali","22":"Tchaourou","23":"Pèrèrè","24":"Bembéréké","25":"Kalalé","26":"Sinendé","99999":"Other"}],
+"CO":[5,"Collines",{"27":"Dassa-Zoumé","28":"Savalou","29":"Glazoué","30":"Bantè","31":"Savè","32":"Ouèssè","99999":"Other"}],
+"DO":[6,"Donga",{"33":"Djougou","34":"Bassila","35":"Copargo","36":"Ouaké","99999":"Other"}],
+"KO":[7,"Kouffo",{"37":"Aplahoué","38":"Dogbo","39":"Djakotomey","40":"Klouékanmè","41":"Lalo","42":"Toviklin","99999":"Other"}],
+"LI":[8,"Littoral",{"43":"Cotonou","99999":"Other"}],
+"MO":[9,"Mono",{"44":"Lokossa","45":"Athiémé","46":"Bopa","47":"Comè","48":"Grand-Popo","49":"Houéyogbé","99999":"Other"}],
+"OU":[10,"Ouémé",{"50":"Porto-Novo","51":"Adjarra","52":"Adjohoun","53":"Aguégués","54":"Akpro-Missérété","55":"Avrankou","56":"Bonou","57":"Dangbo","58":"Sèmè-Kpodji","99999":"Other"}],
+"PL":[11,"Plateau",{"59":"Sakété","60":"Ifangni","61":"Adja-Ouèrè","62":"Kétou","63":"Pobè","99999":"Other"}],
+"ZO":[12,"Zou",{"64":"Abomey","65":"Bohicon","66":"Agbangnizoun","67":"Covè","68":"Djidja","69":"Ouinhi","70":"Za-Kpota","71":"Zangnanado","72":"Zogbodomey","99999":"Other"}]
+}}

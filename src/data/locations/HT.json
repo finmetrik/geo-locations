@@ -1,0 +1,12 @@
+{"country":{"id":99,"code":"HT","name":"Haiti","phone_code":"+509"},"states":{
+"AR":[1,"Artibonite",{"1":"Gonaïves","2":"Saint-Marc","3":"Dessalines","4":"Petite-Rivière-de-l'Artibonite","5":"Ennery","6":"L'Estère","7":"Verrettes","99999":"Other"}],
+"CE":[2,"Centre",{"8":"Hinche","9":"Cerca-la-Source","10":"Mirebalais","11":"Lascahobas","12":"Belladere","13":"Thomonde","99999":"Other"}],
+"GA":[3,"Grand'Anse",{"14":"Jérémie","15":"Anse-d'Hainault","16":"Dame-Marie","17":"Corail","18":"Beaumont","19":"Morón","99999":"Other"}],
+"NI":[4,"Nippes",{"20":"Miragôane","21":"Petite-Rivière-de-Nippes","22":"Anse-à-Veau","23":"L'Asile","24":"Plaisance-du-Sud","99999":"Other"}],
+"NO":[5,"Nord",{"25":"Cap-Haïtien","26":"Limbé","27":"Fort-Liberté","28":"Borgne","29":"Ouanaminthe","30":"Grande-Rivière-du-Nord","31":"Saint-Raphaël","32":"Dondon","33":"Milot","34":"Plaisance","99999":"Other"}],
+"ND":[6,"Nord-Est",{"35":"Fort-Liberté","36":"Ouanaminthe","37":"Trou-du-Nord","38":"Terrier-Rouge","39":"Caracol","40":"Vallières","99999":"Other"}],
+"NW":[7,"Nord-Ouest",{"41":"Port-de-Paix","42":"Môle-Saint-Nicolas","43":"Jean-Rabel","44":"Bombardopolis","45":"Bassin-Bleu","46":"Chansolme","99999":"Other"}],
+"OU":[8,"Ouest",{"47":"Port-au-Prince","48":"Carrefour","49":"Delmas","50":"Pétion-Ville","51":"Léogâne","52":"Jacmel","53":"Petit-Goâve","54":"Grand-Goâve","55":"Croix-des-Bouquets","56":"Kenscoff","57":"Gressier","58":"Tabarre","59":"Cité Soleil","60":"Ganthier","99999":"Other"}],
+"SE":[9,"Sud-Est",{"61":"Jacmel","62":"Marigot","63":"Cayes-Jacmel","64":"La Vallée-de-Jacmel","65":"Bainet","66":"Belle-Anse","67":"Thiotte","99999":"Other"}],
+"SD":[10,"Sud",{"68":"Les Cayes","69":"Aquin","70":"Saint-Louis-du-Sud","71":"Torbeck","72":"Port-à-Piment","73":"Cavaillon","74":"Camp-Perrin","75":"Maniche","76":"Ile-à-Vache","99999":"Other"}]
+}}

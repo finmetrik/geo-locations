@@ -1,0 +1,12 @@
+{"country":{"id":94,"code":"GY","name":"Guyana","phone_code":"+592"},"states":{
+"BA":[1,"Barima-Waini",{"1":"Mabaruma","2":"Port Kaituma","3":"Matthew's Ridge","4":"Moruca","5":"Hosororo","99999":"Other"}],
+"CU":[2,"Cuyuni-Mazaruni",{"6":"Bartica","7":"Issano","8":"Kartabo","9":"Kamarang","10":"Imbaimadai","99999":"Other"}],
+"DE":[3,"Demerara-Mahaica",{"11":"Georgetown","12":"Paradise","13":"Buxton","14":"Enmore","15":"Mahaica","16":"Mahaicony","99999":"Other"}],
+"EB":[4,"East Berbice-Corentyne",{"17":"New Amsterdam","18":"Rose Hall","19":"Corriverton","20":"Mara","21":"Whim","22":"Skeldon","99999":"Other"}],
+"ES":[5,"Essequibo Islands-West Demerara",{"23":"Vreed-en-Hoop","24":"Parika","25":"Zeeburg","26":"Uitvlugt","27":"Leonora","28":"Anna Regina","99999":"Other"}],
+"MA":[6,"Mahaica-Berbice",{"29":"Fort Wellington","30":"Rosignol","31":"Blairmont","32":"D'Edward","99999":"Other"}],
+"PM":[7,"Pomeroon-Supenaam",{"33":"Charity","34":"Anna Regina","35":"Supenaam","36":"Pickersgill","99999":"Other"}],
+"PT":[8,"Potaro-Siparuni",{"37":"Mahdia","38":"Tumatumari","39":"Orinduik","40":"Paramakatoi","99999":"Other"}],
+"UD":[9,"Upper Demerara-Berbice",{"41":"Linden","42":"Wismar","43":"Christianburg","44":"Mackenzie","45":"Ituni","46":"Kwakwani","99999":"Other"}],
+"UT":[10,"Upper Takutu-Upper Essequibo",{"47":"Lethem","48":"Annai","49":"Aishalton","50":"Good Hope","51":"Surama","99999":"Other"}]
+}}

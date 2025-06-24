@@ -1,0 +1,5 @@
+{"country":{"id":156,"code":"MW","name":"Malawi","phone_code":"+265"},"states":{
+"C":[1,"Central Region",{"1":"Lilongwe","2":"Dedza","3":"Dowa","4":"Kasungu","5":"Mchinji","6":"Nkhotakota","7":"Ntcheu","8":"Ntchisi","9":"Salima","10":"Madisi","11":"Chipoka","12":"Mitundu","13":"Malingunde","14":"Namitete","15":"Mkanda","16":"Mponela","17":"Dzalanyama","18":"Kabudula","19":"Lobi","20":"Chimbiya","99999":"Other"}],
+"N":[2,"Northern Region",{"21":"Mzuzu","22":"Chitipa","23":"Karonga","24":"Likoma","25":"Mzimba","26":"Nkhata Bay","27":"Rumphi","28":"Ekwendeni","29":"Chintheche","30":"Nkhata Bay Town","31":"Mzimba Boma","32":"Jenda","33":"Euthini","34":"Embangweni","35":"Edingeni","36":"Emfeni","37":"Enukweni","38":"Chikangawa","39":"Matapila","40":"Eswazini","99999":"Other"}],
+"S":[3,"Southern Region",{"41":"Blantyre","42":"Chikwawa","43":"Chiradzulu","44":"Machinga","45":"Mangochi","46":"Mulanje","47":"Mwanza","48":"Nsanje","49":"Thyolo","50":"Phalombe","51":"Zomba","52":"Balaka","53":"Liwonde","54":"Luchenza","55":"Malosa","56":"Monkey Bay","57":"Muloza","58":"Ngabu","59":"Nchalo","60":"Limbe","99999":"Other"}]
+}}

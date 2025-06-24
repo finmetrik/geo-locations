@@ -1,0 +1,15 @@
+{"country":{"id":221,"code":"TL","name":"Timor-Leste","phone_code":"+670"},"states":{
+"AL":[1,"Aileu",{"1":"Aileu","2":"Laulara","3":"Lequidoe","4":"Remexio","99999":"Other"}],
+"AN":[2,"Ainaro",{"5":"Ainaro","6":"Hato-Udo","7":"Hatu-Builico","8":"Maubisse","99999":"Other"}],
+"BA":[3,"Baucau",{"9":"Baucau","10":"Laga","11":"Quelicai","12":"Vemasse","13":"Venilale","14":"Baguia","99999":"Other"}],
+"BO":[4,"Bobonaro",{"15":"Maliana","16":"Bobonaro","17":"Atabae","18":"Balibo","19":"Cova Lima","20":"Lolotoe","21":"Zumalai","99999":"Other"}],
+"CO":[5,"Cova Lima",{"22":"Suai","23":"Fohorem","24":"Fatululik","25":"Fatumean","26":"Maucatar","27":"Tilomar","99999":"Other"}],
+"DI":[6,"Dili",{"28":"Dili","29":"Atauro","30":"Bazartete","31":"Cristo Rei","32":"Dom Aleixo","33":"Metinaro","34":"Nain Feto","35":"Vera Cruz","99999":"Other"}],
+"ER":[7,"Ermera",{"36":"Gleno","37":"Atsabe","38":"Ermera","39":"Hatulia","40":"Letefoho","41":"Railaco","99999":"Other"}],
+"LA":[8,"Lautem",{"42":"Lospalos","43":"Iliomar","44":"Lautem","45":"Luro","46":"Tutuala","99999":"Other"}],
+"LI":[9,"Liquiça",{"47":"Liquiça","48":"Bazartete","49":"Liquiça","50":"Maubara","99999":"Other"}],
+"MT":[10,"Manatuto",{"51":"Manatuto","52":"Barique","53":"Laclo","54":"Laclubar","55":"Laleia","56":"Manatuto","99999":"Other"}],
+"MF":[11,"Manufahi",{"57":"Same","58":"Alas","59":"Fatuberlio","60":"Manufahi","61":"Same","62":"Turiscai","99999":"Other"}],
+"OE":[12,"Oecusse",{"63":"Pante Macassar","64":"Nitibe","65":"Oesilo","66":"Passabe","99999":"Other"}],
+"VI":[13,"Viqueque",{"67":"Viqueque","68":"Lacluta","69":"Ossu","70":"Uato-Lari","71":"Watulari","99999":"Other"}]
+}}

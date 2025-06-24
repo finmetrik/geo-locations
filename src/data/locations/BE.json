@@ -1,0 +1,13 @@
+{"country":{"id":20,"code":"BE","name":"Belgium","phone_code":"+32"},"states":{
+"AN":[1,"Antwerp",{"1":"Antwerp","2":"Mechelen","3":"Turnhout","4":"Herentals","5":"Geel","6":"Mol","7":"Lier","8":"Heist-op-den-Berg","9":"Brasschaat","10":"Schoten","99999":"Other"}],
+"BW":[2,"Flemish Brabant",{"11":"Leuven","12":"Vilvoorde","13":"Tienen","14":"Halle","15":"Dilbeek","16":"Asse","17":"Zaventem","18":"Sint-Pieters-Leeuw","19":"Grimbergen","99999":"Other"}],
+"BW2":[3,"Walloon Brabant",{"20":"Wavre","21":"Braine-l'Alleud","22":"Ottignies-Louvain-la-Neuve","23":"Nivelles","24":"Waterloo","25":"Rixensart","26":"Tubize","99999":"Other"}],
+"BR":[4,"Brussels",{"27":"Brussels","28":"Schaerbeek","29":"Anderlecht","30":"Molenbeek-Saint-Jean","31":"Ixelles","32":"Uccle","33":"Forest","34":"Jette","35":"Woluwe-Saint-Lambert","36":"Etterbeek","99999":"Other"}],
+"EF":[5,"East Flanders",{"37":"Ghent","38":"Aalst","39":"Sint-Niklaas","40":"Dendermonde","41":"Lokeren","42":"Eeklo","43":"Oudenaarde","44":"Ronse","45":"Geraardsbergen","99999":"Other"}],
+"HT":[6,"Hainaut",{"46":"Charleroi","47":"Mons","48":"La Louvière","49":"Tournai","50":"Mouscron","51":"Ath","52":"Soignies","53":"Binche","54":"Châtelet","99999":"Other"}],
+"LG":[7,"Liège",{"55":"Liège","56":"Seraing","57":"Verviers","58":"Herstal","59":"Waremme","60":"Huy","61":"Eupen","62":"Ans","63":"Flémalle","99999":"Other"}],
+"LI":[8,"Limburg",{"64":"Hasselt","65":"Genk","66":"Sint-Truiden","67":"Tongeren","68":"Beringen","69":"Lommel","70":"Maasmechelen","71":"Heusden-Zolder","99999":"Other"}],
+"LX":[9,"Luxembourg",{"72":"Arlon","73":"Bastogne","74":"Marche-en-Famenne","75":"Neufchâteau","76":"Virton","77":"Durbuy","78":"La Roche-en-Ardenne","99999":"Other"}],
+"NA":[10,"Namur",{"79":"Namur","80":"Dinant","81":"Ciney","82":"Philippeville","83":"Andenne","84":"Gembloux","85":"Sambreville","99999":"Other"}],
+"WF":[11,"West Flanders",{"86":"Bruges","87":"Ostend","88":"Kortrijk","89":"Roeselare","90":"Ypres","91":"Waregem","92":"Knokke-Heist","93":"Harelbeke","94":"Izegem","99999":"Other"}]
+}}

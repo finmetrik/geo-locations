@@ -1,0 +1,22 @@
+{"country":{"id":33,"code":"BT","name":"Bhutan","phone_code":"+975"},"states":{
+"TH":[1,"Thimphu",{"1":"Thimphu","2":"Babesa","3":"Dechencholing","4":"Lungtenphu","5":"Simtokha","99999":"Other"}],
+"PA":[2,"Paro",{"6":"Paro","7":"Bondey","8":"Doteng","9":"Dopshari","10":"Hungrel","99999":"Other"}],
+"PU":[3,"Punakha",{"11":"Punakha","12":"Khuruthang","13":"Guma","14":"Kabjisa","15":"Lingmukha","99999":"Other"}],
+"WP":[4,"Wangdue Phodrang",{"16":"Wangdue Phodrang","17":"Bajo","18":"Gasetsho Wom","19":"Nyisho","99999":"Other"}],
+"HA":[5,"Haa",{"20":"Haa","21":"Gakiling","22":"Jangphu","23":"Talung","99999":"Other"}],
+"BU":[6,"Bumthang",{"24":"Jakar","25":"Chamkhar","26":"Kurjey","27":"Tang","99999":"Other"}],
+"CH":[7,"Chhukha",{"28":"Phuentsholing","29":"Gedu","30":"Chapcha","31":"Tsimasham","99999":"Other"}],
+"DA":[8,"Dagana",{"32":"Dagana","33":"Gesarling","34":"Lajab","35":"Nichula","99999":"Other"}],
+"GA":[9,"Gasa",{"36":"Gasa","37":"Damji","38":"Laya","39":"Lunana","99999":"Other"}],
+"JA":[10,"Zhemgang",{"40":"Zhemgang","41":"Panbang","42":"Trong","43":"Nangkor","99999":"Other"}],
+"LH":[11,"Lhuentse",{"44":"Lhuentse","45":"Tangmachu","46":"Autsho","47":"Khoma","99999":"Other"}],
+"MO":[12,"Mongar",{"48":"Mongar","49":"Gyelposhing","50":"Ngatshang","51":"Lingmethang","99999":"Other"}],
+"PE":[13,"Pemagatshel",{"52":"Pemagatshel","53":"Denchi","54":"Nganglam","55":"Shumar","99999":"Other"}],
+"SA":[14,"Samtse",{"56":"Samtse","57":"Sipsu","58":"Samtse","59":"Gomtu","99999":"Other"}],
+"SJ":[15,"Samdrup Jongkhar",{"60":"Samdrup Jongkhar","61":"Dewathang","62":"Jomotsangkha","63":"Pemathang","99999":"Other"}],
+"SG":[16,"Sarpang",{"64":"Sarpang","65":"Gelephu","66":"Shompangkha","67":"Umling","99999":"Other"}],
+"TA":[17,"Trashigang",{"68":"Trashigang","69":"Kanglung","70":"Wamrong","71":"Radi","99999":"Other"}],
+"TY":[18,"Trashiyangtse",{"72":"Trashiyangtse","73":"Doksum","74":"Ramjar","75":"Toetsho","99999":"Other"}],
+"TR":[19,"Trongsa",{"76":"Trongsa","77":"Langthil","78":"Tangsibji","79":"Nubi","99999":"Other"}],
+"TS":[20,"Tsirang",{"80":"Damphu","81":"Tsirangtoe","82":"Barshong","83":"Gosarling","99999":"Other"}]
+}}

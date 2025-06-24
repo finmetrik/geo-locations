@@ -1,0 +1,4 @@
+{"country":{"id":209,"code":"ST","name":"São Tomé and Príncipe","phone_code":"+239"},"states":{
+"ST":[1,"São Tomé",{"1":"São Tomé","2":"Água Grande","3":"Cantagalo","4":"Caué","5":"Lemba","6":"Lobata","7":"Mé-Zóchi","8":"Trindade","9":"Neves","10":"Guadalupe","11":"Santana","12":"Ribeira Afonso","13":"Santa Catarina","14":"Santa Cruz","15":"Pantufo","99999":"Other"}],
+"PR":[2,"Príncipe",{"16":"Santo António","17":"Pagué","18":"Porto Real","19":"Picão","20":"Terroso","21":"Bela Monte","22":"Infante Dom Henrique","23":"Sundy","24":"Abade","25":"Fundão","99999":"Other"}]
+}}

@@ -1,0 +1,7 @@
+{"country":{"id":219,"code":"TJ","name":"Tajikistan","phone_code":"+992"},"states":{
+"DU":[1,"Dushanbe",{"1":"Dushanbe","2":"Hisor","3":"Rudaki","4":"Shahrinav","5":"Tursunzoda","6":"Vahdat","7":"Faizobod","8":"Roghun","9":"Nurek","10":"Komsomolabad","99999":"Other"}],
+"GB":[2,"Gorno-Badakhshan",{"11":"Khorog","12":"Ishkashim","13":"Roshtqal'a","14":"Shughnon","15":"Murghob","16":"Vanj","17":"Darvoz","18":"Rushan","19":"Wakhan","20":"Roshtkala","99999":"Other"}],
+"KT":[3,"Khatlon",{"21":"Qurghonteppa","22":"Kulob","23":"Bokhtar","24":"Danghara","25":"Vose","26":"Yovon","27":"Jilikul","28":"Khovaling","29":"Muminobod","30":"Norak","31":"Panj","32":"Qumsangir","33":"Rumi","34":"Shahrtuz","35":"Temurmalik","36":"Farkhor","37":"Hamadoni","38":"Jayhun","39":"Khalton","40":"Pyanj","99999":"Other"}],
+"SU":[4,"Sughd",{"41":"Khujand","42":"Chkalovsk","43":"Kanibadam","44":"Istaravshan","45":"Panjakent","46":"Zafarobod","47":"Ghafurov","48":"Spitamen","49":"Mastchoh","50":"B. Gafurov","51":"Jabbar Rasulov","52":"Asht","53":"Devashtich","54":"Shahriston","55":"Ayni","56":"Matchoh","57":"Zafarobod","58":"Ghafurov","59":"Spitamen","60":"Mastchoh","99999":"Other"}],
+"RA":[5,"Districts of Republican Subordination",{"61":"Hisor","62":"Rudaki","63":"Shahrinav","64":"Tursunzoda","65":"Vahdat","66":"Faizobod","67":"Roghun","68":"Nurek","69":"Komsomolabad","70":"Lakhsh","71":"Rasht","72":"Tavildara","73":"Jirgital","74":"Sangvor","75":"Tojikobod","76":"Garm","77":"Komsomolabad","78":"Lakhsh","79":"Rasht","80":"Tavildara","99999":"Other"}]
+}}

@@ -1,0 +1,18 @@
+{"country":{"id":46,"code":"CL","name":"Chile","phone_code":"+56"},"states":{
+"AP":[1,"Arica y Parinacota",{"1":"Arica","2":"Putre","3":"Camarones","4":"General Lagos","99999":"Other"}],
+"TA":[2,"Tarapacá",{"5":"Iquique","6":"Alto Hospicio","7":"Pozo Almonte","8":"Pica","9":"Huara","99999":"Other"}],
+"AN":[3,"Antofagasta",{"10":"Antofagasta","11":"Calama","12":"Tocopilla","13":"Mejillones","14":"Taltal","15":"San Pedro de Atacama","99999":"Other"}],
+"AT":[4,"Atacama",{"16":"Copiapó","17":"Caldera","18":"Vallenar","19":"Chañaral","20":"Diego de Almagro","21":"Tierra Amarilla","99999":"Other"}],
+"CO":[5,"Coquimbo",{"22":"La Serena","23":"Coquimbo","24":"Ovalle","25":"Illapel","26":"Vicuña","27":"Salamanca","28":"Los Vilos","99999":"Other"}],
+"VA":[6,"Valparaíso",{"29":"Valparaíso","30":"Viña del Mar","31":"Quilpué","32":"Villa Alemana","33":"San Antonio","34":"Quillota","35":"Los Andes","36":"San Felipe","99999":"Other"}],
+"RM":[7,"Región Metropolitana de Santiago",{"37":"Santiago","38":"Puente Alto","39":"Maipú","40":"La Florida","41":"Las Condes","42":"Peñalolén","43":"San Bernardo","44":"Pudahuel","45":"Quilicura","46":"Recoleta","99999":"Other"}],
+"LI":[8,"Libertador General Bernardo O'Higgins",{"47":"Rancagua","48":"San Fernando","49":"Rengo","50":"Machalí","51":"San Vicente","52":"Pichilemu","53":"Santa Cruz","99999":"Other"}],
+"ML":[9,"Maule",{"54":"Talca","55":"Curicó","56":"Linares","57":"Constitución","58":"Cauquenes","59":"Parral","60":"Molina","99999":"Other"}],
+"NB":[10,"Ñuble",{"61":"Chillán","62":"San Carlos","63":"Bulnes","64":"Yungay","65":"Coihueco","99999":"Other"}],
+"BI":[11,"Biobío",{"66":"Concepción","67":"Talcahuano","68":"Los Ángeles","69":"Coronel","70":"San Pedro de la Paz","71":"Chiguayante","72":"Lota","73":"Penco","74":"Tomé","75":"Hualpén","99999":"Other"}],
+"AR":[12,"La Araucanía",{"76":"Temuco","77":"Padre Las Casas","78":"Villarrica","79":"Angol","80":"Victoria","81":"Lautaro","82":"Nueva Imperial","83":"Pucón","99999":"Other"}],
+"LR":[13,"Los Ríos",{"84":"Valdivia","85":"La Unión","86":"Río Bueno","87":"Panguipulli","88":"Mariquina","89":"Paillaco","99999":"Other"}],
+"LL":[14,"Los Lagos",{"90":"Puerto Montt","91":"Osorno","92":"Castro","93":"Puerto Varas","94":"Ancud","95":"Quellón","96":"Calbuco","97":"Frutillar","99999":"Other"}],
+"AI":[15,"Aysén del General Carlos Ibáñez del Campo",{"98":"Coyhaique","99":"Puerto Aysén","100":"Chile Chico","101":"Cochrane","102":"Puerto Cisnes","99999":"Other"}],
+"MA":[16,"Magallanes y de la Antártica Chilena",{"103":"Punta Arenas","104":"Puerto Natales","105":"Porvenir","106":"Puerto Williams","107":"Cerro Sombrero","99999":"Other"}]
+}}

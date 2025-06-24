@@ -1,0 +1,5 @@
+{"country":{"id":119,"code":"KM","name":"Comoros","phone_code":"+269"},"states":{
+"A":[1,"Anjouan",{"1":"Mutsamudu","2":"Domoni","3":"Tsimbeo","4":"Sima","5":"Moya","6":"Koni-Djodjo","7":"Pomoni","8":"Mramani","99999":"Other"}],
+"G":[2,"Grande Comore",{"9":"Moroni","10":"Mitsamiouli","11":"Fomboni","12":"Mbeni","13":"Foumbouni","14":"Singani","15":"Koimbani","16":"Oichili","17":"Ntsaoueni","18":"Ouellah","19":"Bahani","20":"Batsa Kouni","21":"Dembeni","22":"Djoumoichongo","23":"Foumbouni","24":"Hahaia","25":"Itsandra","26":"Ivembeni","27":"Koua","28":"Male","29":"Mboinkou","30":"Mkazi","31":"Nkourani","32":"Ntsadjeni","33":"Ntsorale","34":"Vanadjou","35":"Vouvouni","99999":"Other"}],
+"M":[3,"Mohéli",{"36":"Fomboni","37":"Nioumachoua","38":"Kangani","39":"Djoiezi","40":"Miringoni","41":"Wanani","42":"Ziroudani","43":"Bandrani","44":"Barakani","45":"Boungoueni","46":"Daji","47":"Hamavouna","48":"Mbatsioni","49":"Mlabanda","50":"Ndrondroni","51":"Nyambeni","52":"Ouallah","53":"Siri-Ziroudani","99999":"Other"}]
+}}

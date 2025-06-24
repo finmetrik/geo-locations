@@ -1,0 +1,8 @@
+{"country":{"id":37,"code":"BZ","name":"Belize","phone_code":"+501"},"states":{
+"BZ":[1,"Belize",{"1":"Belize City","2":"San Pedro","3":"Ladyville","4":"Lord's Bank","5":"Burrell Boom","6":"Crooked Tree","7":"Maskall","99999":"Other"}],
+"CY":[2,"Cayo",{"8":"San Ignacio","9":"Santa Elena","10":"Benque Viejo del Carmen","11":"Belmopan","12":"Georgeville","13":"Spanish Lookout","14":"San Antonio","99999":"Other"}],
+"CZ":[3,"Corozal",{"15":"Corozal Town","16":"Orange Walk","17":"Sarteneja","18":"Consejo","19":"Patchakan","20":"Xaibe","99999":"Other"}],
+"OW":[4,"Orange Walk",{"21":"Orange Walk Town","22":"San Pablo","23":"San Jose","24":"San Juan","25":"Guinea Grass","26":"Trial Farm","99999":"Other"}],
+"SC":[5,"Stann Creek",{"27":"Dangriga","28":"Placencia","29":"Hopkins","30":"Independence","31":"Seine Bight","32":"Sittee River","99999":"Other"}],
+"TO":[6,"Toledo",{"33":"Punta Gorda","34":"San Antonio","35":"San Pedro Columbia","36":"Big Falls","37":"Silver Creek","38":"San Marcos","99999":"Other"}]
+}}

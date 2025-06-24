@@ -1,0 +1,20 @@
+{"country":{"id":107,"code":"IQ","name":"Iraq","phone_code":"+964"},"states":{
+"BG":[1,"Baghdad",{"1":"Baghdad","2":"Abu Ghraib","3":"Al-Mahmoudiyah","4":"Al-Tarmiyah","5":"Al-Taji","6":"Al-Kadhimiya","7":"Al-Adhamiyah","8":"Sadr City","9":"Al-Karrada","10":"Al-Rasheed","11":"Al-Mansour","12":"Al-Karkh","99999":"Other"}],
+"BA":[2,"Basra",{"13":"Basra","14":"Az Zubayr","15":"Abu Al-Khaseeb","16":"Al-Qurnah","17":"Al-Hartha","18":"Al-Dayr","19":"Al-Midaina","20":"Al-Faw","21":"Shatt Al-Arab","99999":"Other"}],
+"MU":[3,"Al Muthanna",{"22":"Samawah","23":"Al-Rumaythah","24":"Al-Khidhir","25":"Al-Warka","99999":"Other"}],
+"QA":[4,"Al-Qādisiyyah",{"26":"Al Diwaniyah","27":"Afak","28":"Al-Shamiyah","29":"Al-Hamza","30":"Ash Shinafiyah","99999":"Other"}],
+"NA":[5,"Najaf",{"31":"Najaf","32":"Kufa","33":"Al-Manathera","34":"Al-Mishkhab","99999":"Other"}],
+"AR":[6,"Erbil",{"35":"Erbil","36":"Soran","37":"Shaqlawa","38":"Rawanduz","39":"Koya","40":"Makhmur","41":"Choman","42":"Mergasur","99999":"Other"}],
+"SU":[7,"As Sulaymaniyah",{"43":"Sulaymaniyah","44":"Halabja","45":"Chamchamal","46":"Rania","47":"Penjwin","48":"Kalar","49":"Kifri","50":"Darbandikhan","51":"Dukan","52":"Sharbazher","99999":"Other"}],
+"AN":[8,"Al Anbar",{"53":"Ramadi","54":"Fallujah","55":"Al-Qa'im","56":"Haditha","57":"Hit","58":"Anah","59":"Rawa","60":"Al-Rutbah","61":"Al-Karmah","62":"Abu Ghraib","99999":"Other"}],
+"BB":[9,"Babil",{"63":"Hillah","64":"Al-Qasim","65":"Al-Mahawil","66":"Al-Hashimiyah","67":"Al-Musayiab","68":"Jurf Al-Sakhar","69":"Al-Madhatiyah","70":"Iskandariya","99999":"Other"}],
+"DA":[10,"Dahuk",{"71":"Duhok","72":"Zakho","73":"Semel","74":"Akre","75":"Bardarash","76":"Amadiya","77":"Shekhan","99999":"Other"}],
+"DI":[11,"Diyala",{"78":"Baqubah","79":"Muqdadiyah","80":"Khanaqin","81":"Al-Khalis","82":"Balad Ruz","83":"Mandali","84":"Kifri","99999":"Other"}],
+"DQ":[12,"Dhi Qar",{"85":"Nasiriyah","86":"Al-Rifai","87":"Suq al-Shuyukh","88":"Al-Shatrah","89":"Al-Gharraf","90":"Al-Nasr","91":"Al-Dawayah","92":"Al-Chibayish","99999":"Other"}],
+"KA":[13,"Karbala",{"93":"Karbala","94":"Al-Hindiyah","95":"Ain Al-Tamur","99999":"Other"}],
+"KI":[14,"Kirkuk",{"96":"Kirkuk","97":"Hawija","98":"Daquq","99":"Dibis","100":"Al-Multaqa","99999":"Other"}],
+"MA":[15,"Maysan",{"101":"Amarah","102":"Ali Al-Gharbi","103":"Al-Mejar Al-Kabir","104":"Al-Maimouna","105":"Qal'at Saleh","106":"Al-Kahla","99999":"Other"}],
+"NI":[16,"Ninawa",{"107":"Mosul","108":"Tal Afar","109":"Al-Shikhan","110":"Sinjar","111":"Al-Hamdaniya","112":"Tilkaif","113":"Al-Baaj","114":"Hatra","115":"Al-Hadar","99999":"Other"}],
+"SD":[17,"Salah ad Din",{"116":"Tikrit","117":"Samarra","118":"Balad","119":"Tuz Khurmatu","120":"Al-Daur","121":"Al-Shirqat","122":"Baiji","123":"Al-Dujail","124":"Yathrib","99999":"Other"}],
+"WA":[18,"Wasit",{"125":"Kut","126":"Al-Suwaira","127":"Al-Hay","128":"Badra","129":"Al-Nu'maniyah","130":"Al-Aziziyah","99999":"Other"}]
+}}

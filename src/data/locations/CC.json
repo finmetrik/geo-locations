@@ -1,0 +1,8 @@
+{"country":{"id":39,"code":"CC","name":"Cocos (Keeling) Islands","phone_code":"+61"},"states":{
+"WI":[1,"West Island",{"1":"West Island","99999":"Other"}],
+"HI":[2,"Home Island",{"2":"Home Island","3":"Bantam","99999":"Other"}],
+"DI":[3,"Direction Island",{"4":"Direction Island","99999":"Other"}],
+"SI":[4,"South Island",{"5":"South Island","99999":"Other"}],
+"HO":[5,"Horsburgh Island",{"6":"Horsburgh Island","99999":"Other"}],
+"NI":[6,"North Keeling Island",{"7":"North Keeling Island","99999":"Other"}]
+}}

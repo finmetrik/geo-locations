@@ -1,0 +1,10 @@
+{"country":{"id":3,"code":"AF","name":"Afghanistan","phone_code":"+93"},"states":{
+"KAB":[1,"Kabul",{"1":"Kabul","2":"Paghman","3":"Char Asiab","4":"Istalif","5":"Qarabagh","6":"Mir Bacha Kot","7":"Shakardara","8":"Guldara","99999":"Other"}],
+"KAN":[2,"Kandahar",{"9":"Kandahar","10":"Spin Boldak","11":"Maiwand","12":"Shah Wali Kot","13":"Arghandab","14":"Daman","15":"Panjwai","99999":"Other"}],
+"HER":[3,"Herat",{"16":"Herat","17":"Islam Qala","18":"Ghoryan","19":"Shindand","20":"Injil","21":"Guzara","22":"Pashtun Zarghun","99999":"Other"}],
+"BAL":[4,"Balkh",{"23":"Mazar-i-Sharif","24":"Balkh","25":"Sholgareh","26":"Dehdadi","27":"Nahri Shahi","28":"Marmul","29":"Charbolak","99999":"Other"}],
+"NAN":[5,"Nangarhar",{"30":"Jalalabad","31":"Behsud","32":"Chaparhar","33":"Bati Kot","34":"Deh Bala","35":"Surkhrod","36":"Shinwar","99999":"Other"}],
+"GHA":[6,"Ghazni",{"37":"Ghazni","38":"Qarabagh","39":"Jaghatu","40":"Rashidan","41":"Khwaja Omari","42":"Gelan","43":"Muqur","99999":"Other"}],
+"BAM":[7,"Bamyan",{"44":"Bamyan","45":"Shibar","46":"Sayghan","47":"Kahmard","48":"Panjab","49":"Waras","50":"Yakawlang","99999":"Other"}],
+"KUN":[8,"Kunduz",{"51":"Kunduz","52":"Aliabad","53":"Qalay-I-Zal","54":"Khanabad","55":"Imam Sahib","56":"Dasht-e Archi","57":"Chahar Dara","99999":"Other"}]
+}}

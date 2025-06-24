@@ -1,0 +1,11 @@
+{"country":{"id":204,"code":"SM","name":"San Marino","phone_code":"+378"},"states":{
+"01":[1,"Acquaviva",{"1":"Acquaviva","99999":"Other"}],
+"02":[2,"Borgo Maggiore",{"2":"Borgo Maggiore","3":"Cailungo","4":"Teglio","5":"Ventoso","99999":"Other"}],
+"03":[3,"Chiesanuova",{"6":"Chiesanuova","7":"Busignano","8":"Galavotto","9":"Mularossa","99999":"Other"}],
+"04":[4,"Domagnano",{"10":"Domagnano","11":"Fiorina","12":"Montegiardino","13":"Spaccio","99999":"Other"}],
+"05":[5,"Faetano",{"14":"Faetano","15":"Calligaria","16":"Corianino","17":"Monte Pulito","99999":"Other"}],
+"06":[6,"Fiorentino",{"18":"Fiorentino","19":"Caladino","20":"Pennarossa","21":"San Marino di Sopra","99999":"Other"}],
+"07":[7,"Montegiardino",{"22":"Montegiardino","23":"Cerbaiola","99999":"Other"}],
+"08":[8,"San Marino",{"24":"San Marino","25":"Murata","26":"Ca' Ragni","27":"Valdragone","28":"Canepa","29":"Castellaro","30":"Fonte dell'Ovo","99999":"Other"}],
+"09":[9,"Serravalle",{"31":"Serravalle","32":"Dogana","33":"Falciano","34":"Galazzano","35":"La Croce","36":"Rovereta","37":"Torraccia","99999":"Other"}]
+}}

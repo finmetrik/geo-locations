@@ -1,0 +1,11 @@
+{"country":{"id":76,"code":"GA","name":"Gabon","phone_code":"+241"},"states":{
+"ES":[1,"Estuaire",{"1":"Libreville","2":"Ntoum","3":"Kango","4":"Cocobeach","5":"Cap Estérias","99999":"Other"}],
+"HO":[2,"Haut-Ogooué",{"6":"Franceville","7":"Moanda","8":"Mounana","9":"Okondja","10":"Akiéni","99999":"Other"}],
+"MO":[3,"Moyen-Ogooué",{"11":"Lambaréné","12":"Ndjolé","13":"Fougamou","14":"Nzenzélé","99999":"Other"}],
+"NG":[4,"Ngounié",{"15":"Mouila","16":"Ndendé","17":"Mandji","18":"Mbigou","19":"Mimongo","20":"Lébamba","99999":"Other"}],
+"NY":[5,"Nyanga",{"21":"Tchibanga","22":"Mayumba","23":"Moabi","24":"Mabanda","99999":"Other"}],
+"OM":[6,"Ogooué-Ivindo",{"25":"Makokou","26":"Ovan","27":"Booué","28":"Mékambo","99999":"Other"}],
+"OL":[7,"Ogooué-Lolo",{"29":"Koulamoutou","30":"Lastoursville","31":"Iboundji","32":"Pana","99999":"Other"}],
+"OM2":[8,"Ogooué-Maritime",{"33":"Port-Gentil","34":"Omboué","35":"Gamba","36":"Sette Cama","99999":"Other"}],
+"WN":[9,"Woleu-Ntem",{"37":"Oyem","38":"Bitam","39":"Mitzic","40":"Minvoul","41":"Medouneu","99999":"Other"}]
+}}

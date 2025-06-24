@@ -1,0 +1,13 @@
+{"country":{"id":145,"code":"ML","name":"Mali","phone_code":"+223"},"states":{
+"BKO":[1,"Bamako",{"1":"Bamako","2":"Commune I","3":"Commune II","4":"Commune III","5":"Commune IV","6":"Commune V","7":"Commune VI","99999":"Other"}],
+"7":[2,"Gao",{"8":"Gao","9":"Ansongo","10":"Bourem","11":"Menaka","99999":"Other"}],
+"1":[3,"Kayes",{"12":"Kayes","13":"Bafoulabé","14":"Diéma","15":"Kéniéba","16":"Kita","17":"Nioro du Sahel","18":"Yélimané","99999":"Other"}],
+"8":[4,"Kidal",{"19":"Kidal","20":"Abeibara","21":"Tessalit","22":"Tin-Essako","99999":"Other"}],
+"2":[5,"Koulikoro",{"23":"Koulikoro","24":"Banamba","25":"Dioila","26":"Kangaba","27":"Kati","28":"Kolokani","29":"Nara","99999":"Other"}],
+"5":[6,"Mopti",{"30":"Mopti","31":"Bandiagara","32":"Bankass","33":"Djenné","34":"Douentza","35":"Koro","36":"Ténenkou","37":"Youwarou","99999":"Other"}],
+"4":[7,"Ségou",{"38":"Ségou","39":"Baroueli","40":"Bla","41":"Macina","42":"Niono","43":"San","44":"Tominian","99999":"Other"}],
+"3":[8,"Sikasso",{"45":"Sikasso","46":"Bougouni","47":"Kadiolo","48":"Kolondiéba","49":"Koutiala","50":"Yanfolila","51":"Yorosso","99999":"Other"}],
+"6":[9,"Tombouctou",{"52":"Tombouctou","53":"Diré","54":"Goundam","55":"Gourma-Rharous","56":"Niafunké","99999":"Other"}],
+"9":[10,"Taoudénit",{"57":"Taoudénit","58":"Achouratt","59":"Al-Ourche","60":"Araouane","61":"Boujbeha","62":"Foum-Elba","99999":"Other"}],
+"10":[11,"Ménaka",{"63":"Ménaka","64":"Andéramboukane","65":"Inékar","66":"Tidèrene","99999":"Other"}]
+}}

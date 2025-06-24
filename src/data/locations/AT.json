@@ -1,0 +1,11 @@
+{"country":{"id":12,"code":"AT","name":"Austria","phone_code":"+43"},"states":{
+"BU":[1,"Burgenland",{"1":"Eisenstadt","2":"Rust","3":"Oberwart","4":"Oberpullendorf","5":"Neusiedl am See","6":"Mattersburg","7":"Jennersdorf","8":"Güssing","99999":"Other"}],
+"KA":[2,"Carinthia",{"9":"Klagenfurt","10":"Villach","11":"Wolfsberg","12":"Spittal an der Drau","13":"Feldkirchen","14":"St. Veit an der Glan","15":"Völkermarkt","99999":"Other"}],
+"LA":[3,"Lower Austria",{"16":"St. Pölten","17":"Wiener Neustadt","18":"Baden","19":"Klosterneuburg","20":"Krems","21":"Amstetten","22":"Mödling","23":"Tulln","99999":"Other"}],
+"SA":[4,"Salzburg",{"24":"Salzburg","25":"Hallein","26":"Saalfelden","27":"St. Johann im Pongau","28":"Bischofshofen","29":"Zell am See","30":"Seekirchen am Wallersee","99999":"Other"}],
+"ST":[5,"Styria",{"31":"Graz","32":"Leoben","33":"Kapfenberg","34":"Bruck an der Mur","35":"Feldbach","36":"Knittelfeld","37":"Leibnitz","99999":"Other"}],
+"TI":[6,"Tyrol",{"38":"Innsbruck","39":"Kufstein","40":"Telfs","41":"Schwaz","42":"Hall in Tirol","43":"Wörgl","44":"Lienz","99999":"Other"}],
+"UA":[7,"Upper Austria",{"45":"Linz","46":"Wels","47":"Steyr","48":"Leonding","49":"Traun","50":"Braunau am Inn","51":"Ansfelden","99999":"Other"}],
+"VI":[8,"Vienna",{"52":"Vienna","53":"Innere Stadt","54":"Leopoldstadt","55":"Landstraße","56":"Wieden","57":"Margareten","58":"Mariahilf","59":"Neubau","60":"Josefstadt","99999":"Other"}],
+"VO":[9,"Vorarlberg",{"61":"Bregenz","62":"Dornbirn","63":"Feldkirch","64":"Bludenz","65":"Lustenau","66":"Hohenems","67":"Rankweil","99999":"Other"}]
+}}

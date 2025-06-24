@@ -1,0 +1,5 @@
+{"country":{"id":17,"code":"BA","name":"Bosnia and Herzegovina","phone_code":"+387"},"states":{
+"FBH":[1,"Federation of Bosnia and Herzegovina",{"1":"Sarajevo","2":"Tuzla","3":"Zenica","4":"Mostar","5":"Bihać","6":"Bugojno","7":"Cazin","8":"Čapljina","9":"Goražde","10":"Gradačac","11":"Gračanica","12":"Kakanj","13":"Konjic","14":"Livno","15":"Lukavac","16":"Orašje","17":"Sanski Most","18":"Srebrenik","19":"Stolac","20":"Široki Brijeg","21":"Travnik","22":"Visoko","23":"Zavidovići","24":"Žepče","25":"Živinice","99999":"Other"}],
+"RS":[2,"Republika Srpska",{"26":"Banja Luka","27":"Bijeljina","28":"Prijedor","29":"Doboj","30":"Trebinje","31":"Gradiška","32":"Zvornik","33":"Mrkonjić Grad","34":"Foča","35":"Bileća","36":"Kozarska Dubica","37":"Nevesinje","38":"Prnjavor","39":"Pale","40":"Laktaši","41":"Teslić","42":"Novi Grad","43":"Derventa","44":"Modriča","45":"Šamac","46":"Višegrad","47":"Rogatica","48":"Ugljevik","49":"Lopare","99999":"Other"}],
+"BD":[3,"Brčko District",{"50":"Brčko","99999":"Other"}]
+}}

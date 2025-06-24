@@ -1,0 +1,8 @@
+{"country":{"id":103,"code":"IL","name":"Israel","phone_code":"+972"},"states":{
+"D":[1,"Southern",{"1":"Beersheba","2":"Ashdod","3":"Ashkelon","4":"Eilat","5":"Netivot","6":"Sderot","7":"Dimona","8":"Arad","9":"Kiryat Gat","10":"Ofakim","11":"Kiryat Malakhi","12":"Rahat","99999":"Other"}],
+"M":[2,"Central",{"13":"Rishon LeZion","14":"Petah Tikva","15":"Ramla","16":"Lod","17":"Rehovot","18":"Ness Ziona","19":"Modiin-Maccabim-Reut","20":"Yavne","21":"Gedera","22":"Kiryat Ekron","99999":"Other"}],
+"Z":[3,"Northern",{"23":"Haifa","24":"Nazareth","25":"Acre","26":"Nahariya","27":"Kiryat Shmona","28":"Tiberias","29":"Karmiel","30":"Afula","31":"Beit Shean","32":"Safed","33":"Migdal HaEmek","34":"Yokneam","35":"Kiryat Ata","36":"Kiryat Motzkin","37":"Kiryat Bialik","38":"Kiryat Yam","39":"Nesher","40":"Or Akiva","41":"Zichron Yaakov","42":"Rosh Pinna","43":"Hatzor HaGlilit","99999":"Other"}],
+"HA":[4,"Haifa",{"44":"Haifa","45":"Hadera","46":"Kiryat Ata","47":"Kiryat Motzkin","48":"Kiryat Bialik","49":"Kiryat Yam","50":"Nesher","51":"Tirat Carmel","52":"Daliyat al-Karmel","53":"Or Akiva","54":"Zichron Yaakov","99999":"Other"}],
+"TA":[5,"Tel Aviv",{"55":"Tel Aviv","56":"Jaffa","57":"Ramat Gan","58":"Bnei Brak","59":"Holon","60":"Bat Yam","61":"Givatayim","62":"Herzliya","63":"Raanana","64":"Kfar Saba","65":"Hod HaSharon","66":"Ramat HaSharon","67":"Rosh HaAyin","68":"Or Yehuda","69":"Yehud-Monosson","70":"Kiryat Ono","99999":"Other"}],
+"JM":[6,"Jerusalem",{"71":"Jerusalem","72":"Beit Shemesh","73":"Maaleh Adumim","74":"Modiin Illit","75":"Beitar Illit","76":"Givat Zeev","77":"Abu Ghosh","78":"Mevaseret Zion","79":"Kiryat Yearim","99999":"Other"}]
+}}

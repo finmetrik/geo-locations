@@ -1,0 +1,13 @@
+{"country":{"id":18,"code":"BB","name":"Barbados","phone_code":"+1"},"states":{
+"CC":[1,"Christ Church",{"1":"Oistins","2":"Dover","3":"St. Lawrence Gap","4":"Rockley","5":"Worthing","6":"Hastings","7":"Welches","99999":"Other"}],
+"SA":[2,"Saint Andrew",{"8":"Belleplaine","9":"Shorey Village","10":"Greenland","11":"Hillaby","99999":"Other"}],
+"SG":[3,"Saint George",{"12":"The Valley","13":"Salters","14":"Ellerton","15":"George Hill","99999":"Other"}],
+"SJ":[4,"Saint James",{"16":"Holetown","17":"Prospect","18":"Paynes Bay","19":"Porters","20":"Weston","99999":"Other"}],
+"SJO":[5,"Saint John",{"21":"Four Roads","22":"Gall Hill","23":"Coach Hill","24":"Colleton","99999":"Other"}],
+"SJO2":[6,"Saint Joseph",{"25":"Bathsheba","26":"Cattlewash","27":"Blackmans","28":"Fruitful Hill","99999":"Other"}],
+"SL":[7,"Saint Lucy",{"29":"Crab Hill","30":"Pie Corner","31":"Checker Hall","32":"Greenidge","99999":"Other"}],
+"SM":[8,"Saint Michael",{"33":"Bridgetown","34":"Speightstown","35":"Warrens","36":"Belleville","37":"Black Rock","38":"Cave Hill","39":"Haggatt Hall","99999":"Other"}],
+"SP":[9,"Saint Peter",{"40":"Speightstown","41":"Mullins","42":"Ashton Hall","43":"Boscobelle","44":"Diamond Corner","99999":"Other"}],
+"SPH":[10,"Saint Philip",{"45":"Crane","46":"Foul Bay","47":"Marchfield","48":"Marley Vale","49":"Six Roads","99999":"Other"}],
+"ST":[11,"Saint Thomas",{"50":"Hillaby","51":"Welchman Hall","52":"Edgecliff","53":"Rock Hall","99999":"Other"}]
+}}

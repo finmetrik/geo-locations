@@ -1,0 +1,8 @@
+{"country":{"id":237,"code":"VC","name":"Saint Vincent and the Grenadines","phone_code":"+1"},"states":{
+"01":[1,"Charlotte",{"1":"Georgetown","2":"Sandy Bay","3":"Overland","4":"Fancy","5":"Orange Hill","6":"Owia","7":"Rutland Vale","8":"Spring Village","9":"Rose Bank","10":"Colonarie","99999":"Other"}],
+"02":[2,"Saint Andrew",{"11":"Layou","12":"Barrouallie","13":"Questelles","14":"Buccament","15":"Vermont","16":"Penniston","17":"Camden Park","18":"New Adelphi","19":"Chateaubelair","20":"Richmond","99999":"Other"}],
+"03":[3,"Saint David",{"21":"Chateaubelair","22":"Richmond","23":"Fancy","24":"Wallilabou","25":"Cumberland","26":"Troumaca","27":"Spring Village","28":"Coulls Hill","29":"Campden Park","30":"Penniston","99999":"Other"}],
+"04":[4,"Saint George",{"31":"Kingstown","32":"Calliaqua","33":"Marriaqua","34":"Mesopotamia","35":"Stubbs","36":"Peruvian Vale","37":"Dauphine","38":"Calder","39":"Prospect","40":"Fairbaine","99999":"Other"}],
+"05":[5,"Saint Patrick",{"41":"Barrouallie","42":"Wallilabou","43":"Cumberland","44":"Troumaca","45":"Spring Village","46":"Coulls Hill","47":"Campden Park","48":"Penniston","49":"Vermont","50":"Buccament","99999":"Other"}],
+"06":[6,"Grenadines",{"51":"Port Elizabeth","52":"Lovell Village","53":"Paget Farm","54":"Ashton","55":"Clifton","56":"Charlestown","57":"Canouan","58":"Mayreau","59":"Union Island","60":"Mustique","61":"Petit Saint Vincent","62":"Young Island","63":"Baliceaux","64":"Battowia","65":"Dove Island","66":"Friendship Bay","67":"Happy Island","68":"Isle à Quatre","69":"Petit Canouan","70":"Petit Mustique","71":"Petit Tobac","72":"Pigeon Island","73":"Rabbit Island","74":"Savan Island","75":"World's End Reef","99999":"Other"}]
+}}

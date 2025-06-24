@@ -1,0 +1,10 @@
+{"country":{"id":26,"code":"BL","name":"Saint Barthélemy","phone_code":"+590"},"states":{
+"GU":[1,"Gustavia",{"1":"Gustavia","2":"La Pointe","3":"Public","99999":"Other"}],
+"SJ":[2,"Saint-Jean",{"4":"Saint-Jean","5":"Lorient","6":"Mont Jean","99999":"Other"}],
+"CO":[3,"Colombier",{"7":"Colombier","8":"Flamands","9":"Terre Neuve","99999":"Other"}],
+"CA":[4,"Corossol",{"10":"Corossol","11":"La Grande Montagne","99999":"Other"}],
+"AN":[5,"Anse des Cayes",{"12":"Anse des Cayes","13":"Marigot","14":"Grand Cul-de-Sac","99999":"Other"}],
+"TO":[6,"Toiny",{"15":"Toiny","16":"Grand Fond","17":"Petit Cul-de-Sac","99999":"Other"}],
+"LU":[7,"Lurin",{"18":"Lurin","19":"Gouverneur","20":"Grande Saline","99999":"Other"}],
+"PO":[8,"Pointe Milou",{"21":"Pointe Milou","22":"Vitet","23":"Devet","99999":"Other"}]
+}}

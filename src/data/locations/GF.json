@@ -1,0 +1,6 @@
+{"country":{"id":80,"code":"GF","name":"French Guiana","phone_code":"+594"},"states":{
+"CA":[1,"Cayenne",{"1":"Cayenne","2":"Remire-Montjoly","3":"Matoury","4":"Macouria","5":"Montsinéry-Tonnegrande","6":"Roura","99999":"Other"}],
+"SL":[2,"Saint-Laurent-du-Maroni",{"7":"Saint-Laurent-du-Maroni","8":"Mana","9":"Awala-Yalimapo","10":"Apatou","11":"Grand-Santi","12":"Papaïchton","13":"Maripasoula","14":"Saül","99999":"Other"}],
+"KO":[3,"Kourou",{"15":"Kourou","16":"Sinnamary","17":"Iracoubo","99999":"Other"}],
+"SG":[4,"Saint-Georges",{"18":"Saint-Georges","19":"Ouanary","20":"Régina","21":"Camopi","99999":"Other"}]
+}}

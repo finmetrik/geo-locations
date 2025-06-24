@@ -1,0 +1,14 @@
+{"country":{"id":79,"code":"GE","name":"Georgia","phone_code":"+995"},"states":{
+"TB":[1,"Tbilisi",{"1":"Tbilisi","2":"Vake","3":"Saburtalo","4":"Isani","5":"Samgori","6":"Didube","7":"Chugureti","8":"Gldani","9":"Nadzaladevi","10":"Mtatsminda","99999":"Other"}],
+"AB":[2,"Abkhazia",{"11":"Sukhumi","12":"Gagra","13":"Pitsunda","14":"Gudauta","15":"New Athos","16":"Ochamchira","17":"Tkvarcheli","18":"Gali","99999":"Other"}],
+"AJ":[3,"Adjara",{"19":"Batumi","20":"Kobuleti","21":"Khelvachauri","22":"Keda","23":"Shuakhevi","24":"Khulo","99999":"Other"}],
+"GU":[4,"Guria",{"25":"Ozurgeti","26":"Lanchkhuti","27":"Chokhatauri","99999":"Other"}],
+"IM":[5,"Imereti",{"28":"Kutaisi","29":"Samtredia","30":"Sachkhere","31":"Zestafoni","32":"Bagdati","33":"Vani","34":"Kharagauli","35":"Terjola","36":"Tkibuli","37":"Tsqaltubo","38":"Chiatura","39":"Khoni","99999":"Other"}],
+"KA":[6,"Kakheti",{"40":"Telavi","41":"Gurjaani","42":"Kvareli","43":"Sagarejo","44":"Dedoplistsqaro","45":"Signagi","46":"Lagodekhi","47":"Akhmeta","99999":"Other"}],
+"KK":[7,"Kvemo Kartli",{"48":"Rustavi","49":"Gardabani","50":"Marneuli","51":"Bolnisi","52":"Dmanisi","53":"Tsalka","54":"Tetritskaro","99999":"Other"}],
+"MM":[8,"Mtskheta-Mtianeti",{"55":"Mtskheta","56":"Dusheti","57":"Tianeti","58":"Kazbegi","99999":"Other"}],
+"RL":[9,"Racha-Lechkhumi and Kvemo Svaneti",{"59":"Ambrolauri","60":"Lentekhi","61":"Oni","62":"Tsageri","99999":"Other"}],
+"SZ":[10,"Samegrelo-Zemo Svaneti",{"63":"Zugdidi","64":"Poti","65":"Senaki","66":"Martvili","67":"Khobi","68":"Abasha","69":"Mestia","70":"Tsalenjikha","71":"Chkhorotsku","99999":"Other"}],
+"SJ":[11,"Samtskhe-Javakheti",{"72":"Akhaltsikhe","73":"Adigeni","74":"Aspindza","75":"Borjomi","76":"Akhalkalaki","77":"Ninotsminda","99999":"Other"}],
+"SK":[12,"Shida Kartli",{"78":"Gori","79":"Kaspi","80":"Kareli","81":"Khashuri","82":"Java","83":"Tskhinvali","99999":"Other"}]
+}}

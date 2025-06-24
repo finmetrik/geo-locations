@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geo-Locations Browser Demo</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #205081;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: space-between;
+        }
+        .card {
+            width: 100%;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+        .flag {
+            font-size: 2rem;
+            margin-right: 10px;
+        }
+        .selectors {
+            margin-bottom: 20px;
+        }
+        select {
+            padding: 8px 10px;
+            border-radius: 4px;
+            border: 1px solid #ddd;
+            margin-right: 10px;
+            min-width: 200px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            text-align: left;
+            padding: 12px;
+            border-bottom: 1px solid #ddd;
+        }
+        th {
+            background-color: #f8f9fa;
+        }
+        .result {
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-radius: 4px;
+            border: 1px solid #ddd;
+            overflow: auto;
+            max-height: 300px;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 0.9rem;
+            color: #666;
+        }
+        @media (min-width: 768px) {
+            .half-width {
+                width: calc(50% - 10px);
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Geo-Locations Browser Demo</h1>
+
+    <div class="container">
+        <div class="card">
+            <h2>Country Selection</h2>
+            <div class="selectors">
+                <select id="countrySelect">
+                    <option value="">Select Country...</option>
+                </select>
+            </div>
+
+            <div id="countryInfo" class="header" style="display: none;">
+                <div id="countryFlag" class="flag"></div>
+                <h3 id="countryName"></h3>
+            </div>
+
+            <div id="countryDetails"></div>
+        </div>
+
+        <div class="card">
+            <h2>States & Cities</h2>
+            <div class="selectors">
+                <select id="stateSelect" disabled>
+                    <option value="">Select State...</option>
+                </select>
+                <select id="citySelect" disabled>
+                    <option value="">Select City...</option>
+                </select>
+            </div>
+
+            <div id="locationDetails"></div>
+        </div>
+
+        <div class="card half-width">
+            <h2>Currency Information</h2>
+            <div id="currencyDetails"></div>
+        </div>
+
+        <div class="card half-width">
+            <h2>Flag Information</h2>
+            <div id="flagDetails"></div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>Geo-Locations - A comprehensive geo-location dataset by Finmetrik IT Solutions LLC</p>
+        <p>Built with ❤️ in Dubai</p>
+    </div>
+
+    <script>
+        // Sample data - In a real implementation, this would be loaded from the geo-locations library
+        // For this demo, we'll use a small subset of the data
+        const SAMPLE_COUNTRIES = [
+            {"id":1,"code":"AD","name":"Andorra","phone_code":"+376","currency":"EUR","timezone":"Europe/Andorra"},
+            {"id":2,"code":"AE","name":"United Arab Emirates","phone_code":"+971","currency":"AED","timezone":"Asia/Dubai"},
+            {"id":3,"code":"AF","name":"Afghanistan","phone_code":"+93","currency":"AFN","timezone":"Asia/Kabul"},
+            {"id":233,"code":"US","name":"United States","phone_code":"+1","currency":"USD","timezone":"America/New_York"}
+        ];
+
+        const SAMPLE_CURRENCIES = {
+            "EUR": {"currency_code":"EUR","currency_name":"Euro","symbol":"€","native_symbol":"€","decimal_digits":2},
+            "AED": {"currency_code":"AED","currency_name":"United Arab Emirates Dirham","symbol":"AED","native_symbol":"د.إ.‏","decimal_digits":2},
+            "AFN": {"currency_code":"AFN","currency_name":"Afghan Afghani","symbol":"Af","native_symbol":"؋","decimal_digits":0},
+            "USD": {"currency_code":"USD","currency_name":"US Dollar","symbol":"$","native_symbol":"$","decimal_digits":2}
+        };
+
+        const SAMPLE_FLAGS = {
+            "AD": {"emoji":"🇦🇩","svg_url":"https://flagcdn.com/AD.svg","colors":{"primary":"#0018A8","secondary":"#FEDF00","tertiary":"#C8102E"}},
+            "AE": {"emoji":"🇦🇪","svg_url":"https://flagcdn.com/AE.svg","colors":{"primary":"#00732F","secondary":"#FFFFFF","tertiary":"#FF0000","quaternary":"#000000"}},
+            "AF": {"emoji":"🇦🇫","svg_url":"https://flagcdn.com/AF.svg","colors":{"primary":"#000000","secondary":"#D32011","tertiary":"#009900"}},
+            "US": {"emoji":"🇺🇸","svg_url":"https://flagcdn.com/US.svg","colors":{"primary":"#B22234","secondary":"#FFFFFF","tertiary":"#3C3B6E"}}
+        };
+
+        const SAMPLE_LOCATIONS = {
+            "US": {
+                "states": {
+                    "CA": [5, "California", {"41":"Los Angeles","42":"San Diego","43":"San Jose","44":"San Francisco"}],
+                    "NY": [32, "New York", {"301":"New York City","302":"Buffalo","303":"Rochester","304":"Albany"}],
+                    "TX": [43, "Texas", {"401":"Houston","402":"Dallas","403":"Austin","404":"San Antonio"}]
+                }
+            },
+            "AE": {
+                "states": {
+                    "AZ": [1, "Abu Zaby", {"1":"Abu Dhabi","2":"Al Ain"}],
+                    "DU": [2, "Dubai", {"3":"Dubai","4":"Jebel Ali"}],
+                    "SH": [3, "Sharjah", {"5":"Sharjah"}]
+                }
+            }
+        };
+
+        // DOM elements
+        const countrySelect = document.getElementById('countrySelect');
+        const stateSelect = document.getElementById('stateSelect');
+        const citySelect = document.getElementById('citySelect');
+        const countryInfo = document.getElementById('countryInfo');
+        const countryFlag = document.getElementById('countryFlag');
+        const countryName = document.getElementById('countryName');
+        const countryDetails = document.getElementById('countryDetails');
+        const currencyDetails = document.getElementById('currencyDetails');
+        const flagDetails = document.getElementById('flagDetails');
+        const locationDetails = document.getElementById('locationDetails');
+
+        // Populate countries dropdown
+        SAMPLE_COUNTRIES.forEach(country => {
+            const option = document.createElement('option');
+            option.value = country.code;
+            option.textContent = `${country.name} (${country.code})`;
+            countrySelect.appendChild(option);
+        });
+
+        // Event listeners
+        countrySelect.addEventListener('change', handleCountryChange);
+        stateSelect.addEventListener('change', handleStateChange);
+        citySelect.addEventListener('change', handleCityChange);
+
+        function handleCountryChange() {
+            const countryCode = countrySelect.value;
+            if (!countryCode) {
+                resetUI();
+                return;
+            }
+
+            // Get country data
+            const country = SAMPLE_COUNTRIES.find(c => c.code === countryCode);
+            const currency = SAMPLE_CURRENCIES[country.currency];
+            const flag = SAMPLE_FLAGS[countryCode];
+            const locationData = SAMPLE_LOCATIONS[countryCode];
+
+            // Display country info
+            countryInfo.style.display = 'flex';
+            countryFlag.textContent = flag.emoji;
+            countryName.textContent = country.name;
+
+            // Display country details
+            countryDetails.innerHTML = `
+                <table>
+                    <tr><th>Code</th><td>${country.code}</td></tr>
+                    <tr><th>Phone Code</th><td>${country.phone_code}</td></tr>
+                    <tr><th>Currency</th><td>${country.currency}</td></tr>
+                    <tr><th>Timezone</th><td>${country.timezone}</td></tr>
+                </table>
+            `;
+
+            // Display currency details
+            if (currency) {
+                currencyDetails.innerHTML = `
+                    <table>
+                        <tr><th>Name</th><td>${currency.currency_name}</td></tr>
+                        <tr><th>Code</th><td>${currency.currency_code}</td></tr>
+                        <tr><th>Symbol</th><td>${currency.symbol} (${currency.native_symbol})</td></tr>
+                        <tr><th>Decimal Digits</th><td>${currency.decimal_digits}</td></tr>
+                    </table>
+                `;
+            } else {
+                currencyDetails.innerHTML = '<p>No currency data available for this country.</p>';
+            }
+
+            // Display flag details
+            if (flag) {
+                flagDetails.innerHTML = `
+                    <div style="display: flex; align-items: center; margin-bottom: 15px;">
+                        <span style="font-size: 3rem; margin-right: 15px;">${flag.emoji}</span>
+                        <img src="${flag.svg_url}" alt="${country.name} flag" height="50">
+                    </div>
+                    <div>
+                        <h4>Colors</h4>
+                        <div style="display: flex; gap: 5px;">
+                            ${Object.entries(flag.colors).map(([key, color]) => 
+                                `<div style="width: 30px; height: 30px; background-color: ${color}; border: 1px solid #ddd;" title="${key}: ${color}"></div>`
+                            ).join('')}
+                        </div>
+                    </div>
+                `;
+            } else {
+                flagDetails.innerHTML = '<p>No flag data available for this country.</p>';
+            }
+
+            // Handle states dropdown
+            stateSelect.innerHTML = '<option value="">Select State...</option>';
+            if (locationData && locationData.states) {
+                stateSelect.disabled = false;
+                Object.entries(locationData.states).forEach(([stateCode, stateInfo]) => {
+                    const option = document.createElement('option');
+                    option.value = stateCode;
+                    option.textContent = `${stateInfo[1]} (${stateCode})`;
+                    stateSelect.appendChild(option);
+                });
+            } else {
+                stateSelect.disabled = true;
+                locationDetails.innerHTML = '<p>No location data available for this country.</p>';
+            }
+
+            citySelect.innerHTML = '<option value="">Select City...</option>';
+            citySelect.disabled = true;
+        }
+
+        function handleStateChange() {
+            const countryCode = countrySelect.value;
+            const stateCode = stateSelect.value;
+            
+            if (!countryCode || !stateCode) {
+                citySelect.innerHTML = '<option value="">Select City...</option>';
+                citySelect.disabled = true;
+                return;
+            }
+
+            const locationData = SAMPLE_LOCATIONS[countryCode];
+            const stateInfo = locationData.states[stateCode];
+
+            // Display state info
+            locationDetails.innerHTML = `
+                <h3>${stateInfo[1]}</h3>
+            `;
+
+            // Handle cities dropdown
+            citySelect.innerHTML = '<option value="">Select City...</option>';
+            if (stateInfo && stateInfo[2]) {
+                citySelect.disabled = false;
+                Object.entries(stateInfo[2]).forEach(([cityId, cityName]) => {
+                    const option = document.createElement('option');
+                    option.value = cityId;
+                    option.textContent = cityName;
+                    citySelect.appendChild(option);
+                });
+            } else {
+                citySelect.disabled = true;
+            }
+        }
+
+        function handleCityChange() {
+            const countryCode = countrySelect.value;
+            const stateCode = stateSelect.value;
+            const cityId = citySelect.value;
+            
+            if (!countryCode || !stateCode || !cityId) return;
+
+            const locationData = SAMPLE_LOCATIONS[countryCode];
+            const stateInfo = locationData.states[stateCode];
+            const cityName = stateInfo[2][cityId];
+
+            // Update location details
+            locationDetails.innerHTML = `
+                <h3>${stateInfo[1]}</h3>
+                <p>Selected City: <strong>${cityName}</strong></p>
+                <p>City ID: ${cityId}</p>
+                <p>State: ${stateInfo[1]} (${stateCode})</p>
+                <p>Country: ${SAMPLE_COUNTRIES.find(c => c.code === countryCode).name}</p>
+            `;
+        }
+
+        function resetUI() {
+            countryInfo.style.display = 'none';
+            countryDetails.innerHTML = '';
+            currencyDetails.innerHTML = '';
+            flagDetails.innerHTML = '';
+            locationDetails.innerHTML = '';
+            stateSelect.innerHTML = '<option value="">Select State...</option>';
+            stateSelect.disabled = true;
+            citySelect.innerHTML = '<option value="">Select City...</option>';
+            citySelect.disabled = true;
+        }
+    </script>
+</body>
+</html>

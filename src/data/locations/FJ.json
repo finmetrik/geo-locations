@@ -1,0 +1,7 @@
+{"country":{"id":71,"code":"FJ","name":"Fiji","phone_code":"+679"},"states":{
+"CE":[1,"Central",{"1":"Suva","2":"Nausori","3":"Navua","4":"Korovou","5":"Vunidawa","99999":"Other"}],
+"EA":[2,"Eastern",{"6":"Levuka","7":"Tubou","8":"Vanuabalavu","9":"Sawaieke","10":"Lomaloma","99999":"Other"}],
+"NO":[3,"Northern",{"11":"Labasa","12":"Savusavu","13":"Seaqaqa","14":"Nabouwalu","15":"Dreketi","99999":"Other"}],
+"WE":[4,"Western",{"16":"Lautoka","17":"Nadi","18":"Ba","19":"Sigatoka","20":"Tavua","21":"Rakiraki","22":"Vatukoula","99999":"Other"}],
+"RO":[5,"Rotuma",{"23":"Ahau","24":"Motusa","25":"Oinafa","26":"Malhaha","99999":"Other"}]
+}}

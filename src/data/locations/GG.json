@@ -1,0 +1,12 @@
+{"country":{"id":81,"code":"GG","name":"Guernsey","phone_code":"+44"},"states":{
+"SP":[1,"Saint Peter Port",{"1":"Saint Peter Port","2":"Cambridge Park","3":"Les Banques","99999":"Other"}],
+"SS":[2,"Saint Sampson",{"4":"Saint Sampson","5":"Vale","6":"L'Islet","99999":"Other"}],
+"SA":[3,"Saint Anne",{"7":"Saint Anne","8":"Alderney","99999":"Other"}],
+"SM":[4,"Saint Martin",{"9":"Saint Martin","10":"Jerbourg","11":"Forest","99999":"Other"}],
+"SAS":[5,"Saint Andrew",{"12":"Saint Andrew","13":"Les Villets","99999":"Other"}],
+"SPB":[6,"Saint Pierre du Bois",{"14":"Saint Pierre du Bois","15":"Torteval","99999":"Other"}],
+"SSV":[7,"Saint Saviour",{"16":"Saint Saviour","17":"Le Bourg","99999":"Other"}],
+"CA":[8,"Castel",{"18":"Castel","19":"Les Hubits","20":"Les Landes","99999":"Other"}],
+"FO":[9,"Forest",{"21":"Forest","22":"Le Bourg","99999":"Other"}],
+"VA":[10,"Vale",{"23":"Vale","24":"L'Ancresse","25":"Bordeaux","99999":"Other"}]
+}}

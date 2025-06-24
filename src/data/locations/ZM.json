@@ -1,0 +1,12 @@
+{"country":{"id":248,"code":"ZM","name":"Zambia","phone_code":"+260"},"states":{
+"01":[1,"Central",{"1":"Kabwe","2":"Kapiri Mposhi","3":"Mumbwa","4":"Serenje","5":"Mkushi","6":"Luano","7":"Chitambo","8":"Ngabwe","9":"Chibombo","10":"Itezhi-Tezhi","99999":"Other"}],
+"02":[2,"Copperbelt",{"11":"Kitwe","12":"Ndola","13":"Mufulira","14":"Luanshya","15":"Chingola","16":"Kalulushi","17":"Chililabombwe","18":"Chambishi","19":"Mpongwe","20":"Lufwanyama","99999":"Other"}],
+"03":[3,"Eastern",{"21":"Chipata","22":"Katete","23":"Lundazi","24":"Mambwe","25":"Nyimba","26":"Petauke","27":"Sinda","28":"Vubwi","29":"Chadiza","30":"Kasengi","99999":"Other"}],
+"04":[4,"Luapula",{"31":"Mansa","32":"Samfya","33":"Kawambwa","34":"Nchelenge","35":"Mwense","36":"Chipili","37":"Lunga","38":"Mwansabombwe","39":"Chiengi","40":"Milenge","99999":"Other"}],
+"05":[5,"Lusaka",{"41":"Lusaka","42":"Kafue","43":"Chongwe","44":"Luangwa","45":"Chilanga","46":"Rufunsa","47":"Shibuyunji","48":"Chirundu","49":"Chisamba","50":"Chibuto","99999":"Other"}],
+"06":[6,"Northern",{"51":"Kasama","52":"Mbala","53":"Luwingu","54":"Mporokoso","55":"Kaputa","56":"Mungwi","57":"Senga Hill","58":"Nakonde","59":"Mpulungu","60":"Chilubi","99999":"Other"}],
+"07":[7,"North-Western",{"61":"Solwezi","62":"Kasempa","63":"Mufumbwe","64":"Kabompo","65":"Zambezi","66":"Mwinilunga","67":"Ikelenge","68":"Kalumbila","69":"Mushindamo","70":"Lumwana","99999":"Other"}],
+"08":[8,"Southern",{"71":"Livingstone","72":"Choma","73":"Mazabuka","74":"Monze","75":"Kalomo","76":"Namwala","77":"Itezhi-Tezhi","78":"Kazungula","79":"Siavonga","80":"Gwembe","81":"Sinazongwe","82":"Zimba","83":"Pemba","84":"Mumbwa","99999":"Other"}],
+"09":[9,"Western",{"85":"Mongu","86":"Senanga","87":"Kalabo","88":"Sesheke","89":"Shangombo","90":"Lukulu","91":"Kaoma","92":"Nkeyema","93":"Mitete","94":"Limulunga","95":"Nalolo","96":"Sikongo","97":"Mulobezi","98":"Sioma","99":"Mwandi","100":"Luampa","99999":"Other"}],
+"10":[10,"Muchinga",{"101":"Chinsali","102":"Isoka","103":"Nakonde","104":"Shiwang'andu","105":"Kanchibiya","106":"Lavushimanda","107":"Mpika","108":"Chilubi","109":"Kaputa","110":"Mporokoso","99999":"Other"}]
+}}

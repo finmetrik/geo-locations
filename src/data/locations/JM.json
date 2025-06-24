@@ -1,0 +1,15 @@
+{"country":{"id":112,"code":"JM","name":"Jamaica","phone_code":"+1"},"states":{
+"KI":[1,"Kingston",{"1":"Kingston","2":"Half Way Tree","3":"New Kingston","4":"Cross Roads","5":"Harbour View","99999":"Other"}],
+"SA":[6,"Saint Ann",{"33":"St Ann's Bay","34":"Ocho Rios","35":"Brown's Town","36":"Runaway Bay","37":"Discovery Bay","38":"Moneague","39":"Claremont","99999":"Other"}],
+"ST":[3,"Saint Thomas",{"16":"Morant Bay","17":"Yallahs","18":"Port Morant","19":"Bath","20":"Golden Grove","21":"Seaforth","99999":"Other"}],
+"PO":[4,"Portland",{"22":"Port Antonio","23":"Buff Bay","24":"Hope Bay","25":"Boston","26":"Manchioneal","99999":"Other"}],
+"SM":[5,"Saint Mary",{"27":"Port Maria","28":"Oracabessa","29":"Richmond","30":"Highgate","31":"Annotto Bay","32":"Gayle","99999":"Other"}],
+"TR":[7,"Trelawny",{"40":"Falmouth","41":"Duncans","42":"Clarks Town","43":"Wakefield","44":"Wait-a-Bit","99999":"Other"}],
+"SJ":[8,"Saint James",{"45":"Montego Bay","46":"Cambridge","47":"Anchovy","48":"Lucea","49":"Sandy Bay","99999":"Other"}],
+"HA":[9,"Hanover",{"50":"Lucea","51":"Sandy Bay","52":"Green Island","53":"Hopewell","99999":"Other"}],
+"WE":[10,"Westmoreland",{"54":"Savanna-la-Mar","55":"Negril","56":"Bluefields","57":"Whitehouse","58":"Little London","99999":"Other"}],
+"SE":[11,"Saint Elizabeth",{"59":"Black River","60":"Santa Cruz","61":"Junction","62":"Malvern","63":"Balaclava","64":"Lacovia","99999":"Other"}],
+"MA":[12,"Manchester",{"65":"Mandeville","66":"Christiana","67":"Porus","68":"Mile Gully","69":"Newport","99999":"Other"}],
+"CL":[13,"Clarendon",{"70":"May Pen","71":"Chapelton","72":"Lionel Town","73":"Frankfield","74":"Four Paths","75":"Hayes","76":"Race Course","77":"Rocky Point","78":"Kellits","99999":"Other"}],
+"SC":[14,"Saint Catherine",{"79":"Spanish Town","80":"Portmore","81":"Linstead","82":"Old Harbour","83":"Bog Walk","84":"Ewarton","85":"Sligoville","86":"Point Hill","87":"Lluidas Vale","88":"Above Rocks","99999":"Other"}]
+}}

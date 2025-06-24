@@ -1,0 +1,13 @@
+{"country":{"id":129,"code":"LI","name":"Liechtenstein","phone_code":"+423"},"states":{
+"01":[1,"Balzers",{"1":"Balzers","2":"Gagoz","3":"Neugrüt","99999":"Other"}],
+"02":[2,"Eschen",{"1":"Eschen","2":"Nendeln","99999":"Other"}],
+"03":[3,"Gamprin",{"1":"Gamprin","2":"Bendern","99999":"Other"}],
+"04":[4,"Mauren",{"1":"Mauren","2":"Schaanwald","99999":"Other"}],
+"05":[5,"Planken",{"1":"Planken","99999":"Other"}],
+"06":[6,"Ruggell",{"1":"Ruggell","99999":"Other"}],
+"07":[7,"Schaan",{"1":"Schaan","2":"Mühleholz","99999":"Other"}],
+"08":[8,"Schellenberg",{"1":"Schellenberg","99999":"Other"}],
+"09":[9,"Triesen",{"1":"Triesen","2":"Steinort","99999":"Other"}],
+"10":[10,"Triesenberg",{"1":"Triesenberg","2":"Gaflei","3":"Malbun","4":"Masescha","5":"Rotenboden","6":"Silum","7":"Steg","8":"Sücka","9":"Wangerberg","99999":"Other"}],
+"11":[11,"Vaduz",{"1":"Vaduz","2":"Ebenholz","99999":"Other"}]
+}}

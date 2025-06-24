@@ -1,0 +1,12 @@
+{"country":{"id":60,"code":"DM","name":"Dominica","phone_code":"+1"},"states":{
+"SA":[1,"Saint Andrew",{"1":"Marigot","2":"Wesley","3":"Woodford Hill","4":"Calibishie","5":"Hampstead","6":"Bense","99999":"Other"}],
+"SD":[2,"Saint David",{"7":"Castle Bruce","8":"Good Hope","9":"Grand Fond","10":"Riviere Cyrique","11":"Rosalie","99999":"Other"}],
+"SG":[3,"Saint George",{"12":"Roseau","13":"Potter's Ville","14":"Goodwill","15":"Bath Estate","16":"Morne Daniel","17":"Stockfarm","99999":"Other"}],
+"SJ":[4,"Saint John",{"18":"Portsmouth","19":"Picard","20":"Glanvillia","21":"Clifton","99999":"Other"}],
+"SJO":[5,"Saint Joseph",{"22":"Saint Joseph","23":"Layou","24":"Mero","25":"Batalie","99999":"Other"}],
+"SL":[6,"Saint Luke",{"26":"Pointe Michel","27":"Soufrière","28":"Scotts Head","29":"Gallion","99999":"Other"}],
+"SM":[7,"Saint Mark",{"30":"Soufrière","31":"Scotts Head","32":"Gallion","99999":"Other"}],
+"SP":[8,"Saint Patrick",{"33":"Berekua","34":"Grand Bay","35":"Pichelin","36":"Tete Morne","99999":"Other"}],
+"SPU":[9,"Saint Paul",{"37":"Canefield","38":"Massacre","39":"Mahaut","40":"Jimmit","41":"Pont Cassé","99999":"Other"}],
+"SPE":[10,"Saint Peter",{"42":"Colihaut","43":"Dublanc","44":"Bioche","45":"Dos D'Ane","99999":"Other"}]
+}}

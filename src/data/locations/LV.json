@@ -1,0 +1,14 @@
+{"country":{"id":135,"code":"LV","name":"Latvia","phone_code":"+371"},"states":{
+"RIX":[1,"Riga",{"1":"Riga","2":"Vecrīga","3":"Centrs","4":"Grīziņkalns","5":"Latgale","6":"Vidzeme","7":"Sarkandaugava","8":"Kurzeme","9":"Zemgale","10":"Zieļkalns","11":"Plavnieki","12":"Purvciems","13":"Bolķeraja","14":"Imanta","15":"Iļģuciems","16":"Dzirciems","17":"Zoliūde","18":"Āgenskalns","19":"Plēskodale","20":"Voleri","21":"Zasulauks","22":"Mīlgrāvis","23":"Vecāķi","24":"Daugavgrīva","25":"Rumbula","26":"Dreilņi","27":"Jugla","28":"Muži","29":"Tešpeņs","30":"Berģi","31":"Breksi","32":"Bukulti","33":"Katlakalns","34":"Mežciems","35":"PeŢrkrāsti","36":"Jāciiems","37":"Jauncieši","38":"Jaunimanta","39":"Mangalsala","40":"Rīnuzi","41":"Salas","42":"Spiļve","43":"Škirotava","44":"Suži","45":"Trīssaliņas","46":"Vakarbuļļi","47":"Vecdaugava","48":"Vecmīlgrāvis","49":"Voleri","99999":"Other"}],
+"DGV":[2,"Daugavpils",{"50":"Daugavpils","51":"Centrs","52":"Jaunbūve","53":"Vecstrūpši","54":"Jaunforštadte","55":"Grīva","56":"Rūpešs","57":"Mežciems","58":"Viduspoguļanka","59":"Cērteles","60":"Jaunie Stropši","61":"Vecā Forštadte","62":"Čeremušlī","63":"Kalkūni","64":"Križi","65":"Liginiški","66":"Mazie Stropiņi","67":"Niderkūni","68":"Ruģeļi","99999":"Other"}],
+"JEL":[3,"Jelgava",{"69":"Jelgava","99999":"Other"}],
+"JKB":[4,"Jēkabpils",{"70":"Jēkabpils","99999":"Other"}],
+"JUR":[5,"Jūrmala",{"71":"Jūrmala","72":"Bulduri","73":"Dzintari","74":"Majori","75":"Dubulti","76":"Jaundubulti","77":"Puolţiems","78":"Valteri","79":"Asari","80":"Vaivari","81":"Slīpe","82":"Lielupes","83":"Baugari","84":"Priedaiņe","85":"Kauguril","86":"Meļuzi","87":"Zvejniekciem","88":"Kemeri","89":"Jaunķemeri","90":"Bigauņciems","99999":"Other"}],
+"LPX":[6,"Liepāja",{"91":"Liepāja","92":"Vecliepāja","93":"Jaunliepāja","94":"Ezerkrasts","95":"Zaļā birze","96":"Tosmare","97":"Krūmu","98":"Karosta","99999":"Other"}],
+"REZ":[7,"Rēzekne",{"100":"Rēzekne","99999":"Other"}],
+"RJR":[8,"Riga region",{"101":"Saulkrasti","102":"Sigulda","103":"Cēsis","104":"Limbaži","105":"Smiltene","106":"Valmiera","107":"Valka","108":"Madona","109":"Gulbene","110":"Alūksne","111":"Ape","112":"Balvi","113":"Viļaka","114":"Kārsava","115":"Rūjiena","116":"Mārupe","117":"Olaine","118":"Ķekava","119":"Baldone","120":"Salaspils","121":"Stopiņi","122":"Garkalne","123":"Ropaži","124":"Carnikava","125":"Ādaži","99999":"Other"}],
+"VEN":[9,"Ventspils",{"126":"Ventspils","99999":"Other"}],
+"VLM":[10,"Valmiera",{"127":"Valmiera","99999":"Other"}],
+"VLK":[11,"Valka",{"128":"Valka","99999":"Other"}],
+"JRM":[12,"Jūrmala",{"129":"Jūrmala","99999":"Other"}]
+}}

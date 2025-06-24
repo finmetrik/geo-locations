@@ -1,0 +1,12 @@
+{"country":{"id":128,"code":"LC","name":"Saint Lucia","phone_code":"+1"},"states":{
+"AR":[1,"Anse-la-Raye",{"1":"Anse-la-Raye","2":"Canaries","3":"Millet","4":"Roseau Valley","5":"Durandeau","6":"Jacmel","7":"Vanard","99999":"Other"}],
+"CA":[2,"Castries",{"8":"Castries","9":"Babonneau","10":"Bisee","11":"La Clery","12":"Marchand","13":"Marigot","14":"Monchy","15":"Pavee","16":"Ravine Poisson","17":"Union","18":"Morne Fortune","19":"Goodlands","20":"Waterworks","21":"Bexon","22":"Odsan","99999":"Other"}],
+"CH":[3,"Choiseul",{"23":"Choiseul","24":"Reunion","25":"Dacretin","26":"Delomel","27":"Dugard","28":"Fiette","29":"Forestiere","30":"Industry","31":"La Fargue","32":"Martin","33":"Mongouge","34":"Raveneau","35":"Sabou","99999":"Other"}],
+"DE":[4,"Dennery",{"36":"Dennery","37":"Au Leon","38":"La Caye","39":"Derniere Riviere","40":"Fond d'Or","41":"Mabouya Valley","42":"La Ressource","43":"Lumiere","44":"La Pointe","99999":"Other"}],
+"GR":[5,"Gros Islet",{"45":"Gros Islet","46":"Cap Estate","47":"Beausejour","48":"Daren Mabouya","49":"Monchy","50":"Desbarass","51":"Grande Riviere","52":"Reduit","53":"Rodney Bay","54":"Bois d'Orange","55":"Corinth","56":"La Guerre","57":"Mongiraud","99999":"Other"}],
+"LA":[6,"Laborie",{"58":"Laborie","59":"Augier","60":"Banse","61":"La Grace","62":"Morne Le Blanc","63":"Piaye","64":"Saltibus","99999":"Other"}],
+"MI":[7,"Micoud",{"65":"Micoud","66":"Canelles","67":"Dugard","68":"Fond Cacoa","69":"Fond d'Or","70":"La Courville","71":"Mahaut","72":"Mamiku","73":"Mon Repos","74":"Patience","75":"Planard","76":"Ravine Claire","77":"Savannes","78":"Ti Rocher","79":"Troumasse","99999":"Other"}],
+"SO":[8,"Soufriere",{"80":"Soufriere","81":"Barons Drive","82":"Belfond","83":"Belle Plaine","84":"Bouton","85":"Delcer","86":"Fond St. Jacques","87":"La Pearle","88":"Malgretout","89":"Morne Lastic","90":"New Development","91":"Palmiste","92":"St. Phillip","93":"Zenon","99999":"Other"}],
+"VF":[9,"Vieux Fort",{"94":"Vieux Fort","95":"Augier","96":"Belle Vue","97":"Black Bay","98":"Derriere Lagoon","99":"Grace","100":"La Resource","101":"La Tourney","102":"Moule a Chique","103":"Pierrot","104":"Vigier","99999":"Other"}],
+"CC":[10,"Canaries",{"105":"Canaries","106":"Anse La Verdure","107":"Belvedere","108":"Theodrine","109":"Village","99999":"Other"}]
+}}

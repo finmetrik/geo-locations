@@ -1,0 +1,14 @@
+{"country":{"id":139,"code":"MD","name":"Moldova","phone_code":"+373"},"states":{
+"C":[1,"Chișinău",{"1":"Chișinău","2":"Botanica","3":"Buiucani","4":"Centru","5":"Ciocana","6":"Râșcani","7":"Durlesti","8":"Codru","9":"Vadul lui Voda","10":"Vatra","11":"Cricova","12":"Singera","99999":"Other"}],
+"BA":[2,"Bălți",{"13":"Bălți","14":"Falesti","15":"Glodeni","16":"Singerei","17":"Riscani","18":"Biruinta","99999":"Other"}],
+"BD":[3,"Tighina",{"19":"Bender","20":"Causeni","21":"Stefan Voda","22":"Cimislia","23":"Anenii Noi","24":"Basarabeasca","99999":"Other"}],
+"CU":[4,"Cahul",{"25":"Cahul","26":"Cantemir","27":"Leova","28":"Comrat","29":"Ceadir-Lunga","30":"Vulcanesti","99999":"Other"}],
+"ED":[5,"Edineț",{"31":"Edineț","32":"Briceni","33":"Donduseni","34":"Ocnita","35":"Otaci","36":"Cupcini","99999":"Other"}],
+"GA":[6,"Găgăuzia",{"37":"Comrat","38":"Ceadir-Lunga","39":"Vulcanesti","40":"Congaz","41":"Copceac","99999":"Other"}],
+"LA":[7,"Lăpușna",{"42":"Hincesti","43":"Ialoveni","44":"Straseni","45":"Calarasi","46":"Nisporeni","47":"Ungheni","99999":"Other"}],
+"OR":[8,"Orhei",{"48":"Orhei","49":"Rezina","50":"Soldanesti","51":"Telenesti","52":"Criuleni","53":"Dubasari","99999":"Other"}],
+"SO":[9,"Soroca",{"54":"Soroca","55":"Drochia","56":"Floresti","57":"Donduseni","58":"Riscani","99999":"Other"}],
+"TA":[10,"Taraclia",{"59":"Taraclia","99999":"Other"}],
+"UN":[11,"Ungheni",{"60":"Ungheni","61":"Calarasi","62":"Nisporeni","99999":"Other"}],
+"SN":[12,"Stânga Nistrului",{"63":"Tiraspol","64":"Ribnita","65":"Dubasari","66":"Grigoriopol","67":"Slobozia","68":"Camenca","99999":"Other"}]
+}}

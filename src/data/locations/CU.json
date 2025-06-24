@@ -1,0 +1,18 @@
+{"country":{"id":51,"code":"CU","name":"Cuba","phone_code":"+53"},"states":{
+"PR":[1,"Pinar del Río",{"1":"Pinar del Río","2":"Consolación del Sur","3":"San Luis","4":"San Juan y Martínez","5":"Guane","6":"Sandino","7":"Los Palacios","8":"La Palma","9":"Viñales","99999":"Other"}],
+"AR":[2,"Artemisa",{"10":"Artemisa","11":"San Cristóbal","12":"Güira de Melena","13":"Mariel","14":"Bauta","15":"San Antonio de los Baños","16":"Guanajay","17":"Caimito","99999":"Other"}],
+"LH":[3,"La Habana",{"18":"Havana","19":"Centro Habana","20":"Plaza de la Revolución","21":"La Habana Vieja","22":"Vedado","23":"Miramar","24":"La Lisa","25":"Marianao","26":"Guanabacoa","27":"Arroyo Naranjo","28":"San Miguel del Padrón","29":"Diez de Octubre","30":"Cerro","31":"Cotorro","32":"Boyeros","33":"Playa","34":"La Habana del Este","35":"Regla","99999":"Other"}],
+"MY":[4,"Mayabeque",{"36":"San José de las Lajas","37":"Güines","38":"Melena del Sur","39":"Batabanó","40":"Quivicán","41":"Bejucal","42":"Jaruco","43":"Santa Cruz del Norte","44":"Madruga","99999":"Other"}],
+"MT":[5,"Matanzas",{"45":"Matanzas","46":"Cárdenas","47":"Varadero","48":"Colón","49":"Jovellanos","50":"Jagüey Grande","51":"Calimete","52":"Los Arabos","53":"Perico","99999":"Other"}],
+"CF":[6,"Cienfuegos",{"54":"Cienfuegos","55":"Cumanayagua","56":"Palmira","57":"Rodas","58":"Cruces","59":"Lajas","60":"Abreus","61":"Aguada de Pasajeros","99999":"Other"}],
+"VC":[7,"Villa Clara",{"62":"Santa Clara","63":"Sagua la Grande","64":"Placetas","65":"Camajuaní","66":"Remedios","67":"Manicaragua","68":"Ranchuelo","69":"Caibarién","70":"Santo Domingo","99999":"Other"}],
+"SS":[8,"Sancti Spíritus",{"71":"Sancti Spíritus","72":"Trinidad","73":"Cabaiguán","74":"Jatibonico","75":"Yaguajay","76":"Fomento","77":"La Sierpe","78":"Taguasco","99999":"Other"}],
+"CA":[9,"Ciego de Ávila",{"79":"Ciego de Ávila","80":"Morón","81":"Chambas","82":"Majagua","83":"Ciro Redondo","84":"Primero de Enero","85":"Venezuela","86":"Baraguá","99999":"Other"}],
+"CM":[10,"Camagüey",{"87":"Camagüey","88":"Florida","89":"Vertientes","90":"Nuevitas","91":"Guáimaro","92":"Sibanicú","93":"Esmeralda","94":"Minas","95":"Santa Cruz del Sur","99999":"Other"}],
+"LT":[11,"Las Tunas",{"96":"Las Tunas","97":"Puerto Padre","98":"Jesús Menéndez","99":"Majibacoa","100":"Manatí","101":"Jobabo","102":"Colombia","103":"Amancio","99999":"Other"}],
+"HO":[12,"Holguín",{"104":"Holguín","105":"Banes","106":"Moa","107":"Mayarí","108":"Gibara","109":"Calixto García","110":"Cacocum","111":"Urbano Noris","112":"Cueto","113":"Rafael Freyre","99999":"Other"}],
+"GR":[13,"Granma",{"114":"Bayamo","115":"Manzanillo","116":"Jiguaní","117":"Campechuela","118":"Media Luna","119":"Niquero","120":"Río Cauto","121":"Yara","122":"Pilón","99999":"Other"}],
+"SC":[14,"Santiago de Cuba",{"123":"Santiago de Cuba","124":"Palma Soriano","125":"Contramaestre","126":"San Luis","127":"Songo-La Maya","128":"Mella","129":"Segundo Frente","130":"Tercer Frente","131":"Guamá","99999":"Other"}],
+"GT":[15,"Guantánamo",{"132":"Guantánamo","133":"Baracoa","134":"El Salvador","135":"Yateras","136":"San Antonio del Sur","137":"Caimanera","138":"Maisí","139":"Imías","140":"Manuel Tames","99999":"Other"}],
+"IJ":[16,"Isla de la Juventud",{"141":"Nueva Gerona","142":"La Fe","143":"La Demajagua","99999":"Other"}]
+}}

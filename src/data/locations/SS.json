@@ -1,0 +1,12 @@
+{"country":{"id":208,"code":"SS","name":"South Sudan","phone_code":"+211"},"states":{
+"CES":[1,"Central Equatoria",{"1":"Juba","2":"Yei","3":"Terekeka","4":"Kajo-keji","5":"Lainya","6":"Morobo","7":"Lobonok","8":"Kator","9":"Munuki","10":"Juba Na Bari","99999":"Other"}],
+"EES":[2,"Eastern Equatoria",{"11":"Torit","12":"Kapoeta","13":"Budi","14":"Ikotos","15":"Lafon","16":"Magwi","17":"Pochalla","18":"Boma","19":"Pibor","20":"Akobo","99999":"Other"}],
+"WES":[3,"Western Equatoria",{"21":"Yambio","22":"Ezo","23":"Ibba","24":"Maridi","25":"Mundri East","26":"Mundri West","27":"Mvolo","28":"Nagero","29":"Nzara","30":"Tambura","99999":"Other"}],
+"JON":[4,"Jonglei",{"31":"Bor","32":"Akobo","33":"Ayod","34":"Duk","35":"Fangak","36":"Pigi","37":"Pochalla","38":"Twic East","39":"Uror","40":"Nyirol","99999":"Other"}],
+"UNI":[5,"Unity",{"41":"Bentiu","42":"Abiemnhom","43":"Guit","44":"Koch","45":"Leer","46":"Mayendit","47":"Mayom","48":"Panyijiar","49":"Pariang","50":"Rubkona","99999":"Other"}],
+"UPN":[6,"Upper Nile",{"51":"Malakal","52":"Baliet","53":"Fashoda","54":"Longochuk","55":"Luakpiny/Nassir","56":"Maaban","57":"Maban","58":"Melut","59":"Panyikang","60":"Renk","61":"Ulang","62":"Wau Shilluk","99999":"Other"}],
+"WAR":[7,"Warrap",{"63":"Kuajok","64":"Gogrial East","65":"Gogrial West","66":"Tonj East","67":"Tonj North","68":"Tonj South","69":"Twic","70":"Wun Rok","71":"Wau","72":"Abyei","99999":"Other"}],
+"NB":[8,"Northern Bahr el Ghazal",{"73":"Aweil","74":"Aweil East","75":"Aweil North","76":"Aweil South","77":"Aweil West","78":"Lol","79":"Raja","80":"Wau","81":"Jur River","82":"Wau","99999":"Other"}],
+"WB":[9,"Western Bahr el Ghazal",{"83":"Wau","84":"Jur River","85":"Raja","86":"Wau","87":"Aweil","88":"Kuajok","89":"Rumbek","90":"Yirol","91":"Cueibet","92":"Gok","99999":"Other"}],
+"LAK":[10,"Lakes",{"93":"Rumbek","94":"Cueibet","95":"Gok","96":"Rumbek Centre","97":"Rumbek East","98":"Rumbek North","99":"Wulu","100":"Yirol East","101":"Yirol West","102":"Awerial","99999":"Other"}]
+}}

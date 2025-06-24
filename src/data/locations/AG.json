@@ -1,0 +1,10 @@
+{"country":{"id":4,"code":"AG","name":"Antigua and Barbuda","phone_code":"+1"},"states":{
+"SJ":[1,"Saint John",{"1":"St. John's","2":"Cedar Grove","3":"Bendals","4":"Gambles","5":"Golden Grove","99999":"Other"}],
+"SG":[2,"Saint George",{"6":"Fitches Creek","7":"Pigotts","8":"New Winthorpes","9":"Osbourn","99999":"Other"}],
+"SM":[3,"Saint Mary",{"10":"Bolans","11":"Jennings","12":"Ebenezer","13":"Old Road","99999":"Other"}],
+"SP":[4,"Saint Paul",{"14":"Falmouth","15":"English Harbour","16":"Liberta","17":"Cobbs Cross","99999":"Other"}],
+"SPH":[5,"Saint Philip",{"18":"Carlisle","19":"Freetown","20":"Willikies","21":"Collins","99999":"Other"}],
+"SPE":[6,"Saint Peter",{"22":"Parham","23":"Pares","24":"Vernons","25":"Mercers Creek","99999":"Other"}],
+"BA":[7,"Barbuda",{"26":"Codrington","27":"Dulcina","99999":"Other"}],
+"RE":[8,"Redonda",{"28":"Redonda","99999":"Other"}]
+}}

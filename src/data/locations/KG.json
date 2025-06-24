@@ -1,0 +1,11 @@
+{"country":{"id":116,"code":"KG","name":"Kyrgyzstan","phone_code":"+996"},"states":{
+"GB":[1,"Bishkek",{"1":"Bishkek","2":"Alamudun","3":"Sokuluk","4":"Belovodskoye","5":"Lebedinovka","99999":"Other"}],
+"GO":[2,"Osh City",{"6":"Osh","99999":"Other"}],
+"B":[3,"Batken",{"7":"Batken","8":"Isfana","9":"Kyzyl-Kiya","10":"Sulukta","11":"Kadamjay","12":"Aydarken","99999":"Other"}],
+"C":[4,"Chuy",{"13":"Tokmok","14":"Kant","15":"Kara-Balta","16":"Kemin","17":"Shopokov","18":"Ivanovka","19":"Kaindy","99999":"Other"}],
+"J":[5,"Jalal-Abad",{"20":"Jalal-Abad","21":"Tash-Kumyr","22":"Kara-Kul","23":"Mailuu-Suu","24":"Kochkor-Ata","25":"Kerben","26":"Toktogul","27":"Ala-Buka","28":"Bazar-Korgon","99999":"Other"}],
+"N":[6,"Naryn",{"29":"Naryn","30":"Chaek","31":"Kochkor","32":"At-Bashy","33":"Dostuk","99999":"Other"}],
+"O":[7,"Osh",{"34":"Uzgen","35":"Kara-Suu","36":"Nookat","37":"Aravan","38":"Gulcha","39":"Kara-Kulja","99999":"Other"}],
+"T":[8,"Talas",{"40":"Talas","41":"Manas","42":"Kyzyl-Adyr","43":"Kara-Buuraa","44":"Bakai-Ata","99999":"Other"}],
+"Y":[9,"Issyk-Kul",{"45":"Karakol","46":"Balykchy","47":"Cholpon-Ata","48":"Kyzyl-Suu","49":"Bokonbayevo","50":"Tyup","51":"Ak-Suu","99999":"Other"}]
+}}

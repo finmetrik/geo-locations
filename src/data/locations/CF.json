@@ -1,0 +1,19 @@
+{"country":{"id":41,"code":"CF","name":"Central African Republic","phone_code":"+236"},"states":{
+"BA":[1,"Bangui",{"1":"Bangui","2":"Bimbo","3":"Begoua","4":"Landja","99999":"Other"}],
+"BB":[2,"Bamingui-Bangoran",{"5":"Ndélé","6":"Bamingui","99999":"Other"}],
+"BK":[3,"Basse-Kotto",{"7":"Mobaye","8":"Alindao","9":"Kembe","10":"Zangba","99999":"Other"}],
+"HK":[4,"Haute-Kotto",{"11":"Bria","12":"Yalinga","13":"Ouadda","99999":"Other"}],
+"HM":[5,"Haut-Mbomou",{"14":"Obo","15":"Zemio","16":"Mboki","99999":"Other"}],
+"KG":[6,"Kémo",{"17":"Sibut","18":"Dekoa","19":"Ndjoukou","99999":"Other"}],
+"LB":[7,"Lobaye",{"20":"Mbaïki","21":"Mongoumba","22":"Boda","23":"Boganangone","99999":"Other"}],
+"HS":[8,"Mambéré-Kadéï",{"24":"Berbérati","25":"Carnot","26":"Gamboula","27":"Amada-Gaza","99999":"Other"}],
+"MB":[9,"Mbomou",{"28":"Bangassou","29":"Bakouma","30":"Gambo","31":"Ouango","99999":"Other"}],
+"NM":[10,"Nana-Mambéré",{"32":"Bouar","33":"Baboua","34":"Abba","35":"Baoro","99999":"Other"}],
+"MP":[11,"Ombella-M'Poko",{"36":"Bimbo","37":"Damara","38":"Boali","39":"Bossembele","40":"Yaloke","99999":"Other"}],
+"UK":[12,"Ouaka",{"41":"Bambari","42":"Ippy","43":"Grimari","44":"Kouango","99999":"Other"}],
+"AC":[13,"Ouham",{"45":"Bossangoa","46":"Bouca","47":"Batangafo","48":"Kabo","99999":"Other"}],
+"OP":[14,"Ouham-Pendé",{"49":"Paoua","50":"Bozoum","51":"Bocaranga","52":"Ngaoundaye","99999":"Other"}],
+"SE":[15,"Sangha-Mbaéré",{"53":"Nola","54":"Bayanga","55":"Salo","99999":"Other"}],
+"VR":[16,"Vakaga",{"56":"Birao","57":"Ouanda Djallé","99999":"Other"}],
+"NG":[17,"Nana-Grébizi",{"58":"Kaga-Bandoro","59":"Mbrès","99999":"Other"}]
+}}

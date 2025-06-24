@@ -1,0 +1,5 @@
+{"country":{"id":124,"code":"KY","name":"Cayman Islands","phone_code":"+1"},"states":{
+"GC":[1,"Grand Cayman",{"1":"George Town","2":"West Bay","3":"Bodden Town","4":"North Side","5":"East End","6":"Savannah","7":"Newlands","8":"Prospect","9":"Red Bay","10":"South Sound","99999":"Other"}],
+"CB":[2,"Cayman Brac",{"11":"West End","12":"Stake Bay","13":"Watering Place","14":"Cotton Tree Bay","15":"Creek","16":"Tibbetts Turn","17":"Spot Bay","99999":"Other"}],
+"LC":[3,"Little Cayman",{"18":"Blossom Village","19":"Jackson Point","20":"South Town","99999":"Other"}]
+}}

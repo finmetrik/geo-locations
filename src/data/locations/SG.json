@@ -1,0 +1,7 @@
+{"country":{"id":198,"code":"SG","name":"Singapore","phone_code":"+65"},"states":{
+"01":[1,"Central Region",{"1":"Bishan","2":"Bukit Merah","3":"Bukit Timah","4":"Central Water Catchment","5":"Downtown Core","6":"Kallang","7":"Marina East","8":"Marina South","9":"Museum","10":"Newton","11":"Novena","12":"Orchard","13":"Outram","14":"Queenstown","15":"River Valley","16":"Rochor","17":"Singapore River","18":"Straits View","19":"Tanglin","20":"Toa Payoh","99999":"Other"}],
+"02":[2,"East Region",{"21":"Bedok","22":"Changi","23":"Changi Bay","24":"Pasir Ris","25":"Paya Lebar","26":"Tampines","27":"Changi Airport","99999":"Other"}],
+"03":[3,"North Region",{"28":"Central Water Catchment","29":"Lim Chu Kang","30":"Mandai","31":"Sembawang","32":"Simpang","33":"Sungei Kadut","34":"Woodlands","35":"Yishun","99999":"Other"}],
+"04":[4,"North-East Region",{"36":"Ang Mo Kio","37":"Hougang","38":"North-Eastern Islands","39":"Punggol","40":"Seletar","41":"Seng Kang","42":"Serangoon","99999":"Other"}],
+"05":[5,"West Region",{"43":"Boon Lay","44":"Bukit Batok","45":"Bukit Panjang","46":"Choa Chu Kang","47":"Clementi","48":"Jurong East","49":"Jurong West","50":"Pioneer","51":"Tengah","52":"Tuas","53":"Western Islands","54":"Western Water Catchment","99999":"Other"}]
+}}

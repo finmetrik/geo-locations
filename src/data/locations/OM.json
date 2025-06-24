@@ -1,0 +1,13 @@
+{"country":{"id":172,"code":"OM","name":"Oman","phone_code":"+968"},"states":{
+"DA":[1,"Ad Dakhiliyah",{"1":"Nizwa","2":"Samail","3":"Bahla","4":"Adam","5":"Al Hamra","6":"Manah","7":"Izki","8":"Bid Bid","99999":"Other"}],
+"BU":[2,"Al Buraimi",{"9":"Al Buraimi","10":"Mahdah","11":"Al Sunaynah","99999":"Other"}],
+"BA":[3,"Al Batinah North",{"12":"Sohar","13":"Shinas","14":"Liwa","15":"Saham","16":"Al Khaburah","17":"As Suwayq","99999":"Other"}],
+"BS":[4,"Al Batinah South",{"18":"Al Rustaq","19":"Al Awabi","20":"Nakhal","21":"Wadi Al Maawil","22":"Barka","23":"Al Musanaah","99999":"Other"}],
+"WU":[5,"Al Wusta",{"24":"Haima","25":"Duqm","26":"Al Jazir","27":"Mahout","99999":"Other"}],
+"ZA":[6,"Ad Dhahirah",{"28":"Ibri","29":"Yanqul","30":"Dank","99999":"Other"}],
+"SH":[7,"Ash Sharqiyah North",{"31":"Ibra","32":"Al Mudhaibi","33":"Bidiyah","34":"Al Qabil","35":"Wadi Bani Khalid","36":"Dima Wa At Taiyyin","99999":"Other"}],
+"SS":[8,"Ash Sharqiyah South",{"37":"Sur","38":"Al Kamil Wa Al Wafi","39":"Jalan Bani Bu Hasan","40":"Jalan Bani Bu Ali","41":"Masirah","99999":"Other"}],
+"MU":[9,"Muscat",{"42":"Muscat","43":"Mutrah","44":"Bowshar","45":"As Seeb","46":"Al Amarat","47":"Qurayyat","99999":"Other"}],
+"ZU":[10,"Dhofar",{"48":"Salalah","49":"Taqah","50":"Mirbat","51":"Rakhyut","52":"Thumrait","53":"Dalkut","54":"Al Mazyunah","55":"Muqshin","56":"Shalim Wa Juzur Al Hallaniyat","57":"Sadah","99999":"Other"}],
+"MA":[11,"Musandam",{"58":"Khasab","59":"Bukha","60":"Daba","61":"Madha","99999":"Other"}]
+}}

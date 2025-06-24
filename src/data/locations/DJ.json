@@ -1,0 +1,8 @@
+{"country":{"id":58,"code":"DJ","name":"Djibouti","phone_code":"+253"},"states":{
+"DJ":[1,"Djibouti",{"1":"Djibouti City","2":"Balbala","3":"Arhiba","4":"Héron","5":"Djebel","99999":"Other"}],
+"AL":[2,"Ali Sabieh",{"6":"Ali Sabieh","7":"Ali Adde","8":"Assamo","9":"Holhol","99999":"Other"}],
+"AR":[3,"Arta",{"10":"Arta","11":"We'a","12":"Damerjog","99999":"Other"}],
+"DI":[4,"Dikhil",{"13":"Dikhil","14":"Yoboki","15":"As Eyla","16":"Galafi","99999":"Other"}],
+"OB":[5,"Obock",{"17":"Obock","18":"Khor Angar","19":"Alaili Dadda","99999":"Other"}],
+"TA":[6,"Tadjourah",{"20":"Tadjourah","21":"Randa","22":"Dorra","23":"Balho","99999":"Other"}]
+}}

@@ -1,0 +1,17 @@
+{"country":{"id":64,"code":"EE","name":"Estonia","phone_code":"+372"},"states":{
+"HA":[1,"Harju",{"1":"Tallinn","2":"Maardu","3":"Keila","4":"Saue","5":"Paldiski","6":"Kehra","7":"Loksa","8":"Kiili","99999":"Other"}],
+"HI":[2,"Hiiu",{"9":"Kärdla","10":"Käina","11":"Emmaste","12":"Pühalepa","99999":"Other"}],
+"IV":[3,"Ida-Viru",{"13":"Narva","14":"Kohtla-Järve","15":"Sillamäe","16":"Jõhvi","17":"Kiviõli","18":"Püssi","19":"Narva-Jõesuu","20":"Iisaku","99999":"Other"}],
+"JG":[4,"Jõgeva",{"21":"Jõgeva","22":"Mustvee","23":"Põltsamaa","24":"Palamuse","25":"Torma","99999":"Other"}],
+"JR":[5,"Järva",{"26":"Paide","27":"Türi","28":"Järva-Jaani","29":"Koeru","30":"Väätsa","99999":"Other"}],
+"LN":[6,"Lääne",{"31":"Haapsalu","32":"Lihula","33":"Märjamaa","34":"Risti","35":"Taebla","99999":"Other"}],
+"LV":[7,"Lääne-Viru",{"36":"Rakvere","37":"Tapa","38":"Kunda","39":"Kadrina","40":"Väike-Maarja","41":"Tamsalu","42":"Haljala","99999":"Other"}],
+"PL":[8,"Põlva",{"43":"Põlva","44":"Räpina","45":"Värska","46":"Kanepi","47":"Ahja","99999":"Other"}],
+"PR":[9,"Pärnu",{"48":"Pärnu","49":"Sindi","50":"Vändra","51":"Kilingi-Nõmme","52":"Tori","53":"Audru","54":"Paikuse","55":"Häädemeeste","99999":"Other"}],
+"RA":[10,"Rapla",{"56":"Rapla","57":"Märjamaa","58":"Kehtna","59":"Kohila","60":"Järvakandi","99999":"Other"}],
+"SA":[11,"Saare",{"61":"Kuressaare","62":"Orissaare","63":"Leisi","64":"Kihelkonna","65":"Kärla","99999":"Other"}],
+"TA":[12,"Tartu",{"66":"Tartu","67":"Elva","68":"Kallaste","69":"Ülenurme","70":"Kambja","71":"Nõo","72":"Tähtvere","99999":"Other"}],
+"VA":[13,"Valga",{"73":"Valga","74":"Tõrva","75":"Otepää","76":"Helme","77":"Õru","99999":"Other"}],
+"VL":[14,"Viljandi",{"78":"Viljandi","79":"Põhja-Sakala","80":"Mulgi","81":"Suure-Jaani","82":"Abja","83":"Kõpu","99999":"Other"}],
+"VR":[15,"Võru",{"84":"Võru","85":"Antsla","86":"Rõuge","87":"Vastseliina","88":"Sõmerpalu","89":"Varstu","99999":"Other"}]
+}}

@@ -1,0 +1,12 @@
+{"country":{"id":194,"code":"SB","name":"Solomon Islands","phone_code":"+677"},"states":{
+"CE":[1,"Central",{"1":"Tulagi","2":"Savo","3":"Ngela","4":"Russell Islands","5":"Guadalcanal","99999":"Other"}],
+"CH":[2,"Choiseul",{"6":"Taro","7":"Choiseul Bay","8":"Sasamungga","9":"Nukufero","99999":"Other"}],
+"GU":[3,"Guadalcanal",{"10":"Honiara","11":"Marau","12":"Aola","13":"Malango","14":"Avuavu","15":"Tangarare","16":"Visale","17":"Lambi","18":"Mbirao","19":"Verahue","99999":"Other"}],
+"IS":[4,"Isabel",{"20":"Buala","21":"Kia","22":"Samasodu","23":"Tatamba","24":"Jejevo","25":"Suavanao","99999":"Other"}],
+"MK":[5,"Makira-Ulawa",{"26":"Kirakira","27":"Star Harbour","28":"Ugi","29":"Santa Ana","30":"Santa Catalina","31":"Uki Ni Masi","99999":"Other"}],
+"ML":[6,"Malaita",{"32":"Auki","33":"Afio","34":"Fauabu","35":"Malu'u","36":"Aoke","37":"Kwai","38":"Langa Langa","39":"Lau","40":"Baelelea","41":"Folosi","42":"Manakwai","43":"Sinalagu","44":"Uru","45":"Waneagu","99999":"Other"}],
+"RB":[7,"Rennell and Bellona",{"46":"Tigoa","47":"Rennell","48":"Bellona","99999":"Other"}],
+"TE":[8,"Temotu",{"49":"Lata","50":"Santa Cruz","51":"Reef Islands","52":"Duff Islands","53":"Anuta","54":"Tikopia","55":"Fatutaka","99999":"Other"}],
+"WE":[9,"Western",{"56":"Gizo","57":"Munda","58":"Noro","59":"Seghe","60":"Taro","61":"Shortland Islands","62":"Vona Vona","63":"Marovo","64":"Kolombangara","65":"Ranongga","66":"Simbo","67":"Vonavona","99999":"Other"}],
+"CT":[10,"Capital Territory",{"68":"Honiara","99999":"Other"}]
+}}

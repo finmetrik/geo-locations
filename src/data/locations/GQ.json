@@ -1,0 +1,9 @@
+{"country":{"id":88,"code":"GQ","name":"Equatorial Guinea","phone_code":"+240"},"states":{
+"BN":[1,"Bioko Norte",{"1":"Malabo","2":"Rebola","3":"Baney","4":"Sampaca","99999":"Other"}],
+"BS":[2,"Bioko Sur",{"5":"Luba","6":"Riaba","7":"Moka","8":"Ureka","99999":"Other"}],
+"AN":[3,"Annobón",{"9":"San Antonio de Palé","10":"Anganchi","99999":"Other"}],
+"CS":[4,"Centro Sur",{"11":"Evinayong","12":"Niefang","13":"Mikomeseng","14":"Akurenam","15":"Bicurga","99999":"Other"}],
+"KN":[5,"Kié-Ntem",{"16":"Ebebiyín","17":"Micomeseng","18":"Nsang","19":"Mengomeyén","99999":"Other"}],
+"LI":[6,"Litoral",{"20":"Bata","21":"Mbini","22":"Cogo","23":"Machinda","24":"Corisco","99999":"Other"}],
+"WN":[7,"Wele-Nzas",{"25":"Mongomo","26":"Aconibe","27":"Añisok","28":"Oyala","29":"Nsok","99999":"Other"}]
+}}

@@ -1,0 +1,7 @@
+{"country":{"id":192,"code":"RW","name":"Rwanda","phone_code":"+250"},"states":{
+"01":[1,"Kigali City",{"1":"Kigali","2":"Nyarugenge","3":"Gasabo","4":"Kicukiro","99999":"Other"}],
+"02":[2,"Eastern Province",{"5":"Rwamagana","6":"Kayonza","7":"Kirehe","8":"Ngoma","9":"Bugesera","10":"Nyagatare","11":"Gatsibo","99999":"Other"}],
+"03":[3,"Northern Province",{"12":"Musanze","13":"Gicumbi","14":"Rulindo","15":"Gakenke","16":"Burera","99999":"Other"}],
+"04":[4,"Western Province",{"17":"Karongi","18":"Rutsiro","19":"Rubavu","20":"Nyabihu","21":"Ngororero","22":"Rusizi","23":"Nyamasheke","99999":"Other"}],
+"05":[5,"Southern Province",{"24":"Nyanza","25":"Gisagara","26":"Nyaruguru","27":"Huye","28":"Nyamagabe","29":"Ruhango","30":"Muhanga","31":"Kamonyi","99999":"Other"}]
+}}

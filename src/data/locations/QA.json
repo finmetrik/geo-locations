@@ -1,0 +1,10 @@
+{"country":{"id":187,"code":"QA","name":"Qatar","phone_code":"+974"},"states":{
+"DA":[1,"Ad Dawhah",{"1":"Doha","2":"Al Dafna","3":"Al Sadd","4":"West Bay","5":"Al Waab","6":"Al Thumama","7":"Al Hilal","8":"Al Luqta","9":"Al Markhiya","10":"Al Aziziya","11":"Al Mansoura","12":"Al Nasr","13":"Al Rayyan Al Jadeed","14":"Bin Mahmoud","15":"Fereej Abdul Aziz","16":"Fereej Al Nasr","17":"Musheireb","18":"Najma","19":"New Doha","20":"Old Airport","21":"Ras Abu Abboud","22":"Rumeilah","23":"Salata","24":"Umm Ghuwailina","99999":"Other"}],
+"KH":[2,"Al Khor",{"25":"Al Khor","26":"Al Thakhira","27":"Al Kharitiyat","28":"Simaisma","99999":"Other"}],
+"WA":[3,"Al Wakrah",{"29":"Al Wakrah","30":"Al Wukair","31":"Mesaieed","32":"Al Egla","33":"Umm Al Qahab","99999":"Other"}],
+"RA":[4,"Ar Rayyan",{"34":"Al Rayyan","35":"Abu Hamour","36":"Al Aziziya","37":"Al Gharrafa","38":"Al Waab","39":"Ain Khaled","40":"Education City","41":"Muaither","42":"New Al Rayyan","43":"Old Al Rayyan","44":"Umm Al Seneem","99999":"Other"}],
+"MS":[5,"Madinat ash Shamal",{"45":"Madinat ash Shamal","46":"Ar Ru'ays","47":"Fuwairit","48":"Al Jumail","49":"Al Areesh","99999":"Other"}],
+"ZA":[6,"Az Za'ayin",{"50":"Az Za'ayin","99999":"Other"}],
+"US":[7,"Umm Salal",{"51":"Umm Salal","52":"Umm Salal Ali","53":"Umm Salal Mohammed","99999":"Other"}],
+"UD":[8,"Umm ad Duwadimi",{"54":"Umm ad Duwadimi","99999":"Other"}]
+}}

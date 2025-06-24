@@ -1,0 +1,17 @@
+{"country":{"id":206,"code":"SO","name":"Somalia","phone_code":"+252"},"states":{
+"AW":[1,"Awdal",{"1":"Borama","2":"Baki","3":"Lughaya","4":"Zeila","5":"Dilla","6":"Quljeed","7":"Gabiley","8":"Amud","9":"Sheikh","10":"Wajaale","99999":"Other"}],
+"WO":[2,"Woqooyi Galbeed",{"11":"Hargeisa","12":"Berbera","13":"Sheikh","14":"Gabiley","15":"Wajaale","16":"Salahley","17":"Arabsiyo","18":"Baligubadle","19":"Faraweyne","20":"Tog Wajaale","99999":"Other"}],
+"TO":[3,"Togdheer",{"21":"Burao","22":"Oodweyne","23":"Sheikh","24":"Bali Gubadle","25":"Caynabo","26":"Yirowe","27":"Garbaharey","28":"Qorilugud","29":"War Idaad","30":"Bohol","99999":"Other"}],
+"SO":[4,"Sool",{"31":"Las Anod","32":"Caynabo","33":"Taleh","34":"Xudun","35":"Yagoori","36":"Boocame","37":"Qorilugud","38":"Damala Xagare","39":"Gambadhe","40":"Sarmaanyo","99999":"Other"}],
+"SA":[5,"Sanaag",{"41":"Erigavo","42":"Las Qoray","43":"Ceerigaabo","44":"Badhan","45":"Dhahar","46":"Hingalol","47":"Maydh","48":"Xiis","49":"Buraan","50":"Hadaaftimo","99999":"Other"}],
+"BA":[16,"Bakool",{"160":"Xudur","161":"Tayo Barrow","162":"Waajid","163":"Ceel Barde","164":"Rabdhure","165":"Ato","166":"Goof Gaduud","167":"Yeed","168":"Luuq","169":"Ceel Waaq","99999":"Other"}],
+"NU":[7,"Nugaal",{"61":"Garowe","62":"Eyl","63":"Dangorayo","64":"Burtinle","65":"Goldogob","66":"Jariban","67":"Godobjiran","68":"Balli Dhidin","69":"Jalam","70":"Aradley","99999":"Other"}],
+"MU":[8,"Mudug",{"71":"Galkayo","72":"Hobyo","73":"Harardhere","74":"Adado","75":"Dhusamareb","76":"Guri Ceel","77":"Jalalaqsi","78":"Bacaadweyn","79":"Cadaado","80":"Bandarbeyla","99999":"Other"}],
+"GA":[9,"Galguduud",{"81":"Dhusamareb","82":"Adado","83":"Abudwak","84":"Cadaado","85":"El Bur","86":"El Dher","87":"Harardhere","88":"Hobyo","89":"Guri Ceel","90":"Ceel Dheer","99999":"Other"}],
+"HI":[10,"Hiiraan",{"91":"Beledweyne","92":"Jalalaqsi","93":"Mataban","94":"Maxaas","95":"Bulo Burto","96":"Halgan","97":"El Ali","98":"Ceel Jaale","99":"Mahaday","100":"Ceel Barde","99999":"Other"}],
+"SH":[11,"Shabeellaha Dhexe",{"101":"Jowhar","102":"Balcad","103":"Cadale","104":"Adan Yabaal","105":"Mahaday","106":"Abuuri","107":"Ruun Nirgood","108":"Warshiikh","109":"Jalalaqsi","110":"Dhanaane","99999":"Other"}],
+"SB":[12,"Shabeellaha Hoose",{"111":"Merca","112":"Baraawe","113":"Wanla Weyn","114":"Qoryooley","115":"Afgooye","116":"Aw Dheegle","117":"Kurtunwaarey","118":"Sablaale","119":"Golweyn","120":"Buufow","99999":"Other"}],
+"GE":[17,"Gedo",{"170":"Garbahaarrey","171":"Luuq","172":"Doolow","173":"Belet Xaawo","174":"Bardera","175":"Ceel Waaq","176":"Buur Dhuubo","177":"Yeed","178":"Fafaxdun","179":"Garbaharey","99999":"Other"}],
+"JU":[18,"Jubbada Hoose",{"180":"Kismayo","181":"Afmadow","182":"Badhaadhe","183":"Jamame","184":"Saakoow","185":"Gobweyn","186":"Hosingow","187":"Tabta","188":"Xagar","189":"Bilis Qooqaani","99999":"Other"}],
+"JD":[19,"Jubbada Dhexe",{"190":"Bu'ale","191":"Jilib","192":"Saakow","193":"Luuq","194":"Bardera","195":"Dolo","196":"Garbahaarrey","197":"Ceel Waaq","198":"Buur Dhuubo","199":"Garbaharey","99999":"Other"}]
+}}

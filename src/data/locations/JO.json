@@ -1,0 +1,14 @@
+{"country":{"id":113,"code":"JO","name":"Jordan","phone_code":"+962"},"states":{
+"AM":[1,"Amman",{"1":"Amman","2":"Wadi as-Ser","3":"Tla al-Ali","4":"Jubeiha","5":"Shafa Badran","6":"Abu Nsair","7":"Al Jizah","8":"Sweileh","9":"Sahab","10":"Marka","11":"Khilda","12":"Um el-Summaq","13":"Naour","14":"Dabouq","99999":"Other"}],
+"ZA":[2,"Zarqa",{"15":"Zarqa","16":"Russeifa","17":"Al-Hashimiyah","18":"Al-Sukhnah","19":"Ad-Dhulai","20":"Al-Hallabat","21":"Azraq","99999":"Other"}],
+"IR":[3,"Irbid",{"22":"Irbid","23":"Ramtha","24":"Al-Hisn","25":"Ash-Shajara","26":"Aydoun","27":"Al-Turra","28":"Hawara","29":"Bushra","30":"Kufr Asad","31":"Der Abi Said","32":"Beit Ras","33":"Al-Taybeh","99999":"Other"}],
+"AQ":[4,"Aqaba",{"34":"Aqaba","35":"Al-Quwayra","36":"Wadi Araba","99999":"Other"}],
+"MA":[5,"Mafraq",{"37":"Mafraq","38":"Zaatari","39":"Sabha","40":"Bal'ama","41":"Um al-Jimal","42":"Al-Khalidiyah","43":"Rhab","44":"Hamra","45":"Nayfa","99999":"Other"}],
+"BA":[6,"Balqa",{"46":"Salt","47":"Fuheis","48":"Mahis","49":"Al-Ardah","50":"Ain al-Basha","51":"Allan","52":"Yazeed","53":"Al-Subaihi","54":"South Shoonah","99999":"Other"}],
+"JA":[7,"Jerash",{"55":"Jerash","56":"Souf","57":"Al-Kitah","58":"Burma","59":"Al-Mastaba","60":"Qafqafa","61":"Sakib","62":"Balila","99999":"Other"}],
+"AJ":[8,"Ajloun",{"63":"Ajloun","64":"Anjara","65":"Ain Janna","66":"Kufranja","67":"Asfaina","68":"Ibbeen","69":"Sakhrah","99999":"Other"}],
+"KA":[9,"Karak",{"70":"Karak","71":"Al-Qatrana","72":"Ai","73":"Al-Mazar al-Janubi","74":"Mu'tah","75":"Al-Mazra'a","76":"Al-Hasa","99999":"Other"}],
+"MN":[10,"Ma'an",{"77":"Ma'an","78":"Wadi Musa","79":"Petra","80":"Shoubak","81":"Husseiniyah","82":"Eil","99999":"Other"}],
+"MD":[11,"Madaba",{"83":"Madaba","84":"Dhiban","85":"Al-Faisaliyyah","86":"Al-Jizah","87":"Manja","88":"Nitil","99999":"Other"}],
+"AT":[12,"At-Tafilah",{"89":"Tafilah","90":"Busaira","91":"Hasa","92":"Gregra","93":"Aima","99999":"Other"}]
+}}

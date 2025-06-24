@@ -1,0 +1,13 @@
+{"country":{"id":40,"code":"CD","name":"Democratic Republic of the Congo","phone_code":"+243"},"states":{
+"KN":[1,"Kinshasa",{"1":"Kinshasa","2":"Maluku","3":"N'djili","4":"Nsele","5":"Mont-Ngafula","6":"Kisenso","7":"Masina","8":"Kimbanseke","99999":"Other"}],
+"BC":[2,"Bas-Congo",{"9":"Matadi","10":"Boma","11":"Mbanza-Ngungu","12":"Moanda","13":"Lukula","14":"Tshela","99999":"Other"}],
+"BN":[3,"Bandundu",{"15":"Kikwit","16":"Bandundu","17":"Inongo","18":"Kenge","19":"Bulungu","20":"Bagata","99999":"Other"}],
+"EQ":[4,"Équateur",{"21":"Mbandaka","22":"Boende","23":"Lisala","24":"Bumba","25":"Basankusu","26":"Bolomba","99999":"Other"}],
+"KO":[5,"Kasaï-Occidental",{"27":"Kananga","28":"Tshikapa","29":"Mweka","30":"Luebo","31":"Demba","32":"Dibaya","99999":"Other"}],
+"KE":[6,"Kasaï-Oriental",{"33":"Mbuji-Mayi","34":"Mwene-Ditu","35":"Kabinda","36":"Lupatapata","37":"Gandajika","38":"Lubao","99999":"Other"}],
+"KA":[7,"Katanga",{"39":"Lubumbashi","40":"Kolwezi","41":"Likasi","42":"Kamina","43":"Kalemie","44":"Kipushi","45":"Kasumbalesa","46":"Manono","99999":"Other"}],
+"MA":[8,"Maniema",{"47":"Kindu","48":"Kasongo","49":"Kabambare","50":"Lubutu","51":"Punia","99999":"Other"}],
+"NK":[9,"Nord-Kivu",{"52":"Goma","53":"Butembo","54":"Beni","55":"Rutshuru","56":"Masisi","57":"Walikale","99999":"Other"}],
+"OR":[10,"Orientale",{"58":"Kisangani","59":"Bunia","60":"Isiro","61":"Buta","62":"Mahagi","63":"Aru","64":"Watsa","99999":"Other"}],
+"SK":[11,"Sud-Kivu",{"65":"Bukavu","66":"Uvira","67":"Baraka","68":"Kamituga","69":"Fizi","70":"Shabunda","99999":"Other"}]
+}}

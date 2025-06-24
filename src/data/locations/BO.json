@@ -1,0 +1,11 @@
+{"country":{"id":29,"code":"BO","name":"Bolivia","phone_code":"+591"},"states":{
+"LP":[1,"La Paz",{"1":"La Paz","2":"El Alto","3":"Viacha","4":"Achacachi","5":"Patacamaya","6":"Copacabana","7":"Caranavi","8":"Guaqui","9":"Tiahuanaco","99999":"Other"}],
+"CB":[2,"Cochabamba",{"10":"Cochabamba","11":"Quillacollo","12":"Sacaba","13":"Colcapirhua","14":"Tiquipaya","15":"Vinto","16":"Punata","17":"Villa Tunari","18":"Cliza","99999":"Other"}],
+"SC":[3,"Santa Cruz",{"19":"Santa Cruz de la Sierra","20":"Montero","21":"Warnes","22":"La Guardia","23":"Camiri","24":"San Ignacio de Velasco","25":"Robore","26":"Portachuelo","27":"Yapacani","99999":"Other"}],
+"BE":[4,"Beni",{"28":"Trinidad","29":"Riberalta","30":"Guayaramerin","31":"San Borja","32":"Rurrenabaque","33":"Santa Ana del Yacuma","34":"San Ignacio","99999":"Other"}],
+"CH":[5,"Chuquisaca",{"35":"Sucre","36":"Monteagudo","37":"Camargo","38":"Villa Serrano","39":"Padilla","40":"Tarabuco","99999":"Other"}],
+"OR":[6,"Oruro",{"41":"Oruro","42":"Huanuni","43":"Challapata","44":"Caracollo","45":"Poopó","99999":"Other"}],
+"PA":[7,"Pando",{"46":"Cobija","47":"Porvenir","48":"Filadelfia","49":"Puerto Rico","50":"Bella Flor","99999":"Other"}],
+"PO":[8,"Potosí",{"51":"Potosí","52":"Villazón","53":"Tupiza","54":"Uyuni","55":"Llallagua","56":"Colquechaca","99999":"Other"}],
+"TA":[9,"Tarija",{"57":"Tarija","58":"Yacuiba","59":"Bermejo","60":"Villamontes","61":"Entre Ríos","62":"Padcaya","99999":"Other"}]
+}}

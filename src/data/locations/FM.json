@@ -1,0 +1,6 @@
+{"country":{"id":73,"code":"FM","name":"Micronesia","phone_code":"+691"},"states":{
+"CH":[1,"Chuuk",{"1":"Weno","2":"Tonoas","3":"Fefan","4":"Uman","5":"Tol","6":"Udot","7":"Fanapanges","8":"Siis","9":"Fanew","99999":"Other"}],
+"KO":[2,"Kosrae",{"10":"Tofol","11":"Lelu","12":"Malem","13":"Utwe","14":"Tafunsak","15":"Walung","99999":"Other"}],
+"PO":[3,"Pohnpei",{"16":"Kolonia","17":"Sokehs","18":"Nett","19":"Kitti","20":"Madolenihmw","21":"U","22":"Mokil","23":"Pingelap","24":"Sapwuahfik","25":"Nukuoro","26":"Kapingamarangi","99999":"Other"}],
+"YA":[4,"Yap",{"27":"Colonia","28":"Rull","29":"Tamil","30":"Gagil","31":"Tomil","32":"Fanif","33":"Weloy","34":"Dalipebinaw","35":"Gilman","36":"Kanifay","37":"Map","38":"Rumung","39":"Maap","99999":"Other"}]
+}}

@@ -1,0 +1,7 @@
+{"country":{"id":222,"code":"TM","name":"Turkmenistan","phone_code":"+993"},"states":{
+"A":[1,"Ahal",{"1":"Ashgabat","2":"Akhal","3":"Gokdepe","4":"Babadayhan","5":"Bereket","6":"Esenguly","7":"Gyzylarbat","8":"Kaka","9":"Tejen","10":"Altyn Asyr","11":"Sahra","12":"Archabil","13":"Ruhabat","14":"Anau","15":"Geokdepe","99999":"Other"}],
+"B":[2,"Balkan",{"16":"Balkanabat","17":"Kazanjik","18":"Hazar","19":"Magtymguly","20":"Serdar","21":"Turkmenbasy","22":"Esenguly","23":"Gumdag","24":"Cheleken","25":"Kiyanly","26":"Bereket","27":"Garabogaz","28":"Derehoy","29":"Bokurdak","30":"Kenar","99999":"Other"}],
+"D":[3,"Dashoguz",{"31":"Dashoguz","32":"Akdepe","33":"Boldumsaz","34":"Gubadag","35":"Koneurgench","36":"Ruhubelent","37":"Saparmurat Turkmenbasy","38":"Tagta","39":"Yylanly","40":"Kerki","41":"Turkmengala","42":"Daryalyk","43":"Shasenem","44":"Sayat","45":"Farap","99999":"Other"}],
+"L":[4,"Lebap",{"46":"Turkmenbat","47":"Atamyrat","48":"Birata","49":"Danew","50":"Darganata","51":"Dostluk","52":"Farap","53":"Hojambaz","54":"Khalach","55":"Koytendag","56":"Sayat","57":"Seidi","58":"Turkmengala","59":"Uchkopri","60":"Gorjew","99999":"Other"}],
+"M":[5,"Mary",{"61":"Mary","62":"Bairamaly","63":"Murgap","64":"Sakar","65":"Tagtabazar","66":"Iolatan","67":"Serakhs","68":"Wekilbazar","69":"Oguzhan","70":"Garygala","71":"Sandykachi","72":"Uch Aji","73":"Parahat","74":"Gyzyletrek","75":"Tahta","99999":"Other"}]
+}}

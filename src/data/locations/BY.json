@@ -1,0 +1,9 @@
+{"country":{"id":36,"code":"BY","name":"Belarus","phone_code":"+375"},"states":{
+"BR":[1,"Brest",{"1":"Brest","2":"Baranavichy","3":"Pinsk","4":"Kobryn","5":"Bereza","6":"Luninyets","7":"Ivatsevichi","99999":"Other"}],
+"HO":[2,"Gomel",{"8":"Gomel","9":"Mazyr","10":"Zhlobin","11":"Svetlahorsk","12":"Rechytsa","13":"Kalinkavichy","14":"Rahachow","99999":"Other"}],
+"HR":[3,"Grodno",{"15":"Grodno","16":"Lida","17":"Slonim","18":"Vawkavysk","19":"Navahrudak","20":"Smarhon","99999":"Other"}],
+"MA":[4,"Mogilev",{"21":"Mogilev","22":"Babruysk","23":"Asipovichy","24":"Horki","25":"Krychaw","26":"Bykhaw","99999":"Other"}],
+"MI":[5,"Minsk Region",{"27":"Barysaw","28":"Salihorsk","29":"Maladzyechna","30":"Zhodzina","31":"Slutsk","32":"Vileyka","33":"Dzyarzhynsk","34":"Maryina Horka","99999":"Other"}],
+"MS":[6,"Minsk City",{"35":"Minsk","36":"Tsentralny District","37":"Savetski District","38":"Pershamayski District","39":"Partyzanski District","40":"Zavodski District","41":"Leninski District","42":"Kastrychnitski District","43":"Maskouski District","44":"Frunzyenski District","99999":"Other"}],
+"VI":[7,"Vitebsk",{"45":"Vitebsk","46":"Orsha","47":"Navapolatsk","48":"Polatsk","49":"Pastavy","50":"Hlybokaye","51":"Lepyel","99999":"Other"}]
+}}

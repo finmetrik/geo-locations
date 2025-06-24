@@ -1,0 +1,9 @@
+{"country":{"id":250,"code":"XK","name":"Kosovo","phone_code":"+383"},"states":{
+"PZ":[1,"Pristina",{"1":"Pristina","2":"Obiliq","3":"Fushë Kosovë","4":"Graçanicë","5":"Lipjan","6":"Podujëvë","7":"Glogoc","8":"Shtime","9":"Vushtrri","10":"Mitrovicë","99999":"Other"}],
+"PEJ":[2,"Peja",{"11":"Peja","12":"Deçan","13":"Gjakova","14":"Istog","15":"Klinë","16":"Junik","17":"Rahovëc","18":"Malishëvë","19":"Suharekë","20":"Prizren","99999":"Other"}],
+"PRI":[3,"Prizren",{"21":"Prizren","22":"Dragash","23":"Malishëvë","24":"Suharekë","25":"Rahovec","26":"Gjakova","27":"Junik","28":"Mamushë","29":"Zhur","30":"Zur","99999":"Other"}],
+"MIT":[4,"Mitrovica",{"31":"Mitrovicë","32":"Vushtrri","33":"Skenderaj","34":"Drenas","35":"Zubin Potok","36":"Zveçan","37":"Leposaviq","38":"Shipitull","39":"Banjska","40":"Cabra","99999":"Other"}],
+"GJI":[5,"Gjilan",{"41":"Gjilan","42":"Kamenicë","43":"Novobërdë","44":"Ranillug","45":"Partesh","46":"Kllokot","47":"Viti","48":"Ferizaj","49":"Kaçanik","50":"Shtërpcë","99999":"Other"}],
+"FER":[6,"Ferizaj",{"51":"Ferizaj","52":"Kaçanik","53":"Shtërpcë","54":"Hani i Elezit","55":"Jezerc","56":"Nerodime","57":"Varosh","58":"Doganaj","59":"Babush","60":"Mushtisht","99999":"Other"}],
+"GJA":[7,"Gjakova",{"61":"Gjakova","62":"Rahovec","63":"Malishëvë","64":"Junik","65":"Brekoc","66":"Gërmocë","67":"Korenicë","68":"Racaj","69":"Studënçan","70":"Dushkajë","99999":"Other"}]
+}}

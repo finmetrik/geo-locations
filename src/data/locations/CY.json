@@ -1,0 +1,8 @@
+{"country":{"id":55,"code":"CY","name":"Cyprus","phone_code":"+357"},"states":{
+"FA":[1,"Famagusta",{"1":"Famagusta","2":"Paralimni","3":"Ayia Napa","4":"Deryneia","5":"Sotira","6":"Frenaros","7":"Liopetri","8":"Avgorou","99999":"Other"}],
+"KY":[2,"Kyrenia",{"9":"Kyrenia","10":"Lapithos","11":"Karavas","12":"Bellapais","13":"Klepini","99999":"Other"}],
+"LA":[3,"Larnaca",{"14":"Larnaca","15":"Aradippou","16":"Livadia","17":"Dromolaxia","18":"Pyla","19":"Oroklini","20":"Kiti","21":"Pervolia","99999":"Other"}],
+"LI":[4,"Limassol",{"22":"Limassol","23":"Mesa Geitonia","24":"Agios Athanasios","25":"Germasogeia","26":"Ypsonas","27":"Kato Polemidia","28":"Erimi","29":"Kolossi","30":"Akrotiri","99999":"Other"}],
+"NI":[5,"Nicosia",{"31":"Nicosia","32":"Strovolos","33":"Lakatamia","34":"Latsia","35":"Geri","36":"Aglandjia","37":"Engomi","38":"Agios Dometios","39":"Kaimakli","40":"Pallouriotissa","99999":"Other"}],
+"PA":[6,"Paphos",{"41":"Paphos","42":"Geroskipou","43":"Peyia","44":"Emba","45":"Kissonerga","46":"Chloraka","47":"Tala","48":"Polis Chrysochous","99999":"Other"}]
+}}

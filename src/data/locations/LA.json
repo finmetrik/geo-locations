@@ -1,0 +1,20 @@
+{"country":{"id":126,"code":"LA","name":"Laos","phone_code":"+856"},"states":{
+"VT":[1,"Vientiane Capital",{"1":"Vientiane","2":"Sisattanak","3":"Chanthabuly","4":"Sikhottabong","5":"Xaysetha","6":"Naxaithong","7":"Xaythany","8":"Hadxaifong","9":"Sangthong","10":"Pak Ngum","99999":"Other"}],
+"AT":[2,"Attapeu",{"11":"Attapeu","12":"Sanxay","13":"Sanamxay","14":"Samakkhixay","15":"Phouvong","99999":"Other"}],
+"BK":[3,"Bokeo",{"16":"Houayxay","17":"Tonpheung","18":"Meung","19":"Pha Oudom","20":"Paktha","99999":"Other"}],
+"BL":[4,"Bolikhamxay",{"21":"Pakxan","22":"Thaphabat","23":"Pakkading","24":"Borikhane","25":"Viengthong","26":"Khamkeut","99999":"Other"}],
+"CH":[5,"Champasak",{"27":"Pakse","28":"Sanasomboun","29":"Bachiangchaleunsouk","30":"Pakxong","31":"Pathoumphone","32":"Phonthong","33":"Champasak","34":"Soukhouma","35":"Khong","36":"Mounlapamok","99999":"Other"}],
+"HO":[6,"Houaphanh",{"37":"Sam Neua","38":"Xiengkhor","39":"Houameuang","40":"Viengxon","41":"Viengthong","42":"Sopbao","43":"Add","44":"Et","45":"Khouan","99999":"Other"}],
+"KH":[7,"Khammouan",{"46":"Thakhek","47":"Mahaxay","48":"Nongbok","49":"Hinboun","50":"Gnommalat","51":"Boualapha","52":"Nakai","53":"Xebangfay","54":"Xaybuathong","99999":"Other"}],
+"LM":[8,"Louang Namtha",{"55":"Louang Namtha","56":"Sing","57":"Long","58":"Viengphoukha","59":"Nalae","99999":"Other"}],
+"LP":[9,"Louangphabang",{"60":"Louangphabang","61":"Xieng Ngeun","62":"Pak Ou","63":"Nambak","64":"Ngoi","65":"Pak Xeng","66":"Phonxay","67":"Chomphet","68":"Viengkham","69":"Phoukhoune","70":"Phonthong","99999":"Other"}],
+"OU":[10,"Oudomxay",{"71":"Muang Xay","72":"La","73":"Namor","74":"Nga","75":"Beng","76":"Houn","77":"Pakbeng","99999":"Other"}],
+"PH":[11,"Phongsali",{"78":"Phongsali","79":"May","80":"Khoua","81":"Samphanh","82":"Boun Neua","83":"Yot Ou","84":"Boun Tai","85":"Gnot Ou","99999":"Other"}],
+"SL":[12,"Salavan",{"86":"Salavan","87":"Ta-Oy","88":"Toumlane","89":"Lakhonpheng","90":"Vapy","91":"Khongxedon","92":"Lao Ngam","93":"Samuoi","99999":"Other"}],
+"SV":[13,"Savannakhet",{"94":"Kaysone Phomvihane","95":"Outhoumphone","96":"Atsaphangthong","97":"Phine","98":"Sepone","99":"Nong","100":"Thapangthong","101":"Songkhone","102":"Champhone","103":"Xonabouly","104":"Xaybouly","105":"Vilabuly","106":"Atsaphone","107":"Xonbuly","108":"Phalanxay","99999":"Other"}],
+"VI":[14,"Vientiane",{"109":"Phonhong","110":"Thoulakhom","111":"Keo Oudom","112":"Vangvieng","113":"Feuang","114":"Xanakharm","115":"Mad","116":"Viengkham","117":"Kasy","118":"Hinherb","119":"Sanakham","120":"Met","99999":"Other"}],
+"XA":[15,"Xaignabouli",{"121":"Xaignabouli","122":"Khop","123":"Ngeun","124":"Hongsa","125":"Xienghone","126":"Phiang","127":"Parklai","128":"Kenethao","129":"Pakbeng","130":"Botene","99999":"Other"}],
+"XE":[16,"Xekong",{"131":"Lamam","132":"Kaleum","133":"Dakchung","134":"Thateng","99999":"Other"}],
+"XI":[17,"Xiangkhouang",{"135":"Phonsavan","136":"Pek","137":"Kham","138":"Nonghed","139":"Khoune","140":"Morkmay","141":"Phookood","99999":"Other"}],
+"XS":[18,"Xaisomboun",{"142":"Anouvong","143":"Longxan","144":"Longchaeng","145":"Hom","146":"Thathom","99999":"Other"}]
+}}

@@ -1,0 +1,16 @@
+{"country":{"id":45,"code":"CK","name":"Cook Islands","phone_code":"+682"},"states":{
+"AI":[1,"Aitutaki",{"1":"Arutanga","2":"Reureu","3":"Vaipae","4":"Tautu","5":"Vaipeka","99999":"Other"}],
+"AT":[2,"Atiu",{"6":"Teenui","7":"Areora","8":"Ngatiarua","9":"Mapumai","99999":"Other"}],
+"MA":[3,"Mangaia",{"10":"Oneroa","11":"Ivirua","12":"Tamarua","99999":"Other"}],
+"MH":[4,"Manihiki",{"13":"Tauhunu","14":"Tukao","99999":"Other"}],
+"MK":[5,"Mauke",{"15":"Kimiangatau","16":"Makatea","17":"Ngatiarua","99999":"Other"}],
+"MT":[6,"Mitiaro",{"18":"Mangarei","19":"Takaue","20":"Arai","99999":"Other"}],
+"NK":[7,"Nassau",{"21":"Nassau","99999":"Other"}],
+"PA":[8,"Palmerston",{"22":"Palmerston","99999":"Other"}],
+"PE":[9,"Penrhyn",{"23":"Omoka","24":"Tetautua","99999":"Other"}],
+"PU":[10,"Pukapuka",{"25":"Roto","26":"Yato","27":"Ko","99999":"Other"}],
+"RK":[11,"Rakahanga",{"28":"Rakahanga","99999":"Other"}],
+"RR":[12,"Rarotonga",{"29":"Avarua","30":"Arorangi","31":"Ngatangiia","32":"Takitumu","33":"Titikaveka","34":"Matavera","35":"Tupapa","99999":"Other"}],
+"SU":[13,"Suwarrow",{"36":"Suwarrow","99999":"Other"}],
+"TA":[14,"Takutea",{"37":"Takutea","99999":"Other"}]
+}}

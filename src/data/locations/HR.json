@@ -1,0 +1,23 @@
+{"country":{"id":98,"code":"HR","name":"Croatia","phone_code":"+385"},"states":{
+"ZG":[1,"Zagreb",{"1":"Zagreb","2":"Sesvete","3":"Stenjevec","4":"Novi Zagreb","5":"Maksimir","6":"Podsused","99999":"Other"}],
+"KZ":[2,"Krapina-Zagorje",{"7":"Krapina","8":"Zabok","9":"Pregrada","10":"Oroslavje","11":"Donja Stubica","12":"Zlatar","99999":"Other"}],
+"SM":[3,"Sisak-Moslavina",{"13":"Sisak","14":"Kutina","15":"Petrinja","16":"Novska","17":"Glina","18":"Hrvatska Kostajnica","99999":"Other"}],
+"KA":[4,"Karlovac",{"19":"Karlovac","20":"Duga Resa","21":"Ogulin","22":"Slunj","23":"Ozalj","99999":"Other"}],
+"VA":[5,"Varaždin",{"24":"Varaždin","25":"Ivanec","26":"Ludbreg","27":"Novi Marof","28":"Lepoglava","99999":"Other"}],
+"KC":[6,"Koprivnica-Križevci",{"29":"Koprivnica","30":"Križevci","31":"Đurđevac","32":"Virje","99999":"Other"}],
+"BB":[7,"Bjelovar-Bilogora",{"33":"Bjelovar","34":"Daruvar","35":"Garušić","36":"Čazma","37":"Grubišno Polje","99999":"Other"}],
+"PG":[8,"Primorje-Gorski Kotar",{"38":"Rijeka","39":"Crikvenica","40":"Opatija","41":"Kraljevica","42":"Delnice","43":"Vrbovsko","44":"Bakar","45":"Krk","46":"Rab","47":"Mali Lošinj","48":"Cres","99999":"Other"}],
+"LS":[9,"Lika-Senj",{"49":"Gospić","50":"Senj","51":"Otočac","52":"Novalja","99999":"Other"}],
+"VZ":[10,"Virovitica-Podravina",{"53":"Virovitica","54":"Slatina","55":"Orahovica","56":"Pitomača","99999":"Other"}],
+"PS":[11,"Požega-Slavonia",{"57":"Požega","58":"Pleternica","59":"Pakrac","60":"Lipik","61":"Kutjevo","99999":"Other"}],
+"BP":[12,"Brod-Posavina",{"62":"Slavonski Brod","63":"Nova Gradiška","64":"Vrpolje","99999":"Other"}],
+"ZD":[13,"Zadar",{"65":"Zadar","66":"Benkovac","67":"Biograd na Moru","68":"Nin","69":"Obrovac","70":"Pag","99999":"Other"}],
+"OB":[14,"Osijek-Baranja",{"71":"Osijek","72":"Đakovo","73":"Našice","74":"Valpovo","75":"Donji Miholjac","76":"Beli Manastir","77":"Čepin","99999":"Other"}],
+"SK":[15,"Šibenik-Knin",{"78":"Šibenik","79":"Knin","80":"Vodice","81":"Drniš","82":"Skradin","99999":"Other"}],
+"VS":[16,"Vukovar-Srijem",{"83":"Vukovar","84":"Vinkovci","85":"Županja","86":"Ilok","87":"Otok","99999":"Other"}],
+"ST":[17,"Split-Dalmatia",{"88":"Split","89":"Solin","90":"Kaštela","91":"Sinj","92":"Trilj","93":"Omiš","94":"Imotski","95":"Trogir","96":"Makarska","97":"Vrgorac","98":"Hvar","99":"Vis","100":"Korčula","101":"Supetar","102":"Stari Grad","99999":"Other"}],
+"IS":[18,"Istria",{"103":"Pula","104":"Rovinj","105":"Poreč","106":"Pazin","107":"Umag","108":"Labin","109":"Buzet","110":"Novigrad","111":"Vodnjan","112":"Buje","99999":"Other"}],
+"DN":[19,"Dubrovnik-Neretva",{"113":"Dubrovnik","114":"Metković","115":"Ploe","116":"Korčula","117":"Opće","99999":"Other"}],
+"ME":[20,"Međimurje",{"118":"Čakovec","119":"Prelog","120":"Mursko Središće","99999":"Other"}],
+"CZ":[21,"City of Zagreb",{"121":"Zagreb","99999":"Other"}]
+}}

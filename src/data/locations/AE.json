@@ -1,0 +1,9 @@
+{"country":{"id":2,"code":"AE","name":"United Arab Emirates","phone_code":"+971"},"states":{
+"AZ":[1,"Abu Dhabi",{"1":"Abu Dhabi","2":"Al Ain","3":"Madinat Zayed","4":"Ruwais","5":"Liwa Oasis","6":"Ghayathi","7":"Marawah","8":"Dalma Island","9":"Sir Bani Yas","99999":"Other"}],
+"AJ":[2,"Ajman",{"10":"Ajman","11":"Masfout","12":"Manama","99999":"Other"}],
+"DU":[3,"Dubai",{"13":"Dubai","14":"Jebel Ali","15":"Al Awir","16":"Hatta","17":"Al Lisaili","18":"Al Mizhar","19":"Dubai Marina","20":"Jumeirah","99999":"Other"}],
+"FU":[4,"Fujairah",{"21":"Fujairah","22":"Dibba Al-Fujairah","23":"Khor Fakkan","24":"Kalba","25":"Al Badiyah","26":"Masafi","27":"Al Bithnah","99999":"Other"}],
+"RK":[5,"Ras Al Khaimah",{"28":"Ras Al Khaimah","29":"Al Jazirah Al Hamra","30":"Khatt","31":"Digdaga","32":"Al Nakheel","99999":"Other"}],
+"SH":[6,"Sharjah",{"33":"Sharjah","34":"Khor Fakkan","35":"Kalba","36":"Dibba Al-Hisn","37":"Al Dhaid","38":"Al Madam","39":"Al Hamriyah","99999":"Other"}],
+"UQ":[7,"Umm Al Quwain",{"40":"Umm Al Quwain","41":"Falaj Al Mualla","42":"Al Salamah","43":"Al Rashidiya","99999":"Other"}]
+}}

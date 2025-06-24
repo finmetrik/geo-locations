@@ -1,0 +1,17 @@
+{"country":{"id":151,"code":"MR","name":"Mauritania","phone_code":"+222"},"states":{
+"07":[1,"Adrar",{"1":"Atar","2":"Chinguetti","3":"Ouadane","4":"Aoujeft","99999":"Other"}],
+"03":[2,"Assaba",{"5":"Kiffa","6":"Guérou","7":"Boumdeid","8":"Kankossa","9":"Barkeol","99999":"Other"}],
+"05":[3,"Brakna",{"10":"Aleg","11":"Boghe","12":"M'Bagne","13":"Magta-Lahjar","14":"Bababbe","99999":"Other"}],
+"08":[4,"Dakhlet Nouadhibou",{"15":"Nouadhibou","16":"Chami","99999":"Other"}],
+"04":[5,"Gorgol",{"17":"Kaedi","18":"Mbout","19":"Maghama","20":"Lexeiba","21":"Monguel","99999":"Other"}],
+"10":[6,"Guidimaka",{"22":"Selibaby","23":"Ould Yenje","24":"Wompou","25":"Ghabou","99999":"Other"}],
+"01":[7,"Hodh Ech Chargui",{"26":"Nema","27":"Amourj","28":"Bassiknou","29":"Dhar","30":"Djiguenni","31":"Oualata","32":"Timbedra","99999":"Other"}],
+"02":[8,"Hodh El Gharbi",{"33":"Ayoun el Atrous","34":"Tintane","35":"Kobeni","36":"Tamchakett","37":"Touil","99999":"Other"}],
+"12":[9,"Inchiri",{"38":"Akjoujt","39":"Benichab","99999":"Other"}],
+"13":[10,"Nouakchott-Nord",{"40":"Dar-Naim","41":"Teyarett","42":"Toujounine","99999":"Other"}],
+"14":[11,"Nouakchott-Ouest",{"43":"Ksar","44":"Sebkha","45":"Tevragh-Zeina","99999":"Other"}],
+"15":[12,"Nouakchott-Sud",{"46":"Arafat","47":"El Mina","48":"Riyad","99999":"Other"}],
+"09":[13,"Tagant",{"49":"Tidjikja","50":"Tichitt","51":"Moudjeria","52":"Rachid","99999":"Other"}],
+"11":[14,"Tiris Zemmour",{"53":"Zouerate","54":"F'derik","55":"Bir Moghrein","99999":"Other"}],
+"06":[15,"Trarza",{"56":"Rosso","57":"Mederdra","58":"Boutilimit","59":"Keur-Macene","60":"Ouad Naga","61":"R'Kiz","99999":"Other"}]
+}}

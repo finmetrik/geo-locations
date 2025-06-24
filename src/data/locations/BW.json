@@ -1,0 +1,18 @@
+{"country":{"id":35,"code":"BW","name":"Botswana","phone_code":"+267"},"states":{
+"CE":[1,"Central",{"1":"Serowe","2":"Palapye","3":"Mahalapye","4":"Letlhakane","5":"Bobonong","6":"Mopipi","99999":"Other"}],
+"CH":[2,"Chobe",{"7":"Kasane","8":"Kazungula","9":"Pandamatenga","10":"Parakarungu","99999":"Other"}],
+"FR":[3,"Francistown",{"11":"Francistown","12":"Tati Siding","13":"Tonota","99999":"Other"}],
+"GA":[4,"Gaborone",{"14":"Gaborone","15":"Tlokweng","16":"Mogoditshane","99999":"Other"}],
+"GH":[5,"Ghanzi",{"17":"Ghanzi","18":"Charleshill","19":"Ncojane","20":"New Xade","99999":"Other"}],
+"JW":[6,"Jwaneng",{"21":"Jwaneng","99999":"Other"}],
+"KG":[7,"Kgalagadi",{"22":"Tshabong","23":"Hukuntsi","24":"Kang","25":"Lehututu","99999":"Other"}],
+"KL":[8,"Kgatleng",{"26":"Mochudi","27":"Oodi","28":"Modipane","29":"Mmathubudukwane","99999":"Other"}],
+"KW":[9,"Kweneng",{"30":"Molepolole","31":"Thamaga","32":"Gabane","33":"Lentsweletau","34":"Mmopane","99999":"Other"}],
+"LO":[10,"Lobatse",{"35":"Lobatse","36":"Otse","99999":"Other"}],
+"NE":[11,"North East",{"37":"Masunga","38":"Sebina","39":"Tutume","40":"Nata","99999":"Other"}],
+"NW":[12,"North West",{"41":"Maun","42":"Gumare","43":"Shakawe","44":"Nata","45":"Gweta","99999":"Other"}],
+"SE":[13,"South East",{"46":"Ramotswa","47":"Mogobane","48":"Taung","49":"Ramonaka","99999":"Other"}],
+"SO":[14,"Southern",{"50":"Kanye","51":"Moshupa","52":"Goodhope","53":"Ranaka","99999":"Other"}],
+"SP":[15,"Selebi-Phikwe",{"54":"Selebi-Phikwe","55":"Mmadinare","99999":"Other"}],
+"ST":[16,"Sowa Town",{"56":"Sowa Town","99999":"Other"}]
+}}

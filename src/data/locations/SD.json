@@ -1,0 +1,19 @@
+{"country":{"id":196,"code":"SD","name":"Sudan","phone_code":"+249"},"states":{
+"KH":[1,"Khartoum",{"1":"Khartoum","2":"Omdurman","3":"Khartoum North","4":"Sharq an Nil","5":"Jabal Awliya","6":"Karrari","7":"Umbada","99999":"Other"}],
+"GZ":[2,"Gezira",{"8":"Wad Madani","9":"Al Manaqil","10":"Al Qurashi","11":"East Gezira","12":"Al Kamlin","13":"Um Al Qura","14":"Al Hasaheesa","99999":"Other"}],
+"KA":[3,"Kassala",{"15":"Kassala","16":"Port Sudan","17":"Suakin","18":"Aroma","19":"Hamashkoreib","20":"Halfa al Jadida","21":"Khashm al Girba","22":"North Delta","23":"Rural Kassala","24":"Telkuk","25":"West Kassala","99999":"Other"}],
+"GD":[4,"Gadarif",{"26":"Gedaref","27":"Al Fashaga","28":"Al Mafaza","29":"Al Qureisha","30":"Basunda","31":"Faw","32":"Gala al Nahal","33":"Gallabat","34":"Qala an Nahal","99999":"Other"}],
+"KS":[5,"South Kordofan",{"35":"Kadugli","36":"Talodi","37":"Rashad","38":"Abu Karshola","39":"As Salam","40":"Dalang","41":"Dilling","42":"Habila","43":"Heiban","44":"Kauda","45":"Lagawa","46":"Reif Ashargi","99999":"Other"}],
+"BN":[6,"Blue Nile",{"47":"Ad Damazin","48":"Ar Rusayris","49":"Bau","50":"Geissan","51":"Kurmuk","52":"Qais","53":"Tadamon","99999":"Other"}],
+"NO":[7,"Northern",{"54":"Dongola","55":"Karima","56":"Merowe","57":"Al Burgaig","58":"Delgo","59":"Halfa","60":"Korti","61":"Nuri","62":"Wawa","99999":"Other"}],
+"NR":[8,"River Nile",{"63":"Ad Damar","64":"Atbara","65":"Berber","66":"Abu Hamad","67":"Al Matamma","68":"Shendi","99999":"Other"}],
+"NW":[9,"North Kordofan",{"69":"Al Obeid","70":"Bara","71":"An Nahud","72":"Ar Rahad","73":"As Sunut","74":"Gabrat ash Sheikh","75":"Sheikan","76":"Sodari","77":"Um Rawaba","78":"West Bara","79":"Wad Banda","99999":"Other"}],
+"RS":[10,"Red Sea",{"80":"Port Sudan","81":"Suakin","82":"Arous","83":"Badi","84":"Durdeib","85":"Ganeb","86":"Halayeb","87":"Haya","88":"Sawakin","89":"Tokar","99999":"Other"}],
+"SI":[11,"Sennar",{"90":"Sinja","91":"Sennar","92":"Abu Hujar","93":"As Suki","94":"Dinder","95":"East Sennar","96":"Sharg Sennar","99999":"Other"}],
+"DN":[12,"North Darfur",{"97":"Al Fashir","98":"Kutum","99":"Malha","100":"As Serief","101":"Dar as Salam","102":"El Kuma","103":"Kabkabiya","104":"Karnoi","105":"Korma","106":"Kulbus","107":"Melit","108":"Saraf Omra","109":"Shangil Tobaya","110":"Tabit","111":"Tawila","112":"Um Barru","113":"Um Kaddada","99999":"Other"}],
+"DS":[13,"South Darfur",{"114":"Nyala","115":"Ed Da'ein","116":"Kas","117":"Adila","118":"Bielel","119":"Damso","120":"Gereida","121":"Kass","122":"Kubum","123":"Mershing","124":"Nitega","125":"Rehaid al Birdi","126":"Sharg al Jebel","127":"Tulus","128":"Um Dafuq","99999":"Other"}],
+"DW":[14,"West Darfur",{"129":"Al Geneina","130":"Foro Baranga","131":"Habila","132":"Jebel Moon","133":"Kulbus","134":"Masteri","135":"Mukjar","136":"Sirba","137":"Zalingei","99999":"Other"}],
+"DC":[15,"Central Darfur",{"138":"Zalingei","139":"Azum","140":"Bindisi","141":"Mukjar","142":"Nertiti","143":"Rokoro","144":"Wadi Salih","99999":"Other"}],
+"DE":[16,"East Darfur",{"145":"Ed Daein","146":"Abu Karinka","147":"Adila","148":"As Salam","149":"Bahr al Arab","150":"Labado","151":"Sharg ad Dali","152":"Yassin","99999":"Other"}],
+"WK":[17,"White Nile",{"153":"Rabak","154":"Kosti","155":"Ad Duwaym","156":"Al Jabalein","157":"As Salam","158":"Guli","159":"Tendalti","160":"Um Rimta","99999":"Other"}]
+}}

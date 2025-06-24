@@ -1,0 +1,9 @@
+{"country":{"id":1,"code":"AD","name":"Andorra","phone_code":"+376"},"states":{
+"AN":[1,"Andorra la Vella",{"1":"Andorra la Vella","2":"Santa Coloma","3":"La Margineda","4":"Engolasters","99999":"Other"}],
+"CA":[2,"Canillo",{"5":"Canillo","6":"Soldeu","7":"El Tarter","8":"Pas de la Casa","9":"Ransol","99999":"Other"}],
+"EN":[3,"Encamp",{"10":"Encamp","11":"Vila","12":"El Pas de la Casa","13":"Grau Roig","99999":"Other"}],
+"ES":[4,"Escaldes-Engordany",{"14":"Escaldes-Engordany","15":"El Forn","16":"Engolasters","99999":"Other"}],
+"LM":[5,"La Massana",{"17":"La Massana","18":"L'Aldosa","19":"Anyós","20":"Sispony","21":"Arinsal","99999":"Other"}],
+"OR":[6,"Ordino",{"22":"Ordino","23":"El Serrat","24":"Ansalonga","25":"Sornàs","26":"La Cortinada","99999":"Other"}],
+"SJ":[7,"Sant Julià de Lòria",{"27":"Sant Julià de Lòria","28":"Aixirivall","29":"Aixovall","30":"Certers","99999":"Other"}]
+}}

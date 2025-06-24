@@ -1,0 +1,16 @@
+{"country":{"id":89,"code":"GR","name":"Greece","phone_code":"+30"},"states":{
+"AT":[1,"Attica",{"1":"Athens","2":"Piraeus","3":"Kallithea","4":"Nikaia","5":"Glyfada","6":"Keratsini","7":"Peristeri","8":"Nea Smyrni","9":"Marousi","10":"Agios Dimitrios","11":"Zografou","12":"Egaleo","13":"Nea Ionia","14":"Palaio Faliro","15":"Korydallos","16":"Vyronas","17":"Agia Paraskevi","18":"Galatsi","19":"Petroupoli","20":"Irakleio","99999":"Other"}],
+"CM":[2,"Central Macedonia",{"21":"Thessaloniki","22":"Kalamaria","23":"Evosmos","24":"Stavroupoli","25":"Pylaia","26":"Polichni","27":"Sykies","28":"Ampelokipoi","29":"Neapoli","30":"Thermi","31":"Veria","32":"Katerini","33":"Serres","34":"Drama","35":"Kilkis","36":"Giannitsa","37":"Edessa","38":"Alexandreia","99999":"Other"}],
+"CR":[3,"Crete",{"39":"Heraklion","40":"Chania","41":"Rethymno","42":"Ierapetra","43":"Agios Nikolaos","44":"Sitia","45":"Kissamos","99999":"Other"}],
+"EM":[4,"East Macedonia and Thrace",{"46":"Alexandroupoli","47":"Kavala","48":"Xanthi","49":"Komotini","50":"Orestiada","51":"Didymoteicho","99999":"Other"}],
+"EP":[5,"Epirus",{"52":"Ioannina","53":"Arta","54":"Preveza","55":"Igoumenitsa","56":"Konitsa","99999":"Other"}],
+"II":[6,"Ionian Islands",{"57":"Corfu","58":"Zakynthos","59":"Argostoli","60":"Lefkada","99999":"Other"}],
+"NA":[7,"North Aegean",{"61":"Mytilene","62":"Chios","63":"Samos","64":"Lemnos","65":"Ikaria","99999":"Other"}],
+"PP":[8,"Peloponnese",{"66":"Patras","67":"Kalamata","68":"Corinth","69":"Tripoli","70":"Argos","71":"Sparta","72":"Pyrgos","73":"Aigio","74":"Nafplio","99999":"Other"}],
+"SA":[9,"South Aegean",{"75":"Rhodes","76":"Kos","77":"Ermoupoli","78":"Naxos","79":"Thira","80":"Paros","81":"Mykonos","82":"Kalymnos","99999":"Other"}],
+"TH":[10,"Thessaly",{"83":"Larissa","84":"Volos","85":"Trikala","86":"Karditsa","87":"Lamia","88":"Nea Ionia","89":"Tyrnavos","99999":"Other"}],
+"WG":[11,"Western Greece",{"90":"Agrinio","91":"Messolonghi","92":"Nafpaktos","93":"Amfilochia","94":"Pyrgos","99999":"Other"}],
+"WM":[12,"Western Macedonia",{"95":"Kozani","96":"Ptolemaida","97":"Florina","98":"Kastoria","99":"Grevena","99999":"Other"}],
+"CG":[13,"Central Greece",{"100":"Chalcis","101":"Livadeia","102":"Thiva","103":"Amfissa","104":"Karpenisi","99999":"Other"}],
+"MA":[14,"Mount Athos",{"105":"Karyes","106":"Dafni","99999":"Other"}]
+}}

@@ -1,0 +1,19 @@
+{"country":{"id":125,"code":"KZ","name":"Kazakhstan","phone_code":"+7"},"states":{
+"ALA":[1,"Almaty",{"1":"Almaty","2":"Talgar","3":"Kaskelen","4":"Kapshagay","5":"Issyk","6":"Taldykorgan","7":"Tekeli","8":"Zharkent","9":"Chundzha","10":"Esik","11":"Saryozek","12":"Ushtobe","99999":"Other"}],
+"ALM":[2,"Almaty City",{"13":"Almaty","99999":"Other"}],
+"AKM":[3,"Akmola",{"14":"Kokshetau","15":"Stepnogorsk","16":"Shchuchinsk","17":"Atbasar","18":"Makinsk","19":"Akkol","20":"Yesil","21":"Yereymentau","99999":"Other"}],
+"AKT":[4,"Aktobe",{"22":"Aktobe","23":"Khromtau","24":"Shalkar","25":"Kandyagash","26":"Embi","27":"Alga","28":"Temir","99999":"Other"}],
+"ATY":[5,"Atyrau",{"29":"Atyrau","30":"Kulsary","31":"Makat","32":"Inderbor","33":"Balykshi","99999":"Other"}],
+"ZAP":[6,"West Kazakhstan",{"34":"Oral","35":"Aksai","36":"Zhanibek","37":"Burlin","38":"Fedorovka","99999":"Other"}],
+"MAN":[7,"Mangystau",{"39":"Aktau","40":"Zhanaozen","41":"Fort-Shevchenko","42":"Mangystau","43":"Shetpe","44":"Beyneu","99999":"Other"}],
+"YUZ":[8,"South Kazakhstan",{"45":"Shymkent","46":"Turkestan","47":"Kentau","48":"Arys","49":"Shardara","50":"Lenger","51":"Saryagash","52":"Zhetysai","99999":"Other"}],
+"PAV":[9,"Pavlodar",{"53":"Pavlodar","54":"Ekibastuz","55":"Aksu","56":"Terenkol","99999":"Other"}],
+"KAR":[10,"Karaganda",{"57":"Karaganda","58":"Temirtau","59":"Zhezkazgan","60":"Balkhash","61":"Satpayev","62":"Saran","63":"Shakhtinsk","64":"Abai","65":"Karazhal","99999":"Other"}],
+"KUS":[11,"Kostanay",{"66":"Kostanay","67":"Rudny","68":"Lisakovsk","69":"Zhitikara","70":"Arkalyk","99999":"Other"}],
+"KZY":[12,"Kyzylorda",{"71":"Kyzylorda","72":"Baikonur","73":"Aralsk","74":"Kazalinsk","75":"Zhalagash","99999":"Other"}],
+"VOS":[13,"East Kazakhstan",{"76":"Ust-Kamenogorsk","77":"Semey","78":"Ridder","79":"Zyryanovsk","80":"Serebryansk","81":"Shemonaikha","82":"Kurchatov","83":"Ayagoz","84":"Shar","99999":"Other"}],
+"SEV":[14,"North Kazakhstan",{"85":"Petropavl","86":"Tayinsha","87":"Bulaevo","88":"Mamlyutka","89":"Sergeevka","99999":"Other"}],
+"YUA":[15,"Shymkent City",{"90":"Shymkent","99999":"Other"}],
+"ZHA":[16,"Zhambyl",{"91":"Taraz","92":"Zhanatas","93":"Karatau","94":"Shu","95":"Moyynkum","96":"Merke","99999":"Other"}],
+"NAS":[17,"Nur-Sultan City",{"97":"Nur-Sultan","99999":"Other"}]
+}}

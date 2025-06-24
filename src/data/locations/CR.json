@@ -1,0 +1,9 @@
+{"country":{"id":50,"code":"CR","name":"Costa Rica","phone_code":"+506"},"states":{
+"SJ":[1,"San José",{"1":"San José","2":"Escazú","3":"Desamparados","4":"Puriscal","5":"Tarrazú","6":"Aserrí","7":"Mora","8":"Goicoechea","9":"Santa Ana","10":"Alajuelita","11":"Vázquez de Coronado","12":"Acosta","13":"Tibás","14":"Moravia","15":"Montes de Oca","16":"Turrubares","17":"Dota","18":"Curridabat","19":"Pérez Zeledón","20":"León Cortés Castro","99999":"Other"}],
+"AL":[2,"Alajuela",{"21":"Alajuela","22":"San Ramón","23":"Grecia","24":"San Mateo","25":"Atenas","26":"Naranjo","27":"Palmares","28":"Poás","29":"Orotina","30":"San Carlos","31":"Zarcero","32":"Valverde Vega","33":"Upala","34":"Los Chiles","35":"Guatuso","99999":"Other"}],
+"CA":[3,"Cartago",{"36":"Cartago","37":"Paraíso","38":"La Unión","39":"Jiménez","40":"Turrialba","41":"Alvarado","42":"Oreamuno","43":"El Guarco","99999":"Other"}],
+"HE":[4,"Heredia",{"44":"Heredia","45":"Barva","46":"Santo Domingo","47":"Santa Bárbara","48":"San Rafael","49":"San Isidro","50":"Belén","51":"Flores","52":"San Pablo","53":"Sarapiquí","99999":"Other"}],
+"GU":[5,"Guanacaste",{"54":"Liberia","55":"Nicoya","56":"Santa Cruz","57":"Bagaces","58":"Carrillo","59":"Cañas","60":"Abangares","61":"Tilarán","62":"Nandayure","63":"La Cruz","64":"Hojancha","99999":"Other"}],
+"PU":[6,"Puntarenas",{"65":"Puntarenas","66":"Esparza","67":"Buenos Aires","68":"Montes de Oro","69":"Osa","70":"Quepos","71":"Golfito","72":"Coto Brus","73":"Parrita","74":"Corredores","75":"Garabito","99999":"Other"}],
+"LI":[7,"Limón",{"76":"Limón","77":"Pococí","78":"Siquirres","79":"Talamanca","80":"Matina","81":"Guácimo","99999":"Other"}]
+}}

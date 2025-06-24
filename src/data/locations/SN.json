@@ -1,0 +1,16 @@
+{"country":{"id":205,"code":"SN","name":"Senegal","phone_code":"+221"},"states":{
+"DK":[1,"Dakar",{"1":"Dakar","2":"Guédiawaye","3":"Pikine","4":"Rufisque","5":"Bargny","6":"Diamniadio","7":"Sébikotane","8":"Sendou","9":"Yenne","10":"Sangalkam","99999":"Other"}],
+"TH":[2,"Thiès",{"11":"Thiès","12":"Mbour","13":"Tivaouane","14":"Khombole","15":"Mékhé","16":"Pout","17":"Sindia","18":"Nguekhokh","19":"Joal-Fadiouth","20":"Somone","99999":"Other"}],
+"SL":[3,"Saint-Louis",{"21":"Saint-Louis","22":"Dagana","23":"Podor","24":"Richard Toll","25":"Rosso","26":"Ourossogui","27":"Matam","28":"Bakel","29":"Kidira","30":"Goudiry","99999":"Other"}],
+"DI":[4,"Diourbel",{"31":"Diourbel","32":"Bambey","33":"Mbacké","34":"Touba","35":"Ndame","36":"Ngoye","37":"Lambaye","38":"Ndangalma","39":"Kaffrine","40":"Malem-Hodar","99999":"Other"}],
+"LO":[5,"Louga",{"41":"Louga","42":"Kébémer","43":"Linguère","44":"Dahra","45":"Sakal","46":"Coki","47":"Darou Mousty","48":"Keur Momar Sarr","49":"Yang Yang","50":"Lompoul","99999":"Other"}],
+"MT":[6,"Matam",{"51":"Matam","52":"Kanel","53":"Ranérou","54":"Ourossogui","55":"Thilogne","56":"Ogo","57":"Bokidiawé","58":"Nabadji Civol","59":"Agnam Civol","60":"Wouro Sidy","99999":"Other"}],
+"FK":[7,"Fatick",{"61":"Fatick","62":"Foundiougne","63":"Gossas","64":"Sokone","65":"Niakhar","66":"Diakhao","67":"Fimela","68":"Djilasse","69":"Passy","70":"Toubacouta","99999":"Other"}],
+"KF":[8,"Kaffrine",{"71":"Kaffrine","72":"Birkelane","73":"Koungheul","74":"Malem-Hodar","75":"Kahi","76":"Ndioum","77":"Gniby","78":"Kathiotte","79":"Boulel","80":"Ida Mouride","99999":"Other"}],
+"KL":[9,"Kaolack",{"81":"Kaolack","82":"Nioro du Rip","83":"Guinguinéo","84":"Kahone","85":"Ndoffane","86":"Gandiaye","87":"Lyndiane","88":"Paoskoto","89":"Sibassor","90":"Wack Ngouna","99999":"Other"}],
+"TM":[10,"Tambacounda",{"91":"Tambacounda","92":"Bakel","93":"Goudiry","94":"Koumpentoum","95":"Missirah","96":"Kidira","97":"Dialakoto","98":"Maka Coulibantang","99":"Sinthiou Maleme","100":"Netteboulou","99999":"Other"}],
+"KD":[11,"Kolda",{"101":"Kolda","102":"Vélingara","103":"Médina Yoro Foulah","104":"Bagadadji","105":"Salikégné","106":"Dabo","107":"Bignarabé","108":"Tankanto Escale","109":"Bourouco","110":"Pata","99999":"Other"}],
+"ZG":[12,"Ziguinchor",{"111":"Ziguinchor","112":"Oussouye","113":"Bignona","114":"Diouloulou","115":"Tendouck","116":"Sindian","117":"Kaour","118":"Djibonker","119":"Kafountine","120":"Diembéring","99999":"Other"}],
+"SE":[13,"Sédhiou",{"121":"Sédhiou","122":"Bounkiling","123":"Goudomp","124":"Diannah Malary","125":"Bambadinca","126":"Marsassoum","127":"Tanaff","128":"Carrefour","129":"Djibanar","130":"Diaobé","99999":"Other"}],
+"KE":[14,"Kédougou",{"131":"Kédougou","132":"Salemata","133":"Saraya","134":"Bandafassi","135":"Fongolimbi","136":"Dindefelo","137":"Ibel","138":"Tenkoto","139":"Khossanto","140":"Tomboronkoto","99999":"Other"}]
+}}

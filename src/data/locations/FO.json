@@ -1,0 +1,9 @@
+{"country":{"id":74,"code":"FO","name":"Faroe Islands","phone_code":"+298"},"states":{
+"ST":[1,"Streymoy",{"1":"Tórshavn","2":"Argir","3":"Hoyvík","4":"Vestmanna","5":"Kollafjørður","6":"Sund","7":"Kaldbak","8":"Norðradalur","99999":"Other"}],
+"ES":[2,"Eysturoy",{"9":"Fuglafjørður","10":"Runavík","11":"Nesur","12":"Toftir","13":"Saltangará","14":"Glyvrar","15":"Leirvík","16":"Gøta","17":"Norðragøta","18":"Syðrugøta","19":"Strendur","20":"Eiði","21":"Gjógv","99999":"Other"}],
+"VA":[3,"Vágar",{"22":"Sørvágur","23":"Miðvágur","24":"Sandavágur","25":"Vágar Airport","26":"Bøur","27":"Gásadalur","99999":"Other"}],
+"SA":[4,"Sandoy",{"28":"Sandur","29":"Skopun","30":"Skálavík","31":"Húsavík","32":"Dalur","99999":"Other"}],
+"BO":[5,"Borðoy",{"33":"Klaksvík","34":"Norðoyri","35":"Ánir","36":"Árnafjørður","37":"Strond","38":"Norðtoftir","39":"Depil","40":"Norðdepil","99999":"Other"}],
+"NO":[6,"Norðoyar",{"41":"Viðareiði","42":"Hvannasund","43":"Mikladalur","44":"Trøllanes","45":"Muli","46":"Hattarvík","47":"Kirkja","48":"Hvalba","99999":"Other"}],
+"SU":[7,"Suðuroy",{"49":"Tvøroyri","50":"Vágur","51":"Porkeri","52":"Hov","53":"Fámjin","54":"Øravík","55":"Trongisvágur","56":"Froðba","57":"Hvalba","58":"Sandvík","59":"Sumba","60":"Lopra","61":"Akrar","62":"Víkarbyrgi","99999":"Other"}]
+}}

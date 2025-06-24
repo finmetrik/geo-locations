@@ -1,0 +1,5 @@
+{"country":{"id":95,"code":"HK","name":"Hong Kong","phone_code":"+852"},"states":{
+"HK":[1,"Hong Kong Island",{"1":"Central","2":"Wan Chai","3":"Eastern","4":"Southern","5":"Aberdeen","6":"Stanley","7":"Causeway Bay","8":"Happy Valley","9":"Admiralty","10":"Sai Wan","99999":"Other"}],
+"KL":[2,"Kowloon",{"11":"Tsim Sha Tsui","12":"Yau Ma Tei","13":"Mong Kok","14":"Sham Shui Po","15":"Kowloon City","16":"Wong Tai Sin","17":"Kwun Tong","18":"Yau Tong","19":"Lam Tin","20":"To Kwa Wan","99999":"Other"}],
+"NT":[3,"New Territories",{"21":"Sha Tin","22":"Tai Po","23":"Yuen Long","24":"Tuen Mun","25":"Tsuen Wan","26":"Kwai Tsing","27":"North District","28":"Sai Kung","29":"Tai Wai","30":"Ma On Shan","31":"Tin Shui Wai","32":"Fanling","33":"Sheung Shui","34":"Tseung Kwan O","99999":"Other"}]
+}}

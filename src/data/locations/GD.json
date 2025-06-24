@@ -1,0 +1,10 @@
+{"country":{"id":78,"code":"GD","name":"Grenada","phone_code":"+1"},"states":{
+"SA":[1,"Saint Andrew",{"1":"Grenville","2":"Marquis","3":"Crochu","4":"Birch Grove","5":"Chambord","99999":"Other"}],
+"SD":[2,"Saint David",{"6":"St. David's","7":"Westerhall","8":"Calliste","9":"Corinth","10":"Vincennes","99999":"Other"}],
+"SG":[3,"Saint George",{"11":"St. George's","12":"Grand Anse","13":"Gouyave","14":"Victoria","15":"Belmont","99999":"Other"}],
+"SJ":[4,"Saint John",{"16":"Gouyave","17":"Concord","18":"Grand Roy","19":"Marigot","99999":"Other"}],
+"SM":[5,"Saint Mark",{"20":"Victoria","21":"Duquesne","22":"Nonpareil","23":"Union","99999":"Other"}],
+"SP":[6,"Saint Patrick",{"24":"Sauteurs","25":"Hermitage","26":"Levera","27":"River Sallee","99999":"Other"}],
+"CR":[7,"Carriacou",{"28":"Hillsborough","29":"L'Esterre","30":"Harvey Vale","31":"Windward","99999":"Other"}],
+"PM":[8,"Petite Martinique",{"32":"Petite Martinique","99999":"Other"}]
+}}

@@ -1,0 +1,12 @@
+{"country":{"id":47,"code":"CM","name":"Cameroon","phone_code":"+237"},"states":{
+"AD":[1,"Adamawa",{"1":"Ngaoundéré","2":"Meiganga","3":"Tibati","4":"Banyo","5":"Tignère","99999":"Other"}],
+"CE":[2,"Centre",{"6":"Yaoundé","7":"Mbalmayo","8":"Obala","9":"Nanga-Eboko","10":"Akonolinga","11":"Bafia","12":"Monatélé","99999":"Other"}],
+"ES":[3,"East",{"13":"Bertoua","14":"Batouri","15":"Yokadouma","16":"Abong-Mbang","17":"Doumé","99999":"Other"}],
+"EN":[4,"Extreme North",{"18":"Maroua","19":"Garoua","20":"Kousséri","21":"Mokolo","22":"Mora","23":"Yagoua","24":"Kaélé","99999":"Other"}],
+"LT":[5,"Littoral",{"25":"Douala","26":"Nkongsamba","27":"Edéa","28":"Dibombari","29":"Loum","30":"Manjo","31":"Mbanga","99999":"Other"}],
+"NO":[6,"North",{"32":"Garoua","33":"Guider","34":"Pitoa","35":"Figuil","36":"Mayo-Oulo","99999":"Other"}],
+"NW":[7,"Northwest",{"37":"Bamenda","38":"Kumbo","39":"Nkambé","40":"Wum","41":"Fundong","42":"Mbengwi","43":"Batibo","99999":"Other"}],
+"OU":[8,"West",{"44":"Bafoussam","45":"Mbouda","46":"Dschang","47":"Foumban","48":"Bangangté","49":"Bafang","50":"Bandjoun","99999":"Other"}],
+"SU":[9,"South",{"51":"Ebolowa","52":"Sangmélima","53":"Kribi","54":"Ambam","55":"Djoum","56":"Akom II","99999":"Other"}],
+"SW":[10,"Southwest",{"57":"Buea","58":"Limbe","59":"Tiko","60":"Kumba","61":"Mutengene","62":"Muyuka","63":"Mamfe","64":"Mundemba","99999":"Other"}]
+}}

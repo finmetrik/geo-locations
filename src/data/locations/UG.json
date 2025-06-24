@@ -1,0 +1,6 @@
+{"country":{"id":231,"code":"UG","name":"Uganda","phone_code":"+256"},"states":{
+"UG-C":[1,"Central Region",{"1":"Kampala","2":"Wakiso","3":"Mpigi","4":"Mukono","5":"Luwero","6":"Masaka","7":"Rakai","8":"Kalangala","9":"Sembabule","10":"Lyantonde","11":"Butambala","12":"Gomba","13":"Mityana","14":"Mubende","15":"Kyankwanzi","99999":"Other"}],
+"UG-E":[2,"Eastern Region",{"16":"Jinja","17":"Iganga","18":"Kamuli","19":"Soroti","20":"Kumi","21":"Kapchorwa","22":"Katakwi","23":"Moroto","24":"Nakapiripirit","25":"Kotido","26":"Abim","27":"Kaabong","28":"Amudat","29":"Napak","30":"Nabilatuk","99999":"Other"}],
+"UG-N":[3,"Northern Region",{"31":"Gulu","32":"Kitgum","33":"Pader","34":"Arua","35":"Nebbi","36":"Yumbe","37":"Adjumani","38":"Moyo","39":"Koboko","40":"Maracha","41":"Zombo","42":"Pakwach","43":"Nwoya","44":"Amuru","45":"Lamwo","99999":"Other"}],
+"UG-W":[4,"Western Region",{"46":"Mbarara","47":"Bushenyi","48":"Ntungamo","49":"Kabale","50":"Rukungiri","51":"Kanungu","52":"Kisoro","53":"Hoima","54":"Masindi","55":"Kibaale","56":"Kabarole","57":"Kamwenge","58":"Kyenjojo","59":"Bundibugyo","60":"Kasese","99999":"Other"}]
+}}

@@ -1,0 +1,19 @@
+{"country":{"id":165,"code":"NI","name":"Nicaragua","phone_code":"+505"},"states":{
+"BO":[1,"Boaco",{"1":"Boaco","2":"Camoapa","3":"Santa Lucía","4":"San José de los Remates","5":"San Lorenzo","6":"Teustepe","99999":"Other"}],
+"CA":[2,"Carazo",{"7":"Jinotepe","8":"Diriamba","9":"San Marcos","10":"Santa Teresa","11":"Dolores","12":"La Paz de Oriente","13":"El Rosario","14":"La Conquista","99999":"Other"}],
+"CI":[3,"Chinandega",{"15":"Chinandega","16":"El Viejo","17":"Corinto","18":"Chichigalpa","19":"Posoltega","20":"El Realejo","21":"Puerto Morazán","22":"Somotillo","23":"Villa Nueva","24":"Santo Tomás del Norte","25":"San Francisco del Norte","26":"Cinco Pinos","27":"San Pedro del Norte","99999":"Other"}],
+"CO":[4,"Chontales",{"28":"Juigalpa","29":"Santo Tomás","30":"Acoyapa","31":"Santo Domingo","32":"San Pedro de Lóvago","33":"La Libertad","34":"Villa Sandino","35":"El Coral","36":"Comalapa","37":"Cuapa","99999":"Other"}],
+"ES":[5,"Estelí",{"38":"Estelí","39":"Condega","40":"Pueblo Nuevo","41":"San Juan de Limay","42":"La Trinidad","43":"San Nicolás","99999":"Other"}],
+"GR":[6,"Granada",{"44":"Granada","45":"Nandaime","46":"Diriomo","47":"Diriá","99999":"Other"}],
+"JI":[7,"Jinotega",{"48":"Jinotega","49":"San Rafael del Norte","50":"San Sebastián de Yalí","51":"La Concordia","52":"Santa María de Pantasma","53":"Wiwilí de Jinotega","54":"El Cuá","55":"San José de Bocay","99999":"Other"}],
+"LE":[8,"León",{"56":"León","57":"El Sauce","58":"Achuapa","59":"Santa Rosa del Peñón","60":"El Jicaral","61":"Larreynaga","62":"Telica","63":"Quezalguaque","64":"Nagarote","65":"La Paz Centro","99999":"Other"}],
+"MD":[9,"Madriz",{"66":"Somoto","67":"Totogalpa","68":"Telpaneca","69":"San Juan de Río Coco","70":"Palacagüina","71":"Yalagüina","72":"San Lucas","73":"Las Sabanas","74":"San José de Cusmapa","99999":"Other"}],
+"MN":[10,"Managua",{"75":"Managua","76":"Ciudad Sandino","77":"Tipitapa","78":"Masaya","79":"Villa El Carmen","80":"San Rafael del Sur","81":"Ticuantepe","82":"El Crucero","83":"San Francisco Libre","99999":"Other"}],
+"MS":[11,"Masaya",{"84":"Masaya","85":"Nindirí","86":"Tisma","87":"Catarina","88":"San Juan de Oriente","89":"Niquinohomo","90":"Nandasmo","91":"Masatepe","92":"La Concepción","99999":"Other"}],
+"MT":[12,"Matagalpa",{"93":"Matagalpa","94":"San Ramón","95":"Matiguás","96":"Muy Muy","97":"Esquipulas","98":"San Dionisio","99":"San Isidro","100":"Sébaco","101":"Ciudad Darío","102":"Terrabona","103":"Río Blanco","104":"Tuma-La Dalia","105":"Rancho Grande","99999":"Other"}],
+"NS":[13,"Nueva Segovia",{"106":"Ocotal","107":"Jalapa","108":"El Jícaro","109":"Ciudad Antigua","110":"San Fernando","111":"Mozonte","112":"Dipilto","113":"Macuelizo","114":"Santa María","115":"Murra","116":"Wiwilí de Nueva Segovia","117":"Quilalí","99999":"Other"}],
+"SJ":[14,"Río San Juan",{"118":"San Carlos","119":"San Miguelito","120":"Morrito","121":"San Juan del Norte","122":"El Castillo","123":"El Almendro","99999":"Other"}],
+"RI":[15,"Rivas",{"124":"Rivas","125":"Tola","126":"Belén","127":"Potosí","128":"Buenos Aires","129":"San Jorge","130":"San Juan del Sur","131":"Cárdenas","132":"Moyogalpa","133":"Altagracia","99999":"Other"}],
+"AN":[16,"Atlántico Norte",{"134":"Puerto Cabezas","135":"Waspán","136":"Siuna","137":"Bonanza","138":"Rosita","139":"Waslala","140":"Mulukukú","141":"Prinzapolka","99999":"Other"}],
+"AS":[17,"Atlántico Sur",{"142":"Bluefields","143":"Corn Island","144":"Desembocadura de Río Grande","145":"El Tortuguero","146":"Kukra Hill","147":"La Cruz de Río Grande","148":"Laguna de Perlas","149":"Muelle de los Bueyes","150":"Nueva Guinea","151":"Paiwas","152":"El Rama","153":"El Ayote","99999":"Other"}]
+}}

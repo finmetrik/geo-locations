@@ -1,0 +1,6 @@
+{"country":{"id":213,"code":"SZ","name":"Eswatini","phone_code":"+268"},"states":{
+"HH":[1,"Hhohho",{"1":"Mbabane","2":"Ezulwini","3":"Lobamba","4":"Malkerns","5":"Matsapha","6":"Motshane","7":"Ngwenya","8":"Oshoek","9":"Piggs Peak","10":"Maguga","11":"Bulembu","12":"Havelock","13":"Mbabane West","14":"Mbabane East","15":"Ludzeludze","99999":"Other"}],
+"MZ":[2,"Manzini",{"16":"Manzini","17":"Matsapha","18":"Sidvokodvo","19":"Malkerns","20":"Bhunya","21":"Lobamba","22":"Ezulwini","23":"Mahlanya","24":"Mahlangatsha","25":"Big Bend","26":"Tambankulu","27":"Ngculwini","28":"Luyengo","29":"Fairfield","30":"Maloma","99999":"Other"}],
+"LU":[3,"Lubombo",{"31":"Siteki","32":"Big Bend","33":"Simunye","34":"Tambankulu","35":"Lomahasha","36":"Nsoko","37":"Hlane","38":"Mhlume","39":"Tshaneni","40":"Mlawula","41":"Siphofaneni","42":"Mahamba","43":"Mpolonjeni","44":"Hluti","45":"Gege","99999":"Other"}],
+"SH":[4,"Shiselweni",{"46":"Nhlangano","47":"Hlatikulu","48":"Hlathikhulu","49":"Lavumisa","50":"Maloma","51":"Mahamba","52":"Ngwempisi","53":"Sandlane","54":"Shiselweni","55":"Kaphunga","56":"Mahlangatsha","57":"Malindza","58":"Mankayane","59":"Maphalaleni","60":"Mayiwane","99999":"Other"}]
+}}

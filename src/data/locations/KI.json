@@ -1,0 +1,5 @@
+{"country":{"id":118,"code":"KI","name":"Kiribati","phone_code":"+686"},"states":{
+"G":[1,"Gilbert Islands",{"1":"Tarawa","2":"Abaiang","3":"Abemama","4":"Aranuka","5":"Arorae","6":"Banaba","7":"Beru","8":"Butaritari","9":"Kuria","10":"Maiana","11":"Makin","12":"Marakei","13":"Nikunau","14":"Nonouti","15":"Onotoa","16":"Tabiteuea","17":"Tamana","99999":"Other"}],
+"L":[2,"Line Islands",{"18":"Kiritimati","19":"Tabuaeran","20":"Teraina","99999":"Other"}],
+"P":[3,"Phoenix Islands",{"21":"Kanton","22":"Enderbury","23":"Birnie","24":"Rawaki","25":"Manra","26":"Orona","27":"McKean","28":"Nikumaroro","99999":"Other"}]
+}}

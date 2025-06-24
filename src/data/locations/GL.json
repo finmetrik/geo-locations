@@ -1,0 +1,7 @@
+{"country":{"id":84,"code":"GL","name":"Greenland","phone_code":"+299"},"states":{
+"SM":[1,"Sermersooq",{"1":"Nuuk","2":"Tasiilaq","3":"Paamiut","4":"Ittoqqortoormiit","5":"Kulusuk","6":"Kuummiut","7":"Sermiligaaq","8":"Arsuk","99999":"Other"}],
+"KU":[2,"Kujalleq",{"9":"Qaqortoq","10":"Narsaq","11":"Nanortalik","12":"Narsarsuaq","13":"Igaliku","14":"Qassiarsuk","99999":"Other"}],
+"QA":[3,"Qaasuitsup",{"15":"Ilulissat","16":"Aasiaat","17":"Qasigiannguit","18":"Qaanaaq","19":"Upernavik","20":"Uummannaq","21":"Qeqertarsuaq","22":"Savissivik","99999":"Other"}],
+"QE":[4,"Qeqqata",{"23":"Sisimiut","24":"Maniitsoq","25":"Kangerlussuaq","26":"Atammik","27":"Napasoq","99999":"Other"}],
+"PI":[5,"Pituffik",{"28":"Pituffik","29":"Thule Air Base","99999":"Other"}]
+}}

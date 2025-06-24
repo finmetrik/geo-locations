@@ -1,0 +1,14 @@
+{"country":{"id":6,"code":"AL","name":"Albania","phone_code":"+355"},"states":{
+"BR":[1,"Berat",{"1":"Berat","2":"Kuçovë","3":"Skrapar","4":"Poliçan","5":"Çorovodë","99999":"Other"}],
+"DI":[2,"Dibër",{"6":"Peshkopi","7":"Burrel","8":"Bulqizë","9":"Klos","99999":"Other"}],
+"DU":[3,"Durrës",{"10":"Durrës","11":"Shijak","12":"Krujë","13":"Fushë-Krujë","14":"Sukth","99999":"Other"}],
+"EL":[4,"Elbasan",{"15":"Elbasan","16":"Cërrik","17":"Belsh","18":"Peqin","19":"Gramsh","20":"Librazhd","99999":"Other"}],
+"FI":[5,"Fier",{"21":"Fier","22":"Lushnjë","23":"Ballsh","24":"Roskovec","25":"Patos","26":"Divjakë","99999":"Other"}],
+"GJ":[6,"Gjirokastër",{"27":"Gjirokastër","28":"Tepelenë","29":"Përmet","30":"Këlcyrë","31":"Memaliaj","99999":"Other"}],
+"KO":[7,"Korçë",{"32":"Korçë","33":"Pogradec","34":"Maliq","35":"Ersekë","36":"Bilisht","99999":"Other"}],
+"KU":[8,"Kukës",{"37":"Kukës","38":"Has","39":"Tropojë","99999":"Other"}],
+"LE":[9,"Lezhë",{"40":"Lezhë","41":"Laç","42":"Mamurras","43":"Rrëshen","44":"Rubik","99999":"Other"}],
+"SH":[10,"Shkodër",{"45":"Shkodër","46":"Vau i Dejës","47":"Pukë","48":"Fushë-Arrëz","49":"Koplik","99999":"Other"}],
+"TI":[11,"Tiranë",{"50":"Tirana","51":"Kamëz","52":"Vorë","53":"Kavajë","54":"Rrogozhinë","99999":"Other"}],
+"VL":[12,"Vlorë",{"55":"Vlorë","56":"Sarandë","57":"Himarë","58":"Selenicë","59":"Orikum","60":"Delvinë","99999":"Other"}]
+}}

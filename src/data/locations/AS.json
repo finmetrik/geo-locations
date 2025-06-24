@@ -1,0 +1,7 @@
+{"country":{"id":11,"code":"AS","name":"American Samoa","phone_code":"+1"},"states":{
+"EA":[1,"Eastern",{"1":"Ituau","2":"Aua","3":"Lauli'i","4":"Aoa","5":"Alao","99999":"Other"}],
+"MA":[2,"Manu'a",{"6":"Ta'u","7":"Ofu","8":"Olosega","9":"Fitiuta","10":"Faleasao","99999":"Other"}],
+"RO":[3,"Rose Island",{"11":"Rose Island","99999":"Other"}],
+"SW":[4,"Swains Island",{"12":"Swains Island","99999":"Other"}],
+"WE":[5,"Western",{"13":"Pago Pago","14":"Fagatogo","15":"Leone","16":"Vaitogi","17":"Tafuna","18":"Nu'uuli","19":"Pavaiai","20":"Ili'ili","21":"Futiga","22":"Amanave","99999":"Other"}]
+}}

@@ -1,0 +1,13 @@
+{"country":{"id":7,"code":"AM","name":"Armenia","phone_code":"+374"},"states":{
+"ER":[1,"Yerevan",{"1":"Yerevan","2":"Abovyan","3":"Ararat","4":"Artashat","5":"Ashtarak","6":"Charentsavan","7":"Goris","8":"Hrazdan","9":"Kapan","10":"Gyumri","99999":"Other"}],
+"AG":[2,"Aragatsotn",{"11":"Ashtarak","12":"Aparan","13":"Talin","14":"Oshakan","99999":"Other"}],
+"AR":[3,"Ararat",{"15":"Artashat","16":"Ararat","17":"Masis","18":"Vedi","99999":"Other"}],
+"AV":[4,"Armavir",{"19":"Armavir","20":"Vagharshapat","21":"Metsamor","22":"Baghramyan","99999":"Other"}],
+"GR":[5,"Gegharkunik",{"23":"Gavar","24":"Sevan","25":"Martuni","26":"Vardenis","27":"Chambarak","99999":"Other"}],
+"KT":[6,"Kotayk",{"28":"Hrazdan","29":"Abovyan","30":"Charentsavan","31":"Byureghavan","32":"Yeghvard","33":"Nor Hachn","99999":"Other"}],
+"LO":[7,"Lori",{"34":"Vanadzor","35":"Kapan","36":"Alaverdi","37":"Stepanavan","38":"Spitak","39":"Tashir","99999":"Other"}],
+"SH":[8,"Shirak",{"40":"Gyumri","41":"Artik","42":"Maralik","99999":"Other"}],
+"SU":[9,"Syunik",{"43":"Kapan","44":"Goris","45":"Sisian","46":"Meghri","47":"Kajaran","99999":"Other"}],
+"TV":[10,"Tavush",{"48":"Ijevan","49":"Dilijan","50":"Berd","51":"Noyemberyan","99999":"Other"}],
+"VD":[11,"Vayots Dzor",{"52":"Yeghegnadzor","53":"Vayk","54":"Jermuk","99999":"Other"}]
+}}

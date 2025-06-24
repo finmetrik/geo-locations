@@ -1,0 +1,10 @@
+{"country":{"id":202,"code":"SK","name":"Slovakia","phone_code":"+421"},"states":{
+"BA":[1,"Bratislava",{"1":"Bratislava","2":"Devín","3":"Dúbravka","4":"Karlova Ves","5":"Lamač","6":"Nové Mesto","7":"Petržalka","8":"Podunajské Biskupice","9":"Rača","10":"Ružinov","11":"Staré Mesto","12":"Vajnory","13":"Vrakuňa","14":"Záhorská Bystrica","99999":"Other"}],
+"TT":[2,"Trnava",{"15":"Trnava","16":"Dunajská Streda","17":"Galanta","18":"Hlohovec","19":"Piešťany","20":"Senica","21":"Skalica","22":"Šaľa","23":"Gbely","24":"Leopoldov","25":"Sereď","26":"Sobrance","27":"Veľký Meder","99999":"Other"}],
+"TN":[3,"Trenčín",{"28":"Trenčín","29":"Bánovce nad Bebravou","30":"Ilava","31":"Myjava","32":"Nové Mesto nad Váhom","33":"Partizánske","34":"Považská Bystrica","35":"Prievidza","36":"Púchov","37":"Dubnica nad Váhom","38":"Nemšová","99999":"Other"}],
+"NR":[4,"Nitra",{"39":"Nitra","40":"Komárno","41":"Levice","42":"Nové Zámky","43":"Šaľa","44":"Topoľčany","45":"Zlaté Moravce","46":"Hurbanovo","47":"Kolárovo","48":"Štúrovo","49":"Šurany","50":"Želiezovce","99999":"Other"}],
+"ZI":[5,"Žilina",{"51":"Žilina","52":"Bytča","53":"Čadca","54":"Dolný Kubín","55":"Kysucké Nové Mesto","56":"Liptovský Mikuláš","57":"Martin","58":"Námestovo","59":"Ružomberok","60":"Turčianske Teplice","61":"Tvrdošín","62":"Vrútky","99999":"Other"}],
+"BB":[6,"Banská Bystrica",{"63":"Banská Bystrica","64":"Banská Štiavnica","65":"Brezno","66":"Detva","67":"Krupina","68":"Lučenec","69":"Poltár","70":"Revúca","71":"Rimavská Sobota","72":"Veľký Krtíš","73":"Zvolen","74":"Žarnovica","75":"Žiar nad Hronom","99999":"Other"}],
+"PO":[7,"Prešov",{"76":"Prešov","77":"Bardejov","78":"Humenné","79":"Kežmarok","80":"Levoča","81":"Medzilaborce","82":"Poprad","83":"Sabinov","84":"Snina","85":"Stará Ľubovňa","86":"Stropkov","87":"Svidník","88":"Vranov nad Topľou","99999":"Other"}],
+"KE":[8,"Košice",{"89":"Košice","90":"Gelnica","91":"Michalovce","92":"Rožňava","93":"Sobrance","94":"Spišská Nová Ves","95":"Trebišov","96":"Moldava nad Bodvou","97":"Veľké Kapušany","98":"Sečovce","99":"Strážske","100":"Kunešov","99999":"Other"}]
+}}

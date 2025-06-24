@@ -1,0 +1,6 @@
+{"country":{"id":28,"code":"BN","name":"Brunei","phone_code":"+673"},"states":{
+"BE":[1,"Belait",{"1":"Kuala Belait","2":"Seria","3":"Labi","4":"Liang","5":"Sungai Liang","6":"Mumong","99999":"Other"}],
+"BM":[2,"Brunei-Muara",{"7":"Bandar Seri Begawan","8":"Gadong","9":"Berakas","10":"Muara","11":"Mentiri","12":"Kota Batu","13":"Jerudong","14":"Bangar","15":"Kilanas","16":"Sengkurong","99999":"Other"}],
+"TE":[3,"Temburong",{"17":"Bangar","18":"Puni","19":"Labu","20":"Batu Apoi","21":"Amo","99999":"Other"}],
+"TU":[4,"Tutong",{"22":"Tutong","23":"Telisai","24":"Lamunin","25":"Ukong","26":"Tanjong Maya","27":"Kiudang","99999":"Other"}]
+}}

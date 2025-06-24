@@ -1,0 +1,14 @@
+{"country":{"id":134,"code":"LU","name":"Luxembourg","phone_code":"+352"},"states":{
+"DI":[1,"Diekirch",{"1":"Diekirch","2":"Ettelbruck","3":"Erpeldange","4":"Schieren","5":"Bettendorf","6":"Bourscheid","7":"Feulen","8":"Mertzig","9":"Reisdorf","99999":"Other"}],
+"GR":[2,"Grevenmacher",{"10":"Grevenmacher","11":"Remich","12":"Mondorf-les-Bains","13":"Wasserbillig","14":"Betzdorf","15":"Biwer","16":"Flaxweiler","17":"Manternach","18":"Mertert","19":"Wormeldange","99999":"Other"}],
+"LU":[3,"Luxembourg",{"20":"Luxembourg City","21":"Hollerich","22":"Bonnevoie","23":"Gasperich","24":"Hamm","25":"Cents","26":"Kirchberg","27":"Neudorf","28":"Weimerskirch","29":"Beggen","30":"Eich","31":"Dommeldange","32":"Cessange","33":"Merl","34":"Belair","35":"Limpertsberg","36":"Rollingergrund","37":"Muhlenbach","99999":"Other"}],
+"EC":[4,"Echternach",{"38":"Echternach","39":"Rosport","40":"Beaufort","41":"Berdorf","42":"Consdorf","43":"Mompach","44":"Waldbillig","99999":"Other"}],
+"ES":[5,"Esch-sur-Alzette",{"45":"Esch-sur-Alzette","46":"Dudelange","47":"Differdange","48":"Bettembourg","49":"Schifflange","50":"Rumelange","51":"Kayl","52":"Pétange","53":"Bascharage","54":"Sanem","55":"Mondercange","56":"Reckange-sur-Mess","57":"Roeser","99999":"Other"}],
+"CL":[6,"Clervaux",{"58":"Clervaux","59":"Weiswampach","60":"Troisvierges","61":"Wincrange","62":"Hosingen","63":"Consthum","64":"Munshausen","99999":"Other"}],
+"CA":[7,"Capellen",{"65":"Capellen","66":"Mamer","67":"Kehlen","68":"Koerich","69":"Kopstal","70":"Garnich","71":"Hobscheid","72":"Septfontaines","73":"Steinfort","99999":"Other"}],
+"ME":[8,"Mersch",{"74":"Mersch","75":"Bissen","76":"Boevange-sur-Attert","77":"Colmar-Berg","78":"Fischbach","79":"Heffingen","80":"Larochette","81":"Lintgen","82":"Lorentzweiler","83":"Nommern","99999":"Other"}],
+"RE":[9,"Redange",{"84":"Redange","85":"Rambrouch","86":"Beckerich","87":"Ell","88":"Grosbous","89":"Preizerdaul","90":"Saeul","91":"Useldange","92":"Vichten","93":"Wahl","99999":"Other"}],
+"VI":[10,"Vianden",{"94":"Vianden","95":"Putscheid","96":"Tandel","99999":"Other"}],
+"WI":[11,"Wiltz",{"97":"Wiltz","98":"Boulaide","99":"Esch-sur-Sûre","100":"Goesdorf","101":"Kiischpelt","102":"Lac de la Haute-Sûre","103":"Neunhausen","104":"Winseler","99999":"Other"}],
+"RM":[12,"Remich",{"105":"Remich","106":"Bous","107":"Burmerange","108":"Dalheim","109":"Lenningen","110":"Mondorf-les-Bains","111":"Schengen","112":"Stadtbredimus","113":"Waldbredimus","114":"Wellenstein","99999":"Other"}]
+}}

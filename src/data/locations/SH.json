@@ -1,0 +1,5 @@
+{"country":{"id":199,"code":"SH","name":"Saint Helena","phone_code":"+290"},"states":{
+"SH":[1,"Saint Helena",{"1":"Jamestown","2":"Half Tree Hollow","3":"Longwood","4":"Sandy Bay","5":"Blue Hill","6":"Levelwood","7":"Alarm Forest","8":"Bamboo Hedge","9":"Diana's Peak","99999":"Other"}],
+"AC":[2,"Ascension",{"10":"Georgetown","11":"Two Boats","12":"Cat Hill","13":"English Bay","14":"Green Mountain","99999":"Other"}],
+"TA":[3,"Tristan da Cunha",{"15":"Edinburgh of the Seven Seas","16":"Potato Patches","17":"Settlement","99999":"Other"}]
+}}

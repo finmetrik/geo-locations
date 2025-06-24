@@ -1,0 +1,4 @@
+{"country":{"id":183,"code":"PS","name":"Palestinian Territory","phone_code":"+970"},"states":{
+"WB":[1,"West Bank",{"1":"Ramallah","2":"Hebron","3":"Nablus","4":"Bethlehem","5":"Jenin","6":"Tulkarm","7":"Qalqilya","8":"Salfit","9":"Tubas","10":"Jericho","11":"Jerusalem","12":"Ariel","13":"Beitar Illit","14":"Modi'in Illit","15":"Ma'ale Adumim","99999":"Other"}],
+"GZ":[2,"Gaza Strip",{"16":"Gaza City","17":"Khan Yunis","18":"Rafah","19":"Deir al-Balah","20":"Jabalya","21":"Beit Lahia","22":"Beit Hanoun","23":"Abasan al-Kabira","24":"Al-Maghazi","25":"Al-Bureij","26":"An-Nuseirat","27":"Az-Zawayda","99999":"Other"}]
+}}

@@ -1,0 +1,10 @@
+{"country":{"id":85,"code":"GM","name":"Gambia","phone_code":"+220"},"states":{
+"BA":[1,"Banjul",{"1":"Banjul","2":"Bakau","3":"Fajara","4":"Kololi","99999":"Other"}],
+"KM":[2,"Kanifing",{"5":"Serrekunda","6":"Bakoteh","7":"Abuko","8":"Bundung","9":"Tallinding","10":"Brikama Ba","11":"Kololi","12":"Latrikunda","99999":"Other"}],
+"BR":[3,"Brikama",{"13":"Brikama","14":"Gunjur","15":"Tanji","16":"Brufut","17":"Sukuta","18":"Yundum","19":"Sanyang","99999":"Other"}],
+"MA":[4,"Mansakonko",{"20":"Soma","21":"Bureng","22":"Karantaba","23":"Kaiaf","99999":"Other"}],
+"JA":[5,"Janjanbureh",{"24":"Janjanbureh","25":"Bansang","26":"Kudang","27":"Diabugu","99999":"Other"}],
+"BA2":[6,"Basse",{"28":"Basse Santa Su","29":"Fatoto","30":"Sabi","31":"Gambissara","99999":"Other"}],
+"KE":[7,"Kerewan",{"32":"Kerewan","33":"Farafenni","34":"Ngai","35":"No Kunda","99999":"Other"}],
+"KU":[8,"Kuntaur",{"36":"Kuntaur","37":"Wassu","38":"Kaur","99999":"Other"}]
+}}

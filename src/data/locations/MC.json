@@ -1,0 +1,17 @@
+{"country":{"id":138,"code":"MC","name":"Monaco","phone_code":"+377"},"states":{
+"CL":[1,"La Colle",{"1":"La Colle","99999":"Other"}],
+"CO":[2,"La Condamine",{"2":"La Condamine","3":"Port de Monaco","99999":"Other"}],
+"FO":[3,"Fontvieille",{"4":"Fontvieille","99999":"Other"}],
+"GA":[4,"La Gare",{"5":"La Gare","99999":"Other"}],
+"JE":[5,"Jardin Exotique",{"6":"Jardin Exotique","99999":"Other"}],
+"LA":[6,"Larvotto",{"7":"Larvotto","8":"Beach Plaza","99999":"Other"}],
+"MA":[7,"Malbousquet",{"9":"Malbousquet","99999":"Other"}],
+"MO":[8,"Monte-Carlo",{"10":"Monte-Carlo","11":"Casino","12":"Saint Michel","99999":"Other"}],
+"MG":[9,"Moneghetti",{"13":"Moneghetti","99999":"Other"}],
+"MC":[10,"Monaco-Ville",{"14":"Monaco-Ville","15":"Le Rocher","99999":"Other"}],
+"SR":[11,"Saint Roman",{"16":"Saint Roman","99999":"Other"}],
+"SP":[12,"Spélugues",{"17":"Spélugues","99999":"Other"}],
+"SD":[13,"La Source",{"18":"La Source","99999":"Other"}],
+"VR":[14,"Vallon de la Rousse",{"19":"Vallon de la Rousse","99999":"Other"}],
+"SL":[15,"Saint-Laurent",{"20":"Saint-Laurent","99999":"Other"}]
+}}

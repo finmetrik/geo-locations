@@ -1,0 +1,5 @@
+{"country":{"id":240,"code":"VI","name":"U.S. Virgin Islands","phone_code":"+1"},"states":{
+"STT":[1,"Saint Thomas",{"1":"Charlotte Amalie","2":"Red Hook","3":"Frenchtown","4":"Coki Beach","5":"Magens Bay","6":"Coral World","7":"Paradise Point","8":"Blackbeard's Castle","9":"Fort Christian","10":"Synagogue Hill","99999":"Other"}],
+"STJ":[2,"Saint John",{"11":"Cruz Bay","12":"Coral Bay","13":"Virgin Islands National Park","14":"Cinnamon Bay","15":"Caneel Bay","16":"Trunk Bay","17":"Maho Bay","18":"Annaberg Sugar Plantation","19":"Bordeaux","20":"Fish Bay","99999":"Other"}],
+"STX":[3,"Saint Croix",{"21":"Christiansted","22":"Frederiksted","23":"Kingshill","24":"Anna's Hope","25":"Barren Spot","26":"Bethlehem","27":"Boiler Bay","28":"Castle Burke","29":"Cotton Valley","30":"Diamond","31":"Judith's Fancy","32":"La Grande Princesse","33":"Mount Pleasant","34":"Northside","35":"Peter's Rest","36":"Princess","37":"Richmond","38":"River","39":"Sion Hill","40":"Southgate","41":"Two Williams","42":"Upper Love","43":"White Lady","44":"Williams Delight","99999":"Other"}]
+}}

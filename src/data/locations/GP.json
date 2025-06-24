@@ -1,0 +1,9 @@
+{"country":{"id":87,"code":"GP","name":"Guadeloupe","phone_code":"+590"},"states":{
+"BT":[1,"Basse-Terre",{"1":"Basse-Terre","2":"Saint-Claude","3":"Baillif","4":"Gourbeyre","5":"Trois-Rivières","6":"Vieux-Habitants","7":"Bouillante","8":"Capesterre-Belle-Eau","9":"Goyave","10":"Petit-Bourg","99999":"Other"}],
+"GT":[2,"Grande-Terre",{"11":"Les Abymes","12":"Pointe-à-Pitre","13":"Le Gosier","14":"Sainte-Anne","15":"Le Moule","16":"Saint-François","17":"Morne-à-l'Eau","18":"Capesterre-de-Marie-Galante","19":"Grand-Bourg","20":"Saint-Louis","99999":"Other"}],
+"MG":[3,"Marie-Galante",{"21":"Grand-Bourg","22":"Capesterre-de-Marie-Galante","23":"Saint-Louis","99999":"Other"}],
+"LS":[4,"Les Saintes",{"24":"Terre-de-Haut","25":"Terre-de-Bas","99999":"Other"}],
+"LD":[5,"La Désirade",{"26":"Beauséjour","27":"Baie-Mahault","99999":"Other"}],
+"SM":[6,"Saint-Martin",{"28":"Marigot","29":"Grand-Case","30":"Rambaud","31":"Quartier-d'Orléans","99999":"Other"}],
+"SB":[7,"Saint-Barthélemy",{"32":"Gustavia","33":"Saint-Jean","34":"Lorient","99999":"Other"}]
+}}

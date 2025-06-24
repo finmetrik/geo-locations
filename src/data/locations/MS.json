@@ -1,0 +1,5 @@
+{"country":{"id":152,"code":"MS","name":"Montserrat","phone_code":"+1"},"states":{
+"AN":[1,"Saint Anthony",{"1":"Plymouth","2":"Cork Hill","3":"Gerald's","99999":"Other"}],
+"GE":[2,"Saint Georges",{"4":"Plymouth","99999":"Other"}],
+"PE":[3,"Saint Peter",{"5":"Salem","6":"Cavalla Hill","7":"Woodlands","8":"Olveston","99999":"Other"}]
+}}

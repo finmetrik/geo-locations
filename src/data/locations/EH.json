@@ -1,0 +1,7 @@
+{"country":{"id":66,"code":"EH","name":"Western Sahara","phone_code":"+212"},"states":{
+"LA":[1,"Laâyoune",{"1":"Laâyoune","2":"El Marsa","3":"Foum El Oued","4":"Laâyoune Plage","5":"Boukraa","99999":"Other"}],
+"ES":[2,"Es-Semara",{"6":"Es-Semara","7":"Amgala","8":"Haouza","9":"Jdiriya","99999":"Other"}],
+"BJ":[3,"Boujdour",{"10":"Boujdour","11":"Lamhiriz","12":"Gueltat Zemmour","99999":"Other"}],
+"DK":[4,"Dakhla",{"13":"Dakhla","14":"Argoub","15":"Bir Gandouz","16":"El Argoub","99999":"Other"}],
+"AU":[5,"Aousserd",{"17":"Aousserd","18":"Bir Anzarane","19":"Zoug","20":"Lagouira","99999":"Other"}]
+}}

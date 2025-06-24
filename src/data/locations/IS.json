@@ -1,0 +1,10 @@
+{"country":{"id":109,"code":"IS","name":"Iceland","phone_code":"+354"},"states":{
+"1":[1,"Capital Region",{"1":"Reykjavík","2":"Kópavogur","3":"Hafnarfjörður","4":"Garðabær","5":"Mosfelssbær","6":"Seltjarnarnes","7":"Vogar","8":"Grindavík","9":"Reykjanesbær","10":"Sandgerði","99999":"Other"}],
+"2":[2,"Southern Peninsula",{"11":"Keflavik","12":"Njardvik","13":"Vogar","14":"Grindavik","15":"Sandgerdi","16":"Gardur","99999":"Other"}],
+"3":[3,"Western Region",{"17":"Akranes","18":"Borgarnes","19":"Stykkishólmur","20":"Grundarfjörður","21":"Ólafsvík","22":"Snæfellsbær","23":"Búðardalur","24":"Reykhólahreppur","99999":"Other"}],
+"4":[4,"Westfjords",{"25":"Ísafjörður","26":"Bolungarvík","27":"Patreksfjörður","28":"Flateyri","29":"Suðureyri","30":"Þingeyrarsandur","31":"Talknafjordur","32":"Bildudalur","99999":"Other"}],
+"5":[5,"Northwestern Region",{"33":"Sauðárkrókur","34":"Siglufjörður","35":"Akureyri","36":"Dalvík","37":"Ólafsfjörður","38":"Hríseyjarkaupstaður","39":"Húsavík","40":"Laugar","41":"Grenivík","99999":"Other"}],
+"6":[6,"Northeastern Region",{"42":"Akureyri","43":"Húsavík","44":"Laugar","45":"Greniík","46":"Kópasker","47":"Raufarhofn","48":"Þórshöfn","49":"Vopnafjörður","99999":"Other"}],
+"7":[7,"Eastern Region",{"50":"Egilsstaðir","51":"Seyðisfjörður","52":"Fáskrúðsfjörður","53":"Eskifjörður","54":"Reyðarfjörður","55":"Neskaupstaður","56":"Breiddalsvik","57":"Djupivogur","58":"Hofn","99999":"Other"}],
+"8":[8,"Southern Region",{"59":"Selfoss","60":"Hveragerði","61":"Þorlákshöfn","62":"Stokkseyri","63":"Eyrarbakki","64":"Hella","65":"Hvolsvollur","66":"Vík í Mýrdal","67":"Vestmannaeyjar","99999":"Other"}]
+}}

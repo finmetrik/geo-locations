@@ -1,0 +1,10 @@
+{"country":{"id":86,"code":"GN","name":"Guinea","phone_code":"+224"},"states":{
+"CN":[1,"Conakry",{"1":"Conakry","2":"Kaloum","3":"Dixinn","4":"Ratoma","5":"Matoto","6":"Matam","99999":"Other"}],
+"BO":[2,"Boké",{"7":"Boké","8":"Kamsar","9":"Fria","10":"Sangarédi","11":"Boffa","12":"Dabiss","13":"Koundara","14":"Gaoual","99999":"Other"}],
+"FA":[3,"Faranah",{"15":"Faranah","16":"Kissidougou","17":"Dinguiraye","18":"Dabola","99999":"Other"}],
+"KA":[4,"Kankan",{"19":"Kankan","20":"Siguiri","21":"Kouroussa","22":"Mandiana","23":"Kérouané","99999":"Other"}],
+"KI":[5,"Kindia",{"24":"Kindia","25":"Coyah","26":"Dubréka","27":"Forécariah","28":"Mamou","29":"Dalaba","30":"Pita","31":"Télimélé","99999":"Other"}],
+"LA":[6,"Labé",{"32":"Labé","33":"Koubia","34":"Lélouma","35":"Mali","36":"Tougué","99999":"Other"}],
+"MA":[7,"Mamou",{"37":"Mamou","38":"Dalaba","39":"Pita","99999":"Other"}],
+"NZ":[8,"Nzérékoré",{"40":"Nzérékoré","41":"Guéckédou","42":"Macenta","43":"Beyla","44":"Yomou","45":"Lola","99999":"Other"}]
+}}

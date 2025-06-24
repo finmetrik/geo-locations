@@ -1,0 +1,13 @@
+{"country":{"id":244,"code":"WS","name":"Samoa","phone_code":"+685"},"states":{
+"AA":[1,"A'ana",{"1":"Leulumoega","2":"Fasito'o-Uta","3":"Nofoali'i","4":"Satapuala","5":"Sataoa","6":"Vaitele","7":"Fasito'otai","8":"Samalae'ulu","9":"Leulumoega-Tuai","10":"Puipa'a","99999":"Other"}],
+"AL":[2,"Aiga-i-le-Tai",{"11":"Mulifanua","12":"Salelologa","13":"Safotu","14":"Safune","15":"Sataua","16":"Fagamalo","17":"Samauga","18":"Gautavai","19":"Vaisala","20":"Patamea","99999":"Other"}],
+"AT":[3,"Atua",{"21":"Lufilufi","22":"Solosolo","23":"Falelatai","24":"Lotofaga","25":"Aleipata","26":"Lalomanu","27":"Samusu","28":"Aufaga","29":"Tiavea","30":"Falefa","99999":"Other"}],
+"FA":[4,"Fa'asaleleaga",{"31":"Safotulafai","32":"Asau","33":"Vailoa","34":"Safune","35":"Sataua","36":"Fagamalo","37":"Samalae'ulu","38":"Matautu","39":"Aopo","40":"Vaisigano","99999":"Other"}],
+"GE":[5,"Gaga'emauga",{"41":"Saleimoa","42":"Apia","43":"Vailele","44":"Tafaigata","45":"Faleasi'u","46":"Vaiusu","47":"Vaitele","48":"Lalovaea","49":"Alafua","50":"Togafuafua","99999":"Other"}],
+"GI":[6,"Gaga'ifomauga",{"51":"Safotulafai","52":"Palauli","53":"Salelologa","54":"Safotu","55":"Sataua","56":"Fagamalo","57":"Samalae'ulu","58":"Gautavai","59":"Aopo","60":"Vaisigano","99999":"Other"}],
+"PA":[7,"Palauli",{"61":"Patamea","62":"Vailoa","63":"Sapoe","64":"Taga","65":"Sapapalii","66":"Vailoa","67":"Sataua","68":"Fagamalo","69":"Samalae'ulu","70":"Gautavai","99999":"Other"}],
+"SA":[8,"Satupa'itea",{"71":"Satupaitea","72":"Safotu","73":"Sataua","74":"Fagamalo","75":"Samalae'ulu","76":"Gautavai","77":"Aopo","78":"Vaisigano","79":"Patamea","80":"Vailoa","99999":"Other"}],
+"TU":[9,"Tuamasaga",{"81":"Apia","82":"Vailele","83":"Tafaigata","84":"Faleasi'u","85":"Vaiusu","86":"Vaitele","87":"Lalovaea","88":"Alafua","89":"Togafuafua","90":"Saleimoa","99999":"Other"}],
+"VF":[10,"Va'a-o-Fonoti",{"91":"Samamea","92":"Iva","93":"Saoluafata","94":"Lotofaga","95":"Aleipata","96":"Lalomanu","97":"Samusu","98":"Aufaga","99":"Tiavea","100":"Falefa","99999":"Other"}],
+"VS":[11,"Vaisigano",{"101":"Asau","102":"Safotulafai","103":"Safotu","104":"Sataua","105":"Fagamalo","106":"Samalae'ulu","107":"Gautavai","108":"Aopo","109":"Vaisigano","110":"Patamea","99999":"Other"}]
+}}

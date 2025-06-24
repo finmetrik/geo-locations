@@ -1,0 +1,17 @@
+{"country":{"id":131,"code":"LR","name":"Liberia","phone_code":"+231"},"states":{
+"BM":[1,"Bomi",{"1":"Tubmanburg","2":"Klay","3":"Senjeh","4":"Po River","5":"Dowein","99999":"Other"}],
+"BG":[2,"Bong",{"6":"Gbarnga","7":"Gbartala","8":"Salala","9":"Sanoyea","10":"Suakoko","11":"Totota","12":"Zota","13":"Bellefanai","14":"Kokoyah","15":"Bong Mines","99999":"Other"}],
+"GP":[3,"Gbarpolu",{"16":"Bopolu","17":"Belle","18":"Bokomu","19":"Gbarma","20":"Kongba","99999":"Other"}],
+"SI":[4,"Grand Bassa",{"21":"Buchanan","22":"Cestos City","23":"Hartford","24":"LAC","25":"Owensgrove","26":"LPRC","27":"District 1","28":"District 2","29":"District 3","30":"District 4","99999":"Other"}],
+"CM":[5,"Grand Cape Mount",{"31":"Robertsport","32":"Sinje","33":"Garwula","34":"Tieni","35":"Gola Konneh","36":"Lake","37":"Commonwealth","99999":"Other"}],
+"GG":[6,"Grand Gedeh",{"38":"Zwedru","39":"Tchien","40":"B'hai","41":"Cavalla","42":"Gbao","43":"Glio-Twarbo","44":"Konobo","45":"Putu","46":"Tienpo","99999":"Other"}],
+"GK":[7,"Grand Kru",{"47":"Barclayville","48":"Bolloh","49":"Buah","50":"Dorbor","51":"Forpoh","52":"Felo-Jekwi","53":"Gee","54":"Grand Cess Wedabo","55":"Jloh","56":"Kpi","57":"Nrokwia-Wesldeken","58":"Sasstown","59":"Trenbo","60":"Upper Jloh","61":"Wlogba","99999":"Other"}],
+"LO":[8,"Lofa",{"62":"Voinjama","63":"Foya","64":"Kolahun","65":"Vahun","66":"Zorzor","67":"Belleh","68":"Foya Kama","69":"Salayea","70":"Quardu Gboni","99999":"Other"}],
+"MG":[9,"Margibi",{"71":"Kakata","72":"Harbel","73":"Unification Town","74":"Cotton Tree","75":"Crozierville","76":"Dolo Town","77":"Marshall","78":"Schefflin","79":"Firestone District","80":"Gibi","99999":"Other"}],
+"ML":[10,"Maryland",{"81":"Harper","82":"Pleebo","83":"Karloken","84":"Barrobo","85":"Glofaken","86":"Karluway","87":"Nyaake","88":"Tuobo","89":"Whojah","99999":"Other"}],
+"MS":[11,"Montserrado",{"90":"Monrovia","91":"Bensonville","92":"Brewerville","93":"Careysburg","94":"Mambah-Kaba","95":"St. Paul River","96":"Todee","97":"White Plains","98":"Barnersville","99":"Bentol","100":"Caldwell","101":"Crozierville","102":"Garwula","103":"Gibi","104":"Harrisburg","105":"Mount Coffee","106":"New Georgia","107":"Virginia","99999":"Other"}],
+"NM":[12,"Nimba",{"108":"Sanniquellie","109":"Ganta","110":"Yekepa","111":"Saclepea","112":"Tappita","113":"Bahn","114":"Karnplay","115":"Buutuo","116":"Gbehlay-Geh","117":"Doe","118":"Garr Bain","119":"Gbei-Geh","120":"Gbi & Doru","121":"Leewehpea-Mahn","122":"Meinpea-Mahn","123":"Wee-Gbehy-Mahn","124":"Yarwein Mehnsonnoh","125":"Yarpea Mahn","126":"Zoe-Geh","99999":"Other"}],
+"RL":[13,"Rivercess",{"127":"Cestos City","128":"Yarpah Town","129":"Central RiverCess","130":"Doedain","131":"Fen River","132":"Garwee","133":"Georgee","134":"Glofaken","135":"Jo River","136":"Karwee","137":"Morweh","138":"Norwein","139":"Sam Gbalor","140":"Timbo","141":"Yarnee","142":"Zarflahn","99999":"Other"}],
+"RG":[14,"River Gee",{"143":"Fish Town","144":"Chedepo","145":"Gbeapo","146":"Glarro","147":"Karforh","148":"Nanee","149":"Nyenabo","150":"Nyenwhen","151":"Potupo","152":"Sarbo","153":"Tuobo","154":"Webbo","99999":"Other"}],
+"SN":[15,"Sinoe",{"155":"Greenville","156":"Barkon","157":"Bokon","158":"Butaw","159":"Dugbe River","160":"Gbaewin","161":"Jeadepo","162":"Juarzon","163":"Kpayan","164":"Kulu Shaw Boe","165":"Plahn Nyarn","166":"Pynes Town","167":"Sanquin","168":"Seekon","169":"Wedjah","99999":"Other"}]
+}}

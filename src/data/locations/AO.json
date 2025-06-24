@@ -1,0 +1,20 @@
+{"country":{"id":8,"code":"AO","name":"Angola","phone_code":"+244"},"states":{
+"LUA":[1,"Luanda",{"1":"Luanda","2":"Viana","3":"Cazenga","4":"Cacuaco","5":"Sequele","99999":"Other"}],
+"BEN":[2,"Benguela",{"6":"Benguela","7":"Lobito","8":"Catumbela","9":"Baia Farta","99999":"Other"}],
+"HUI":[3,"Huíla",{"10":"Lubango","11":"Humpata","12":"Chibia","13":"Caluquembe","99999":"Other"}],
+"HUA":[4,"Huambo",{"14":"Huambo","15":"Caála","16":"Bailundo","17":"Longonjo","99999":"Other"}],
+"BIE":[5,"Bié",{"18":"Kuito","19":"Andulo","20":"Catabola","21":"Camacupa","99999":"Other"}],
+"CAB":[6,"Cabinda",{"22":"Cabinda","23":"Cacongo","24":"Buco-Zau","25":"Landana","99999":"Other"}],
+"CCU":[7,"Cuando Cubango",{"26":"Menongue","27":"Cuito Cuanavale","28":"Mavinga","29":"Dirico","99999":"Other"}],
+"CNO":[8,"Cuanza Norte",{"30":"N'dalatando","31":"Cambambe","32":"Lucala","33":"Quiculungo","99999":"Other"}],
+"CUS":[9,"Cuanza Sul",{"34":"Sumbe","35":"Porto Amboim","36":"Quibala","37":"Libolo","99999":"Other"}],
+"CNN":[10,"Cunene",{"38":"Ondjiva","39":"Xangongo","40":"Cahama","41":"Cuvelai","99999":"Other"}],
+"LNO":[11,"Lunda Norte",{"42":"Lucapa","43":"Chitato","44":"Cuango","99999":"Other"}],
+"LSU":[12,"Lunda Sul",{"45":"Saurimo","46":"Muconda","47":"Cacolo","48":"Dala","99999":"Other"}],
+"MAL":[13,"Malanje",{"49":"Malanje","50":"Cacuso","51":"Calandula","52":"Cangandala","99999":"Other"}],
+"MOX":[14,"Moxico",{"53":"Luena","54":"Cazombo","55":"Alto Zambeze","56":"Luchazes","99999":"Other"}],
+"NAM":[15,"Namibe",{"57":"Namibe","58":"Tômbua","59":"Bibala","60":"Camucuio","99999":"Other"}],
+"UIG":[16,"Uíge",{"61":"Uíge","62":"Negage","63":"Bungo","64":"Damba","99999":"Other"}],
+"ZAI":[17,"Zaire",{"65":"M'banza-Kongo","66":"Soyo","67":"N'zeto","68":"Tomboco","99999":"Other"}],
+"BGO":[18,"Bengo",{"69":"Caxito","70":"Dande","71":"Ambriz","72":"Nambuangongo","99999":"Other"}]
+}}

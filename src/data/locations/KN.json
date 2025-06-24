@@ -1,0 +1,4 @@
+{"country":{"id":120,"code":"KN","name":"Saint Kitts and Nevis","phone_code":"+1"},"states":{
+"K":[1,"Saint Kitts",{"1":"Basseterre","2":"Saint Paul Capisterre","3":"Saint Peter Basseterre","4":"Saint George Basseterre","5":"Saint Anne Sandy Point","6":"Saint Thomas Middle Island","7":"Trinity Palmetto Point","8":"Saint Mary Cayon","9":"Saint John Figtree","10":"Christ Church Nichola Town","11":"Saint Thomas Lowland","12":"Saint Christopher","13":"Saint George Gingerland","14":"Saint James Windward","15":"Saint John Capisterre","99999":"Other"}],
+"N":[2,"Nevis",{"16":"Charlestown","17":"Saint Paul Charlestown","18":"Saint John Figtree","19":"Saint George Gingerland","20":"Saint Thomas Lowland","21":"Saint James Windward","99999":"Other"}]
+}}

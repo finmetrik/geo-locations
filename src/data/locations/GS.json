@@ -1,0 +1,4 @@
+{"country":{"id":90,"code":"GS","name":"South Georgia and the South Sandwich Islands","phone_code":"+500"},"states":{
+"SG":[1,"South Georgia",{"1":"King Edward Point","2":"Grytviken","3":"Leith Harbour","4":"Stromness","5":"Husvik","99999":"Other"}],
+"SI":[2,"South Sandwich Islands",{"6":"Thule Island","7":"Cook Island","8":"Bellingshausen Island","99999":"Other"}]
+}}

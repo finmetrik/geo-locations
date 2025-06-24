@@ -1,0 +1,11 @@
+{"country":{"id":93,"code":"GW","name":"Guinea-Bissau","phone_code":"+245"},"states":{
+"BS":[1,"Bissau",{"1":"Bissau","2":"Bandim","3":"Bairro Militar","4":"Antula","99999":"Other"}],
+"BA":[2,"Bafatá",{"5":"Bafatá","6":"Bambadinca","7":"Contuboel","8":"Galomaro","9":"Gamamudo","10":"Xitole","99999":"Other"}],
+"BM":[3,"Biombo",{"11":"Quinhámel","12":"Prabis","13":"Safim","99999":"Other"}],
+"BL":[4,"Bolama",{"14":"Bolama","15":"Bubaque","16":"Caravela","17":"Uno","99999":"Other"}],
+"CA":[5,"Cacheu",{"18":"Cacheu","19":"Canchungo","20":"Caió","21":"Bigene","22":"Bula","23":"São Domingos","99999":"Other"}],
+"GA":[6,"Gabú",{"24":"Gabú","25":"Pitche","26":"Pirada","27":"Sonaco","28":"Boé","99999":"Other"}],
+"OI":[7,"Oio",{"29":"Farim","30":"Bissorã","31":"Mansaba","32":"Nhacra","33":"Mansôa","99999":"Other"}],
+"QU":[8,"Quinara",{"34":"Fulacunda","35":"Tite","36":"Buba","37":"Empada","99999":"Other"}],
+"TO":[9,"Tombali",{"38":"Catió","39":"Cacine","40":"Komo","41":"Bedanda","42":"Quebo","99999":"Other"}]
+}}

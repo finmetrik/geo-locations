@@ -1,0 +1,10 @@
+{"country":{"id":19,"code":"BD","name":"Bangladesh","phone_code":"+880"},"states":{
+"DH":[1,"Dhaka",{"1":"Dhaka","2":"Gazipur","3":"Narayanganj","4":"Narsingdi","5":"Manikganj","6":"Munshiganj","7":"Faridpur","8":"Rajbari","9":"Madaripur","10":"Gopalganj","11":"Shariatpur","12":"Tangail","13":"Kishoreganj","99999":"Other"}],
+"CH":[2,"Chittagong",{"14":"Chittagong","15":"Cox's Bazar","16":"Rangamati","17":"Bandarban","18":"Khagrachhari","19":"Feni","20":"Lakshmipur","21":"Comilla","22":"Noakhali","23":"Chandpur","24":"Brahmanbaria","99999":"Other"}],
+"RA":[3,"Rajshahi",{"25":"Rajshahi","26":"Natore","27":"Naogaon","28":"Sirajganj","29":"Pabna","30":"Bogra","31":"Joypurhat","99999":"Other"}],
+"KH":[4,"Khulna",{"32":"Khulna","33":"Bagerhat","34":"Satkhira","35":"Jessore","36":"Magura","37":"Jhenaidah","38":"Narail","39":"Kushtia","40":"Chuadanga","41":"Meherpur","99999":"Other"}],
+"BA":[5,"Barishal",{"42":"Barishal","43":"Barguna","44":"Bhola","45":"Jhalokati","46":"Patuakhali","47":"Pirojpur","99999":"Other"}],
+"SY":[6,"Sylhet",{"48":"Sylhet","49":"Moulvibazar","50":"Habiganj","51":"Sunamganj","99999":"Other"}],
+"RN":[7,"Rangpur",{"52":"Rangpur","53":"Dinajpur","54":"Kurigram","55":"Nilphamari","56":"Gaibandha","57":"Thakurgaon","58":"Panchagarh","59":"Lalmonirhat","99999":"Other"}],
+"MY":[8,"Mymensingh",{"60":"Mymensingh","61":"Jamalpur","62":"Netrokona","63":"Sherpur","99999":"Other"}]
+}}
